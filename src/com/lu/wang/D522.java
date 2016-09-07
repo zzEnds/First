@@ -1,6 +1,5 @@
 package com.lu.wang;
 
-import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -10,7 +9,7 @@ import java.util.Scanner;
 /**
  * 
  * @author lu.wang
- * C. Ancient Berland Circus
+ * D. Closest Equals
  *
  */
 public class D522 {
@@ -24,76 +23,58 @@ public class D522 {
 	
 	public static void theMain() {
 		
-		List<Integer> re = new ArrayList<Integer>();
+		StringBuffer re = new StringBuffer("");
 		Scanner in=new Scanner(System.in);
+		List<Integer> aList = new ArrayList<Integer>();
+		List<Integer> queryList = new ArrayList<Integer>();
+		Map<Integer, Integer> noRepeat = new HashMap<Integer, Integer>();
+		int i, j, x, y, repeatNo, shortest, tmp;
 		
 		int n = in.nextInt();
 		int m = in.nextInt();
 		
-		List<Integer> aList = new ArrayList<Integer>();
-		Map<Integer, List<Integer>> aMap = new HashMap<Integer, List<Integer>>();
-		
-		for(int i=0; i<n; i++) {
-			int tmp = in.nextInt();
-			if(!aMap.containsKey(tmp)) {
-				List<Integer> tmpList = new ArrayList<Integer>();
-				tmpList.add(i);//position is i, be careful
-				aMap.put(tmp, tmpList);
-			} else if(aMap.containsKey(tmp)) {
-				aMap.get(tmp).add(i);//position is i, be careful
+		for(i=0; i<n; i++) {
+			int tmpoo = in.nextInt();
+			aList.add(tmpoo);
+			if(noRepeat.containsKey(tmpoo)) {
+				noRepeat.put(tmpoo, 1);
+			} else {
+				noRepeat.put(tmpoo, 0);
 			}
-			aList.add(tmp);
 		}
 		
-		int[][] queryL = new int[m][2];
-		for(int i=0; i<m; i++) {
-			queryL[i][0] = in.nextInt();
-			queryL[i][1] = in.nextInt();
+		for(i=0; i<m*2; i++) {
+			queryList.add(in.nextInt());
 		}
 		
 		
-		for(int i=0; i<m; i++) {
+		for(i=0; i<m*2; i=i+2) {
+			x = queryList.get(i);
+			y = queryList.get(i+1);
+
 			Map<Integer, Integer> repeatMap = new HashMap<Integer, Integer>();
-			int x = queryL[i][0];
-			int y = queryL[i][1];
-			int shortest = -1;
-			for(int j=x-1; j<y; j++) {
-				int aListJ = aList.get(j);
-				if(repeatMap.containsKey(aListJ)) {
+			shortest = -1;
+			for(j=x-1; j<y; j++) {
+				
+				repeatNo = aList.get(j);
+				if(noRepeat.get(repeatNo) == 0) {
 					continue;
 				}
-				repeatMap.put(aListJ, j);
-				int tmp = shortestOne(aMap.get(aListJ));
-				if((shortest < 0) || (shortest > 0 && tmp < shortest)) {
-					shortest = tmp;
+				if(!repeatMap.containsKey(repeatNo)) {
+					repeatMap.put(repeatNo, j);
+				} else {
+					tmp = j - repeatMap.get(repeatNo);
+					if(tmp == 1) { shortest = 1;break; }
+					repeatMap.put(repeatNo, j);
+					if(shortest > tmp || shortest < 0) {
+						shortest = tmp;
+					}
 				}
 			}
-			re.add(shortest);
+			re.append(shortest + "\n");
+		
 		}
-		
-		//test1
-//		n = 5;
-//		m = 3;
-//		int[] aList = {1, 1, 2, 3, 2};
-//		int[][] queryL = {{1, 5}, {2, 4}, {3, 5}};
-		
-		System.out.println(1);
+		System.out.println(re.toString());
 	}
 	
-	public static int shortestOne(List<Integer> repeatPos) {
-		int shortest = -1;
-		
-		if(repeatPos.size()<1) {
-			return shortest;
-		}
-		
-		for(int i=0; i<repeatPos.size()-1; i++) {
-			int tmp = repeatPos.get(i+1) - repeatPos.get(i);
-			if((shortest < 0) || (shortest > 0 && tmp < shortest)) {
-				shortest = tmp;
-			}
-		}
-		return shortest;
-	}
-
 }
