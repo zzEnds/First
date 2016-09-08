@@ -12,7 +12,7 @@ import java.util.Scanner;
  * D. Closest Equals
  *
  */
-public class D522 {
+public class Bak7D522 {
 	
 	public static void main(String[] args) {
 		
@@ -27,11 +27,24 @@ public class D522 {
 		Scanner in=new Scanner(System.in);
 		List<Integer> aList = new ArrayList<Integer>();
 		List<Integer> queryList = new ArrayList<Integer>();
-		int i, j, x, y, shortest, tmp;
+		Map<Integer, Integer> noRepeat = new HashMap<Integer, Integer>();
+		int i, j, x, y, repeatNo, shortest, tmp;
 		
 		int n = in.nextInt();
 		int m = in.nextInt();
 		
+//		for(i=0; i<n; i++) {
+//			int tmpoo = in.nextInt();
+//			aList.add(tmpoo);
+//			if(noRepeat.containsKey(tmpoo)) {
+//				noRepeat.put(tmpoo, (noRepeat.get(tmpoo)+1));
+//			} else {
+//				noRepeat.put(tmpoo, 1);
+//			}
+//		}
+		
+//		Map<Integer, List<Integer>> parts = new HashMap<Integer, List<Integer>>();
+//		List<Integer> chkPos = new ArrayList<Integer>();
 		Map<Integer, Integer> parts = new HashMap<Integer, Integer>();
 		int chkPos = 0;
 		List<int[]> valuePos = new ArrayList<int[]>();
@@ -47,36 +60,46 @@ public class D522 {
 					chkPos = tmp;
 					parts.put(tmpoo, i);
 				}
+//				parts.get(tmpoo).add(i);
+//				parts.put(tmpoo, parts.get(tmpoo));
+//				if(parts.get(tmpoo).get(index)chkPos) {
+//					
+//				}
 			} else {
 				parts.put(tmpoo, i);
 			}
 		}
 		
-//		for(i=0; i<m*2; i++) {
-//			queryList.add(in.nextInt());
-//		}
+		for(i=0; i<m*2; i++) {
+			queryList.add(in.nextInt());
+		}
 		
-		for(i=0; i<m; i++) {
-//			x = queryList.get(i)-1;
-//			y = queryList.get(i+1)-1;
-			x = in.nextInt()-1;
-			y = in.nextInt()-1;
-			//big and small
+		
+		for(i=0; i<m*2; i=i+2) {
+			x = queryList.get(i);
+			y = queryList.get(i+1);
+
+			Map<Integer, Integer> repeatMap = new HashMap<Integer, Integer>();
 			shortest = -1;
-			for(j=0; j<valuePos.size(); j++) {
-				int posX = valuePos.get(j)[0];
-				int posY = valuePos.get(j)[1];
-				if(posX > y) {
-					break;
+			for(j=x-1; j<y; j++) {
+				
+				repeatNo = aList.get(j);
+				if(noRepeat.get(repeatNo) == 1) {
+					continue;
 				}
-				if(posX>=x && posY<=y && (shortest == -1 || shortest>(posY-posX))) {
-					shortest = posY-posX;
-					if(shortest == 1) {
-						break;
+				if(!repeatMap.containsKey(repeatNo)) {
+					repeatMap.put(repeatNo, j);
+				} else {
+					tmp = j - repeatMap.get(repeatNo);
+					if(tmp == 1) { shortest = 1;break; }
+					repeatMap.put(repeatNo, j);
+					if(shortest > tmp || shortest < 0) {
+						shortest = tmp;
 					}
 				}
 			}
 			re.append(shortest + "\n");
+		
 		}
 		System.out.println(re.toString());
 	}
