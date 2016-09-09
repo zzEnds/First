@@ -7,6 +7,8 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
 
 /**
@@ -18,6 +20,11 @@ import java.util.Random;
 public class ReadWrite {
 	
 	public static void main(String[] args) {
+
+		Long timea = System.currentTimeMillis();//time for
+//		if(n > 10000) {
+//			System.out.println(System.currentTimeMillis()-timea);//time for
+//		}
 		
 		File testFile = new File("D:/workspace0808/ForTest/testFile", "552Dtest.txt");
 		try {
@@ -26,6 +33,7 @@ public class ReadWrite {
 			e.printStackTrace();
 		}
 		
+		/**
 		//write
 		try {
 			FileOutputStream in = new FileOutputStream(testFile);
@@ -50,24 +58,45 @@ public class ReadWrite {
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
+		*/
 		
+		List<String> list1 = new ArrayList<String>();
+		List<String> list2 = new ArrayList<String>();//3037--21584
+		List<String> listOne = new ArrayList<String>();//5698--
+//		/**
 		//read
-		/**
 		try {
 			FileInputStream out = new FileInputStream(testFile);
 			InputStreamReader isreader = new InputStreamReader(out);
 			try {
 				int ch = 0;
 				while((ch = isreader.read()) != -1) {
-					System.out.println((char)ch);
+					listOne.add(String.valueOf(ch));
 				}
+				for(int i=0; i<listOne.size()-1; i++) {
+					System.out.println(listOne.get(i));
+				}
+				
+//				int ch = 0;
+//				while((ch = isreader.read()) != -1) {
+//					list1.add(String.valueOf(ch));
+//					if((ch = isreader.read()) != -1) {
+//						list2.add(String.valueOf(ch));
+//					}
+//				}
+//				for(int i=0; i<list1.size()-1; i++) {
+//					System.out.println(list1.get(i) + list2.get(i));
+//				}
+				
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
-		 */
+//		 */
+		
+		System.out.println(System.currentTimeMillis()-timea);//time for
 	}
 	
 }
