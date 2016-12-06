@@ -6,10 +6,9 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.Collections;
+import java.util.HashSet;
 import java.util.List;
-
-import javax.management.InstanceAlreadyExistsException;
+import java.util.Set;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -20,27 +19,30 @@ public class GetDoneInfo {
 	
 	final static String ACCEPTS = "acceptIds";
 	final static String CODEFORCE = "http://codeforces.com/";
-	final static int MAX_PAGE = 1;
+	final static int MAX_PAGE = 32;//
 	final static String DIV_CLASS = "datatable";
+	final static String ENTER = "\n";
+	final static String TABLE = "\t";
+	final static String SPACE = " ";
 	final static String TAG_TR = "tr";
 	final static String TAG_TD = "td";
 	final static String TAG_A = "a";
 	
 	public static void main(String[] args) {
 		
-		List<String> ids = getAcceptIds();
+		Set<String> ids = getAcceptIds();
 		getCntOfPeople(ids);
 		
 	}
 	
-	public static List<String> getAcceptIds() {
-		String fileName = ACCEPTS;
-		List<String> idList = new ArrayList<>();
+	public static Set<String> getAcceptIds() {
+		String fileName = GetDoneInfo.class.getResource("").toString() + ACCEPTS;
+		Set<String> idList = new HashSet<>();
 		try {
-			BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(fileName)));
+			BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(fileName.replace("file:/", ""))));
 			String line;
 			while((line = br.readLine()) != null) {
-				idList.add(line.trim());
+				idList.add(line.split(TABLE)[3].split(SPACE)[0].trim());
 			}
 		} catch (Exception e) {
 			// TODO: handle exception
@@ -49,10 +51,10 @@ public class GetDoneInfo {
 		}
 	}
 	
-	public static void getCntOfPeople(List<String> ids) {
+	public static void getCntOfPeople(Set<String> ids) {
 		
 		for (int pageNo = 1; pageNo <= MAX_PAGE; pageNo++) {
-			
+//			System.out.println("pageNo: "+pageNo);
 			String urlStr = CODEFORCE + "problemset/page/"+ pageNo +"?order=BY_SOLVED_DESC";
 			try {
 				URL url = new URL(urlStr);
@@ -70,11 +72,16 @@ public class GetDoneInfo {
 					Element div = doc.getElementsByClass(DIV_CLASS).get(0);
 					List<Element> trs = div.getElementsByTag(TAG_TR);
 					for (int i = 0; i < trs.size(); i++) {
-						if(!isEmpty(trs.get(i)) && 
-								!isEmpty(trs.get(i).getElementsByTag(TAG_TD)) && 
-								!isEmpty(trs.get(i).getElementsByTag(TAG_TD).get(0).getElementsByTag(TAG_A))) {
-							String title = trs.get(i).getElementsByTag(TAG_TD).get(0).getElementsByTag(TAG_A).get(0).data();
-							System.out.println(title);
+						try {
+							if(null != trs.get(i) && !isEmpty(trs.get(i).getElementsByTag(TAG_TD)) && !isEmpty(trs.get(i).getElementsByTag(TAG_TD).get(0).getElementsByTag(TAG_A))) {
+								String title = trs.get(i).getElementsByTag(TAG_TD).get(0).getElementsByTag(TAG_A).get(0).ownText();
+								if(ids.contains(title.trim())) {
+									String submits = trs.get(i).getElementsByTag(TAG_TD).last().getElementsByTag(TAG_A).get(0).ownText().replace("x", "");//&nbsp;x
+									System.out.println(title + " : " + submits);
+								}
+							}
+						} catch (Exception e) {
+							// TODO: handle exception
 						}
 					}
 //					doc.getClass();
@@ -86,10 +93,9 @@ public class GetDoneInfo {
 		}
 	}
 	
-	public static boolean isEmpty(Object ob) {
+	public static boolean isEmpty(List ob) {
 		if(ob.getClass().isInstance(List.class)) {
-			List x = (List)ob;
-			if(null == x || 0 >= x.size()) {
+			if(null == ob || 0 >= ob.size()) {
 				return true;
 			}
 		}
