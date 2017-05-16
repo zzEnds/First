@@ -1,5 +1,7 @@
-package com.lu.wang.working;
+package com.lu.wang.solved;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 /**
@@ -28,15 +30,64 @@ public class A337 {
 	 * Help the teacher and find the least possible value of A - B.
 	 */
 	
+	public static List<Integer> sortLine = new ArrayList<Integer>();
+	
 	public static void main(String[] args) {
+		
+		a337();
+		
+	}
+	
+	public static void a337() {
+
 		
 		Scanner in = new Scanner(System.in);
 		int cntPeople = in.nextInt();
 		int cntPuzzles = in.nextInt();
-		String line = in.nextLine();
 		
+		for(int i=0; i<cntPuzzles; i++) {
+			//from bigger ones to ...
+			int input = in.nextInt();
+			if(0 == i) {
+				sortLine.add(input);
+			} else {
+
+				for(int j=0; j<i; j++) {
+					if(input > sortLine.get(j)) {
+						sortLine.add(j, input);
+						break;
+					} else if((j+1) == i) {
+						sortLine.add(input);
+					}
+				}
+//				asString(sortLine);
+			}
+		}
 		
+		int res = -1;
+		//situation: cntPuzzles - cntPeople + 1
+		int situation = cntPuzzles - cntPeople + 1;
+		for(int i=0; i<situation; i++) {
+			if((i + cntPeople) <= sortLine.size()) {
+				int tmp = sortLine.get(i) - sortLine.get(i + cntPeople - 1);
+				res = (res >= 0 && res < tmp)? res : tmp;
+			} else {
+				break;
+			}
+		}
+		
+		System.out.println(res);
 		
 	}
+	
+//	public static void asString(List<Integer> list) {
+//		
+//		System.out.println("==============Start================");
+//		for(int i=0; i<list.size(); i++) {
+//			System.out.println("No." + i + " -- " + list.get(i));
+//		}
+//		System.out.println("===============End===============");
+//		
+//	}
 	
 }
