@@ -1,9 +1,5 @@
 package com.lu.wang.working;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
 import java.util.Scanner;
 
 /**
@@ -22,8 +18,6 @@ public class A580 {
 	 * A subsegment of numbers is called non-decreasing if all numbers in it follow in the non-decreasing order.
 	 */
 	
-	public static List<Integer> line = new ArrayList<Integer>();
-	public static Map<Integer, Integer> lineMap = new HashMap<Integer, Integer>();
 	
 	public static void main(String[] args) {
 		
@@ -33,23 +27,73 @@ public class A580 {
 	
 	public static void codeforces() {
 
+
 		
 		Scanner in = new Scanner(System.in);
-		StringBuffer sb = new StringBuffer();
 		int cnt = in.nextInt();
+		
+		int res = 1;
+		int lastOne = 0;
+		int len = 0;
 		
 		for(int i=0; i<cnt; i++) {
 			int tmp = in.nextInt();
-			lineMap.put(tmp, i);
+			
+			if(lastOne <= tmp) {
+				len++;
+				
+			} else {
+				if(res < len) {
+					res = len;
+					len = 1;
+				}
+			}
+			
+			lastOne = tmp;
 		}
 		
-		for(int i=0; i<cnt; i++) {
-			sb.append(lineMap.get(i+1) + 1 + " ");
+		if(res < len) {
+			res = len;
 		}
-		sb.deleteCharAt(sb.length()-1);
-		System.out.println(sb.toString());
 		
+		System.out.println(res);
+		
+	
 	}
+	
+//	public static void codeforces() {
+//
+//		
+//		Scanner in = new Scanner(System.in);
+//		int cnt = in.nextInt();
+//		
+//		int res = 1;
+//		int lastOne = 0;
+//		int len = 0;
+//		
+//		for(int i=0; i<cnt; i++) {
+//			int tmp = in.nextInt();
+//			
+//			if(lastOne <= tmp) {
+//				len++;
+//				
+//			} else {
+//				if(res < len) {
+//					res = len;
+//					len = 1;
+//				}
+//			}
+//			
+//			lastOne = tmp;
+//		}
+//		
+//		if(res < len) {
+//			res = len;
+//		}
+//		
+//		System.out.println(res);
+//		
+//	}
 	
 	
 }
