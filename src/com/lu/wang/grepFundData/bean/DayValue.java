@@ -4,17 +4,17 @@ import java.math.BigDecimal;
 
 public class DayValue {
 	
-	private Integer id;
-	private BigDecimal accuWorth;
-	private BigDecimal unitWorth;
-	private float dailyGrowthRate;
+	private String date;
+	private BigDecimal accuWorth;//累计净值
+	private BigDecimal unitWorth;//单位净值
+	private float dailyGrowthRate;//日增长率
 	
 	
-	public Integer getId() {
-		return id;
+	public String getDate() {
+		return date;
 	}
-	public void setId(Integer id) {
-		this.id = id;
+	public void setDate(String date) {
+		this.date = date;
 	}
 	public BigDecimal getAccuWorth() {
 		return accuWorth;

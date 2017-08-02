@@ -10,6 +10,7 @@ public class Constants {
 		public final static String DIV = "div";
 		public final static String TD = "td";
 		public final static String TR = "tr";
+		public final static String TBODY = "tbody";
 		
 	}
 	public static class htmlAttr {
