@@ -1,0 +1,143 @@
+Wed Aug 02 23:46:14 CST 2017
+Fund Name: 301 . 南方中证500原材料ETF
+Fund id : 512340 --【pageNo:11, maxPage: 11, (i+1): 45, trs.size: 50  --】
+Fund id : 512340 --【pageNo:11, maxPage: 11, (i+1): 46, trs.size: 50  --】
+Fund id : 512340 --【pageNo:11, maxPage: 11, (i+1): 47, trs.size: 50  --】
+Fund id : 512340 --【pageNo:11, maxPage: 11, (i+1): 48, trs.size: 50  --】
+T^T  51.8552300%  T^T
+Fund Name: 302 . 嘉实事件驱动股票
+Fund id : 001416 --【pageNo:10, maxPage: 10, (i+1): 35, trs.size: 45  --】
+Fund id : 001416 --【pageNo:10, maxPage: 10, (i+1): 36, trs.size: 45  --】
+Fund id : 001416 --【pageNo:10, maxPage: 10, (i+1): 37, trs.size: 45  --】
+Fund id : 001416 --【pageNo:10, maxPage: 10, (i+1): 38, trs.size: 45  --】
+Fund id : 001416 --【pageNo:10, maxPage: 10, (i+1): 39, trs.size: 45  --】
+Fund id : 001416 --【pageNo:10, maxPage: 10, (i+1): 40, trs.size: 45  --】
+Fund id : 001416 --【pageNo:10, maxPage: 10, (i+1): 41, trs.size: 45  --】
+Fund id : 001416 --【pageNo:10, maxPage: 10, (i+1): 42, trs.size: 45  --】
+Fund id : 001416 --【pageNo:10, maxPage: 10, (i+1): 43, trs.size: 45  --】
+Fund id : 001416 --【pageNo:10, maxPage: 10, (i+1): 44, trs.size: 45  --】
+T^T  35.4935200%  T^T
+Fund Name: 303 . 建信信息产业股票
+Fund id : 001070 --【pageNo:11, maxPage: 11, (i+1): 24, trs.size: 38  --】
+Fund id : 001070 --【pageNo:11, maxPage: 11, (i+1): 25, trs.size: 38  --】
+Fund id : 001070 --【pageNo:11, maxPage: 11, (i+1): 26, trs.size: 38  --】
+Fund id : 001070 --【pageNo:11, maxPage: 11, (i+1): 27, trs.size: 38  --】
+Fund id : 001070 --【pageNo:11, maxPage: 11, (i+1): 28, trs.size: 38  --】
+Fund id : 001070 --【pageNo:11, maxPage: 11, (i+1): 29, trs.size: 38  --】
+Fund id : 001070 --【pageNo:11, maxPage: 11, (i+1): 30, trs.size: 38  --】
+Fund id : 001070 --【pageNo:11, maxPage: 11, (i+1): 31, trs.size: 38  --】
+Fund id : 001070 --【pageNo:11, maxPage: 11, (i+1): 32, trs.size: 38  --】
+Fund id : 001070 --【pageNo:11, maxPage: 11, (i+1): 34, trs.size: 38  --】
+Fund id : 001070 --【pageNo:11, maxPage: 11, (i+1): 35, trs.size: 38  --】
+Fund id : 001070 --【pageNo:11, maxPage: 11, (i+1): 37, trs.size: 38  --】
+T^T  36.4157700%  T^T
+Fund Name: 304 . 国泰互联网+股票
+Fund id : 001542 --【pageNo:10, maxPage: 10, (i+1): 17, trs.size: 22  --】
+Fund id : 001542 --【pageNo:10, maxPage: 10, (i+1): 18, trs.size: 22  --】
+Fund id : 001542 --【pageNo:10, maxPage: 10, (i+1): 19, trs.size: 22  --】
+Fund id : 001542 --【pageNo:10, maxPage: 10, (i+1): 20, trs.size: 22  --】
+Fund id : 001542 --【pageNo:10, maxPage: 10, (i+1): 21, trs.size: 22  --】
+T^T  47.2477100%  T^T
+Fund Name: 305 . 前海开源强势共识100强股票
+Fund id : 001849 --【pageNo:8, maxPage: 9, (i+1): 50, trs.size: 50  --】
+(⊙_⊙)  19.5436500%  (⊙_⊙)
+Fund Name: 306 . 华泰柏瑞中证500ETF联接
+Fund id : 001214 --【pageNo:11, maxPage: 11, (i+1): 24, trs.size: 30  --】
+Fund id : 001214 --【pageNo:11, maxPage: 11, (i+1): 26, trs.size: 30  --】
+Fund id : 001214 --【pageNo:11, maxPage: 11, (i+1): 27, trs.size: 30  --】
+Fund id : 001214 --【pageNo:11, maxPage: 11, (i+1): 28, trs.size: 30  --】
+Fund id : 001214 --【pageNo:11, maxPage: 11, (i+1): 29, trs.size: 30  --】
+T^T  52.7300500%  T^T
+Fund Name: 307 . 博时上证50ETF
+Fund id : 510710 --【pageNo:11, maxPage: 11, (i+1): 24, trs.size: 29  --】
+Fund id : 510710 --【pageNo:11, maxPage: 11, (i+1): 26, trs.size: 29  --】
+Fund id : 510710 --【pageNo:11, maxPage: 11, (i+1): 27, trs.size: 29  --】
+Fund id : 510710 --【pageNo:11, maxPage: 11, (i+1): 28, trs.size: 29  --】
+T^T  69.1831100%  T^T
+Fund Name: 308 . 中融一带一路分级
+Fund id : 168201 --【pageNo:11, maxPage: 11, (i+1): 40, trs.size: 42  --】
+T^T  52.8787900%  T^T
+Fund Name: 309 . 天弘中证休闲娱乐指数A
+Fund id : 001611 --【pageNo:10, maxPage: 10, (i+1): 40, trs.size: 41  --】
+T^T  43.2787500%  T^T
+Fund Name: 310 . 天弘中证食品饮料指数C
+Fund id : 001632 --【pageNo:10, maxPage: 10, (i+1): 40, trs.size: 41  --】
+T^T  34.3171100%  T^T
+Fund Name: 311 . 国泰央企改革股票
+Fund id : 001626 --【pageNo:10, maxPage: 10, (i+1): 5, trs.size: 9  --】
+Fund id : 001626 --【pageNo:10, maxPage: 10, (i+1): 6, trs.size: 9  --】
+Fund id : 001626 --【pageNo:10, maxPage: 10, (i+1): 7, trs.size: 9  --】
+T^T  37.9111800%  T^T
+Fund Name: 312 . 华安创业板50指数分级
+Fund id : 160420 --【pageNo:11, maxPage: 11, (i+1): 3, trs.size: 6  --】
+Fund id : 160420 --【pageNo:11, maxPage: 11, (i+1): 4, trs.size: 6  --】
+Fund id : 160420 --【pageNo:11, maxPage: 11, (i+1): 5, trs.size: 6  --】
+T^T  39.9403400%  T^T
+Fund Name: 313 . 鹏华新丝路分级
+Fund id : 502026 --【pageNo:10, maxPage: 10, (i+1): 25, trs.size: 28  --】
+T^T  35.7575800%  T^T
+Fund Name: 314 . 方正富邦保险主题指数分级
+Fund id : 167301 --【pageNo:10, maxPage: 10, (i+1): 35, trs.size: 37  --】
+Fund id : 167301 --【pageNo:10, maxPage: 10, (i+1): 36, trs.size: 37  --】
+T^T  38.8844000%  T^T
+Fund Name: 315 . 交银中证互联网金融指数分级
+Fund id : 164907 --【pageNo:11, maxPage: 11, (i+1): 8, trs.size: 12  --】
+Fund id : 164907 --【pageNo:11, maxPage: 11, (i+1): 9, trs.size: 12  --】
+Fund id : 164907 --【pageNo:11, maxPage: 11, (i+1): 11, trs.size: 12  --】
+T^T  48.8195600%  T^T
+Fund Name: 316 . 华宝兴业制造
+Fund id : 000866 --【pageNo:13, maxPage: 13, (i+1): 7, trs.size: 16  --】
+Fund id : 000866 --【pageNo:13, maxPage: 13, (i+1): 8, trs.size: 16  --】
+Fund id : 000866 --【pageNo:13, maxPage: 13, (i+1): 9, trs.size: 16  --】
+Fund id : 000866 --【pageNo:13, maxPage: 13, (i+1): 10, trs.size: 16  --】
+Fund id : 000866 --【pageNo:13, maxPage: 13, (i+1): 11, trs.size: 16  --】
+Fund id : 000866 --【pageNo:13, maxPage: 13, (i+1): 12, trs.size: 16  --】
+Fund id : 000866 --【pageNo:13, maxPage: 13, (i+1): 13, trs.size: 16  --】
+Fund id : 000866 --【pageNo:13, maxPage: 13, (i+1): 14, trs.size: 16  --】
+Fund id : 000866 --【pageNo:13, maxPage: 13, (i+1): 15, trs.size: 16  --】
+T^T  54.6319500%  T^T
+Fund Name: 317 . 鹏华环保分级
+Fund id : 160634 --【pageNo:11, maxPage: 11, (i+1): 19, trs.size: 20  --】
+T^T  53.6639500%  T^T
+Fund Name: 318 . 鹏华互联网分级
+Fund id : 160636 --【pageNo:11, maxPage: 11, (i+1): 20, trs.size: 21  --】
+T^T  57.9124600%  T^T
+Fund Name: 319 . 中欧沪深300指数增强A
+T^T  61.9254600%  T^T
+Fund Name: 320 . 长城久泰沪深300指数
+T^T  88.2387000%  T^T
+Fund Name: 321 . 上投摩根医疗健康股票
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:206)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.util.zip.InflaterInputStream.fill(Unknown Source)
+	at java.util.zip.InflaterInputStream.read(Unknown Source)
+	at java.util.zip.GZIPInputStream.read(Unknown Source)
+	at org.apache.http.client.entity.LazyDecompressingInputStream.read(LazyDecompressingInputStream.java:70)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.Reader.read(Unknown Source)
+	at org.apache.http.util.EntityUtils.toString(EntityUtils.java:225)
+	at org.apache.http.util.EntityUtils.toString(EntityUtils.java:306)
+	at com.lu.wang.grepFundData.GrepIds.pickRawData(GrepIds.java:163)
+	at com.lu.wang.grepFundData.GrepIds.pickData(GrepIds.java:144)
+	at com.lu.wang.grepFundData.GrepIds.getTable(GrepIds.java:87)
+	at com.lu.wang.grepFundData.GrepIds.getFundInfo(GrepIds.java:70)
+	at com.lu.wang.grepFundData.GrepIds.main(GrepIds.java:303)
+Empty page of No. 【page=4&per=50】
+Exception in thread "main" java.lang.NullPointerException
+	at org.jsoup.parser.CharacterReader.<init>(CharacterReader.java:16)
+	at org.jsoup.parser.TreeBuilder.initialiseParse(TreeBuilder.java:43)
+	at org.jsoup.parser.TreeBuilder.parse(TreeBuilder.java:51)
+	at org.jsoup.parser.Parser.parse(Parser.java:24)
+	at org.jsoup.Jsoup.parse(Jsoup.java:44)
+	at com.lu.wang.grepFundData.GrepIds.analyzeDailyHTMLByString(GrepIds.java:192)
+	at com.lu.wang.grepFundData.GrepIds.getFundInfo(GrepIds.java:72)
+	at com.lu.wang.grepFundData.GrepIds.main(GrepIds.java:303)

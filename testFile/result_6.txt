@@ -1,0 +1,424 @@
+Thu Aug 03 16:44:03 CST 2017
+Fund Name: 321 . 上投摩根医疗健康股票
+Fund id : 001766 --【pageNo:9, maxPage: 9, (i+1): 15, trs.size: 21  --】
+Fund id : 001766 --【pageNo:9, maxPage: 9, (i+1): 16, trs.size: 21  --】
+Fund id : 001766 --【pageNo:9, maxPage: 9, (i+1): 17, trs.size: 21  --】
+Fund id : 001766 --【pageNo:9, maxPage: 9, (i+1): 18, trs.size: 21  --】
+Fund id : 001766 --【pageNo:9, maxPage: 9, (i+1): 19, trs.size: 21  --】
+Fund id : 001766 --【pageNo:9, maxPage: 9, (i+1): 20, trs.size: 21  --】
+T^T  31.9806800%  T^T
+Fund Name: 322 . 天弘中证全指房地产A
+Fund id : 001556 --【pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --】
+T^T  33.4127000%  T^T
+Fund Name: 323 . 天弘中证全指运输A
+Fund id : 001554 --【pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --】
+T^T  43.7700000%  T^T
+Fund Name: 324 . 天弘中证全指运输C
+Fund id : 001555 --【pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --】
+T^T  43.8900000%  T^T
+Fund Name: 325 . 天弘中证大宗商品股票指数A
+Fund id : 001558 --【pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --】
+T^T  40.7500000%  T^T
+Fund Name: 326 . 前海开源优势蓝筹股票C
+T^T  30.8231200%  T^T
+Fund Name: 327 . 广发中证全指金融地产联接A
+Fund id : 001469 --【pageNo:10, maxPage: 11, (i+1): 50, trs.size: 50  --】
+T^T  29.4272100%  T^T
+Fund Name: 328 . 汇添富深证300ETF
+T^T  67.4620000%  T^T
+Fund Name: 329 . 安信沪深300增强发起式C
+Fund id : 003262 --【pageNo:4, maxPage: 4, (i+1): 29, trs.size: 39  --】
+Fund id : 003262 --【pageNo:4, maxPage: 4, (i+1): 30, trs.size: 39  --】
+Fund id : 003262 --【pageNo:4, maxPage: 4, (i+1): 31, trs.size: 39  --】
+Fund id : 003262 --【pageNo:4, maxPage: 4, (i+1): 32, trs.size: 39  --】
+Fund id : 003262 --【pageNo:4, maxPage: 4, (i+1): 33, trs.size: 39  --】
+Fund id : 003262 --【pageNo:4, maxPage: 4, (i+1): 34, trs.size: 39  --】
+Fund id : 003262 --【pageNo:4, maxPage: 4, (i+1): 35, trs.size: 39  --】
+Fund id : 003262 --【pageNo:4, maxPage: 4, (i+1): 36, trs.size: 39  --】
+Fund id : 003262 --【pageNo:4, maxPage: 4, (i+1): 37, trs.size: 39  --】
+Fund id : 003262 --【pageNo:4, maxPage: 4, (i+1): 38, trs.size: 39  --】
+(⊙_⊙)  13.6533300%  (⊙_⊙)
+Fund Name: 330 . 农银信息传媒股票
+Fund id : 001319 --【pageNo:10, maxPage: 11, (i+1): 46, trs.size: 50  --】
+Fund id : 001319 --【pageNo:10, maxPage: 11, (i+1): 47, trs.size: 50  --】
+Fund id : 001319 --【pageNo:10, maxPage: 11, (i+1): 48, trs.size: 50  --】
+Fund id : 001319 --【pageNo:10, maxPage: 11, (i+1): 49, trs.size: 50  --】
+Fund id : 001319 --【pageNo:10, maxPage: 11, (i+1): 50, trs.size: 50  --】
+Fund id : 001319 --【pageNo:11, maxPage: 11, (i+1): 1, trs.size: 2  --】
+T^T  34.7477500%  T^T
+Fund Name: 331 . 长信量化多策略股票A
+Fund id : 519965 --【pageNo:10, maxPage: 11, (i+1): 50, trs.size: 50  --】
+T^T  42.8785600%  T^T
+Fund Name: 332 . 富国中证500
+T^T  75.3669400%  T^T
+Fund Name: 333 . 国投沪深300金融地产联接
+T^T  60.3717600%  T^T
+Fund Name: 334 . 鹏华创业板分级
+Fund id : 160637 --【pageNo:11, maxPage: 11, (i+1): 25, trs.size: 26  --】
+T^T  43.4014900%  T^T
+Fund Name: 335 . 工银养老产业股票
+Fund id : 001171 --【pageNo:11, maxPage: 12, (i+1): 49, trs.size: 50  --】
+Fund id : 001171 --【pageNo:11, maxPage: 12, (i+1): 50, trs.size: 50  --】
+T^T  52.2804100%  T^T
+Fund Name: 336 . 广发医药卫生联接A
+Fund id : 001180 --【pageNo:11, maxPage: 11, (i+1): 36, trs.size: 40  --】
+Fund id : 001180 --【pageNo:11, maxPage: 11, (i+1): 37, trs.size: 40  --】
+Fund id : 001180 --【pageNo:11, maxPage: 11, (i+1): 38, trs.size: 40  --】
+Fund id : 001180 --【pageNo:11, maxPage: 11, (i+1): 39, trs.size: 40  --】
+T^T  46.9490600%  T^T
+Fund Name: 337 . 中银沪深300等权重指数
+T^T  64.7205000%  T^T
+Fund Name: 338 . 申万菱信沪深300价值指数
+T^T  60.2179200%  T^T
+Fund Name: 339 . 景顺长城优质成长
+T^T  60.3740800%  T^T
+Fund Name: 340 . 国投瑞银深证100指数
+T^T  63.1186800%  T^T
+Fund Name: 341 . 汇丰晋信智造先锋股票C
+T^T  27.4019700%  T^T
+Fund Name: 342 . 汇丰晋信智造先锋股票A
+T^T  27.8791200%  T^T
+Fund Name: 343 . 信诚中证智能家居指数分级
+Fund id : 165524 --【pageNo:11, maxPage: 11, (i+1): 5, trs.size: 9  --】
+Fund id : 165524 --【pageNo:11, maxPage: 11, (i+1): 6, trs.size: 9  --】
+Fund id : 165524 --【pageNo:11, maxPage: 11, (i+1): 7, trs.size: 9  --】
+Fund id : 165524 --【pageNo:11, maxPage: 11, (i+1): 8, trs.size: 9  --】
+T^T  52.7301100%  T^T
+Fund Name: 344 . 长盛中证申万一带一路分级
+Fund id : 502013 --【pageNo:11, maxPage: 11, (i+1): 29, trs.size: 30  --】
+T^T  50.4410600%  T^T
+Fund Name: 345 . 南方中证500信息技术联接C
+(⊙_⊙)  14.0730900%  (⊙_⊙)
+Fund Name: 346 . 大成中证红利指数
+T^T  66.2746900%  T^T
+Fund Name: 347 . 银华中国梦30股票
+Fund id : 001163 --【pageNo:11, maxPage: 11, (i+1): 5, trs.size: 17  --】
+Fund id : 001163 --【pageNo:11, maxPage: 11, (i+1): 6, trs.size: 17  --】
+Fund id : 001163 --【pageNo:11, maxPage: 11, (i+1): 7, trs.size: 17  --】
+Fund id : 001163 --【pageNo:11, maxPage: 11, (i+1): 8, trs.size: 17  --】
+Fund id : 001163 --【pageNo:11, maxPage: 11, (i+1): 9, trs.size: 17  --】
+Fund id : 001163 --【pageNo:11, maxPage: 11, (i+1): 10, trs.size: 17  --】
+Fund id : 001163 --【pageNo:11, maxPage: 11, (i+1): 11, trs.size: 17  --】
+Fund id : 001163 --【pageNo:11, maxPage: 11, (i+1): 12, trs.size: 17  --】
+Fund id : 001163 --【pageNo:11, maxPage: 11, (i+1): 13, trs.size: 17  --】
+Fund id : 001163 --【pageNo:11, maxPage: 11, (i+1): 14, trs.size: 17  --】
+Fund id : 001163 --【pageNo:11, maxPage: 11, (i+1): 15, trs.size: 17  --】
+T^T  41.6733100%  T^T
+Fund Name: 348 . 华润元大中创100ETF
+Fund id : 159942 --【pageNo:11, maxPage: 11, (i+1): 17, trs.size: 25  --】
+Fund id : 159942 --【pageNo:11, maxPage: 11, (i+1): 18, trs.size: 25  --】
+Fund id : 159942 --【pageNo:11, maxPage: 11, (i+1): 19, trs.size: 25  --】
+Fund id : 159942 --【pageNo:11, maxPage: 11, (i+1): 22, trs.size: 25  --】
+Fund id : 159942 --【pageNo:11, maxPage: 11, (i+1): 23, trs.size: 25  --】
+Fund id : 159942 --【pageNo:11, maxPage: 11, (i+1): 24, trs.size: 25  --】
+T^T  70.2734800%  T^T
+Fund Name: 349 . 博时中证淘金大数据100A
+Fund id : 001242 --【pageNo:11, maxPage: 11, (i+1): 32, trs.size: 37  --】
+Fund id : 001242 --【pageNo:11, maxPage: 11, (i+1): 33, trs.size: 37  --】
+Fund id : 001242 --【pageNo:11, maxPage: 11, (i+1): 34, trs.size: 37  --】
+Fund id : 001242 --【pageNo:11, maxPage: 11, (i+1): 35, trs.size: 37  --】
+Fund id : 001242 --【pageNo:11, maxPage: 11, (i+1): 36, trs.size: 37  --】
+T^T  53.9794100%  T^T
+Fund Name: 350 . 易方达上证50指数分级
+Fund id : 502048 --【pageNo:12, maxPage: 12, (i+1): 13, trs.size: 14  --】
+T^T  53.3453900%  T^T
+Fund Name: 351 . 华泰柏瑞中证500ETF
+Fund id : 512510 --【pageNo:11, maxPage: 11, (i+1): 25, trs.size: 32  --】
+Fund id : 512510 --【pageNo:11, maxPage: 11, (i+1): 27, trs.size: 32  --】
+Fund id : 512510 --【pageNo:11, maxPage: 11, (i+1): 28, trs.size: 32  --】
+Fund id : 512510 --【pageNo:11, maxPage: 11, (i+1): 29, trs.size: 32  --】
+Fund id : 512510 --【pageNo:11, maxPage: 11, (i+1): 30, trs.size: 32  --】
+Fund id : 512510 --【pageNo:11, maxPage: 11, (i+1): 31, trs.size: 32  --】
+T^T  56.5005700%  T^T
+Fund Name: 352 . 诺安低碳经济股票
+Fund id : 001208 --【pageNo:11, maxPage: 11, (i+1): 24, trs.size: 35  --】
+Fund id : 001208 --【pageNo:11, maxPage: 11, (i+1): 25, trs.size: 35  --】
+Fund id : 001208 --【pageNo:11, maxPage: 11, (i+1): 26, trs.size: 35  --】
+T^T  39.6135300%  T^T
+Fund Name: 353 . 南方中证高铁产业指数分级
+Fund id : 160135 --【pageNo:11, maxPage: 11, (i+1): 19, trs.size: 22  --】
+Fund id : 160135 --【pageNo:11, maxPage: 11, (i+1): 21, trs.size: 22  --】
+T^T  57.6098300%  T^T
+Fund Name: 354 . 鹏华高铁分级
+Fund id : 160639 --【pageNo:11, maxPage: 11, (i+1): 34, trs.size: 35  --】
+T^T  49.0472200%  T^T
+Fund Name: 355 . 鹏华新能源分级
+T^T  47.4048400%  T^T
+Fund Name: 356 . 鹏华钢铁分级
+Fund id : 502023 --【pageNo:10, maxPage: 10, (i+1): 25, trs.size: 28  --】
+T^T  28.4143000%  T^T
+Fund Name: 357 . 天弘中证高端装备制造C
+T^T  40.3889500%  T^T
+Fund Name: 358 . 广发中证全指原材料ETF
+Fund id : 159944 --【pageNo:11, maxPage: 11, (i+1): 10, trs.size: 14  --】
+T^T  38.5913100%  T^T
+Fund Name: 359 . 广发中证全指能源ETF
+Fund id : 159945 --【pageNo:11, maxPage: 11, (i+1): 10, trs.size: 14  --】
+T^T  44.9327000%  T^T
+Fund Name: 360 . 申万菱信申万医药生物分级
+Fund id : 163118 --【pageNo:11, maxPage: 11, (i+1): 10, trs.size: 14  --】
+Fund id : 163118 --【pageNo:11, maxPage: 11, (i+1): 13, trs.size: 14  --】
+T^T  29.9346600%  T^T
+Fund Name: 361 . 建信互联网+产业升级股票
+Fund id : 001396 --【pageNo:10, maxPage: 11, (i+1): 45, trs.size: 50  --】
+Fund id : 001396 --【pageNo:10, maxPage: 11, (i+1): 46, trs.size: 50  --】
+Fund id : 001396 --【pageNo:10, maxPage: 11, (i+1): 47, trs.size: 50  --】
+Fund id : 001396 --【pageNo:10, maxPage: 11, (i+1): 48, trs.size: 50  --】
+Fund id : 001396 --【pageNo:10, maxPage: 11, (i+1): 49, trs.size: 50  --】
+Fund id : 001396 --【pageNo:10, maxPage: 11, (i+1): 50, trs.size: 50  --】
+T^T  34.8000000%  T^T
+Fund Name: 362 . 广发养老指数A
+Fund id : 000968 --【pageNo:12, maxPage: 12, (i+1): 44, trs.size: 47  --】
+Fund id : 000968 --【pageNo:12, maxPage: 12, (i+1): 45, trs.size: 47  --】
+Fund id : 000968 --【pageNo:12, maxPage: 12, (i+1): 46, trs.size: 47  --】
+T^T  50.9956600%  T^T
+Fund Name: 363 . 西部利得中证500等权重分级
+T^T  53.0326600%  T^T
+Fund Name: 364 . 申万菱信申万传媒分级
+Fund id : 163117 --【pageNo:11, maxPage: 11, (i+1): 27, trs.size: 29  --】
+Fund id : 163117 --【pageNo:11, maxPage: 11, (i+1): 28, trs.size: 29  --】
+T^T  51.8613400%  T^T
+Fund Name: 365 . 交银中证环境治理(LOF)
+Fund id : 164908 --【pageNo:10, maxPage: 10, (i+1): 27, trs.size: 29  --】
+T^T  36.8207600%  T^T
+Fund Name: 366 . 建信网金融分级
+Fund id : 165315 --【pageNo:10, maxPage: 10, (i+1): 35, trs.size: 37  --】
+T^T  40.0757500%  T^T
+Fund Name: 367 . 申万菱信申万电子分级
+T^T  43.1947300%  T^T
+Fund Name: 368 . 博时中证800证券保险分级
+Fund id : 160516 --【pageNo:11, maxPage: 11, (i+1): 40, trs.size: 41  --】
+T^T  53.5015900%  T^T
+Fund Name: 369 . 富国中证煤炭指数分级
+Fund id : 161032 --【pageNo:11, maxPage: 11, (i+1): 15, trs.size: 17  --】
+T^T  54.4776100%  T^T
+Fund Name: 370 . 南方中证500信息技术ETF
+Fund id : 512330 --【pageNo:10, maxPage: 11, (i+1): 50, trs.size: 50  --】
+Fund id : 512330 --【pageNo:11, maxPage: 11, (i+1): 2, trs.size: 5  --】
+Fund id : 512330 --【pageNo:11, maxPage: 11, (i+1): 3, trs.size: 5  --】
+T^T  37.7573800%  T^T
+Fund Name: 371 . 招商中证白酒指数分级
+Fund id : 161725 --【pageNo:11, maxPage: 11, (i+1): 30, trs.size: 32  --】
+Fund id : 161725 --【pageNo:11, maxPage: 11, (i+1): 31, trs.size: 32  --】
+T^T  51.2473300%  T^T
+Fund Name: 372 . 金鹰量化精选股票(LOF)
+T^T  69.6048300%  T^T
+Fund Name: 373 . 天弘创业板C
+T^T  44.0503500%  T^T
+Fund Name: 374 . 工银中证高铁产业指数分级
+Fund id : 164820 --【pageNo:10, maxPage: 10, (i+1): 38, trs.size: 42  --】
+Fund id : 164820 --【pageNo:10, maxPage: 10, (i+1): 39, trs.size: 42  --】
+Fund id : 164820 --【pageNo:10, maxPage: 10, (i+1): 40, trs.size: 42  --】
+T^T  49.1381500%  T^T
+Fund Name: 375 . 工银中证新能源指数分级
+Fund id : 164821 --【pageNo:10, maxPage: 10, (i+1): 40, trs.size: 45  --】
+Fund id : 164821 --【pageNo:10, maxPage: 10, (i+1): 42, trs.size: 45  --】
+Fund id : 164821 --【pageNo:10, maxPage: 10, (i+1): 43, trs.size: 45  --】
+T^T  51.1061400%  T^T
+Fund Name: 376 . 国泰国证食品饮料行业指数分级
+Fund id : 160222 --【pageNo:14, maxPage: 14, (i+1): 23, trs.size: 27  --】
+Fund id : 160222 --【pageNo:14, maxPage: 14, (i+1): 24, trs.size: 27  --】
+Fund id : 160222 --【pageNo:14, maxPage: 14, (i+1): 25, trs.size: 27  --】
+T^T  57.7237900%  T^T
+Fund Name: 377 . 信达澳银新能源产业股票
+Fund id : 001410 --【pageNo:10, maxPage: 10, (i+1): 25, trs.size: 29  --】
+Fund id : 001410 --【pageNo:10, maxPage: 10, (i+1): 26, trs.size: 29  --】
+Fund id : 001410 --【pageNo:10, maxPage: 10, (i+1): 28, trs.size: 29  --】
+T^T  42.3272700%  T^T
+Fund Name: 378 . 汇添富国企创新股票
+Fund id : 001490 --【pageNo:9, maxPage: 10, (i+1): 50, trs.size: 50  --】
+Fund id : 001490 --【pageNo:10, maxPage: 10, (i+1): 1, trs.size: 12  --】
+Fund id : 001490 --【pageNo:10, maxPage: 10, (i+1): 2, trs.size: 12  --】
+Fund id : 001490 --【pageNo:10, maxPage: 10, (i+1): 3, trs.size: 12  --】
+Fund id : 001490 --【pageNo:10, maxPage: 10, (i+1): 4, trs.size: 12  --】
+Fund id : 001490 --【pageNo:10, maxPage: 10, (i+1): 5, trs.size: 12  --】
+Fund id : 001490 --【pageNo:10, maxPage: 10, (i+1): 6, trs.size: 12  --】
+Fund id : 001490 --【pageNo:10, maxPage: 10, (i+1): 7, trs.size: 12  --】
+Fund id : 001490 --【pageNo:10, maxPage: 10, (i+1): 8, trs.size: 12  --】
+Fund id : 001490 --【pageNo:10, maxPage: 10, (i+1): 9, trs.size: 12  --】
+Fund id : 001490 --【pageNo:10, maxPage: 10, (i+1): 10, trs.size: 12  --】
+Fund id : 001490 --【pageNo:10, maxPage: 10, (i+1): 11, trs.size: 12  --】
+T^T  29.5713000%  T^T
+Fund Name: 379 . 华宝上证180联接
+T^T  60.1681600%  T^T
+Fund Name: 380 . 汇丰晋信消费红利
+T^T  57.7170300%  T^T
+Fund Name: 381 . 国寿安保智慧生活股票
+Fund id : 001672 --【pageNo:9, maxPage: 10, (i+1): 49, trs.size: 50  --】
+Fund id : 001672 --【pageNo:9, maxPage: 10, (i+1): 50, trs.size: 50  --】
+Fund id : 001672 --【pageNo:10, maxPage: 10, (i+1): 1, trs.size: 4  --】
+Fund id : 001672 --【pageNo:10, maxPage: 10, (i+1): 2, trs.size: 4  --】
+T^T  25.9729900%  T^T
+Fund Name: 382 . 富国高端制造行业股票
+Fund id : 000513 --【pageNo:15, maxPage: 15, (i+1): 35, trs.size: 42  --】
+Fund id : 000513 --【pageNo:15, maxPage: 15, (i+1): 36, trs.size: 42  --】
+Fund id : 000513 --【pageNo:15, maxPage: 15, (i+1): 37, trs.size: 42  --】
+Fund id : 000513 --【pageNo:15, maxPage: 15, (i+1): 38, trs.size: 42  --】
+Fund id : 000513 --【pageNo:15, maxPage: 15, (i+1): 39, trs.size: 42  --】
+Fund id : 000513 --【pageNo:15, maxPage: 15, (i+1): 41, trs.size: 42  --】
+T^T  59.8196000%  T^T
+Fund Name: 383 . 广发沪深300ETF
+Fund id : 510360 --【pageNo:10, maxPage: 10, (i+1): 15, trs.size: 20  --】
+Fund id : 510360 --【pageNo:10, maxPage: 10, (i+1): 16, trs.size: 20  --】
+Fund id : 510360 --【pageNo:10, maxPage: 10, (i+1): 18, trs.size: 20  --】
+T^T  28.1210500%  T^T
+Fund Name: 384 . 长盛中证证券公司分级
+Fund id : 502053 --【pageNo:10, maxPage: 10, (i+1): 25, trs.size: 28  --】
+T^T  37.5269600%  T^T
+Fund Name: 385 . 中银上证国企100ETF
+T^T  62.8768800%  T^T
+Fund Name: 386 . 易方达沪深300医药ETF
+T^T  50.0061200%  T^T
+Fund Name: 387 . 景顺中证TMT150ETF
+Fund id : 512220 --【pageNo:15, maxPage: 15, (i+1): 24, trs.size: 28  --】
+Fund id : 512220 --【pageNo:15, maxPage: 15, (i+1): 25, trs.size: 28  --】
+Fund id : 512220 --【pageNo:15, maxPage: 15, (i+1): 26, trs.size: 28  --】
+Fund id : 512220 --【pageNo:15, maxPage: 15, (i+1): 27, trs.size: 28  --】
+T^T  63.7713100%  T^T
+Fund Name: 388 . 嘉实中证金融地产ETF
+Fund id : 512640 --【pageNo:15, maxPage: 15, (i+1): 40, trs.size: 46  --】
+Fund id : 512640 --【pageNo:15, maxPage: 15, (i+1): 41, trs.size: 46  --】
+Fund id : 512640 --【pageNo:15, maxPage: 15, (i+1): 42, trs.size: 46  --】
+Fund id : 512640 --【pageNo:15, maxPage: 15, (i+1): 43, trs.size: 46  --】
+Fund id : 512640 --【pageNo:15, maxPage: 15, (i+1): 45, trs.size: 46  --】
+T^T  56.9332400%  T^T
+Fund Name: 389 . 南方国策动力
+Fund id : 001692 --【pageNo:9, maxPage: 10, (i+1): 47, trs.size: 50  --】
+Fund id : 001692 --【pageNo:9, maxPage: 10, (i+1): 48, trs.size: 50  --】
+Fund id : 001692 --【pageNo:9, maxPage: 10, (i+1): 49, trs.size: 50  --】
+Fund id : 001692 --【pageNo:9, maxPage: 10, (i+1): 50, trs.size: 50  --】
+Fund id : 001692 --【pageNo:10, maxPage: 10, (i+1): 1, trs.size: 4  --】
+Fund id : 001692 --【pageNo:10, maxPage: 10, (i+1): 2, trs.size: 4  --】
+Fund id : 001692 --【pageNo:10, maxPage: 10, (i+1): 3, trs.size: 4  --】
+T^T  27.1360800%  T^T
+Fund Name: 390 . 农银深证100增强
+T^T  58.5170300%  T^T
+Fund Name: 391 . 工银高端制造股票
+Fund id : 000793 --【pageNo:14, maxPage: 14, (i+1): 12, trs.size: 17  --】
+Fund id : 000793 --【pageNo:14, maxPage: 14, (i+1): 13, trs.size: 17  --】
+Fund id : 000793 --【pageNo:14, maxPage: 14, (i+1): 14, trs.size: 17  --】
+Fund id : 000793 --【pageNo:14, maxPage: 14, (i+1): 15, trs.size: 17  --】
+Fund id : 000793 --【pageNo:14, maxPage: 14, (i+1): 16, trs.size: 17  --】
+T^T  63.6864400%  T^T
+Fund Name: 392 . 汇添富成长多因子量化策略股票
+Fund id : 001050 --【pageNo:11, maxPage: 12, (i+1): 49, trs.size: 50  --】
+Fund id : 001050 --【pageNo:11, maxPage: 12, (i+1): 50, trs.size: 50  --】
+Fund id : 001050 --【pageNo:12, maxPage: 12, (i+1): 1, trs.size: 12  --】
+Fund id : 001050 --【pageNo:12, maxPage: 12, (i+1): 3, trs.size: 12  --】
+Fund id : 001050 --【pageNo:12, maxPage: 12, (i+1): 4, trs.size: 12  --】
+Fund id : 001050 --【pageNo:12, maxPage: 12, (i+1): 5, trs.size: 12  --】
+Fund id : 001050 --【pageNo:12, maxPage: 12, (i+1): 6, trs.size: 12  --】
+Fund id : 001050 --【pageNo:12, maxPage: 12, (i+1): 7, trs.size: 12  --】
+Fund id : 001050 --【pageNo:12, maxPage: 12, (i+1): 8, trs.size: 12  --】
+Fund id : 001050 --【pageNo:12, maxPage: 12, (i+1): 9, trs.size: 12  --】
+Fund id : 001050 --【pageNo:12, maxPage: 12, (i+1): 10, trs.size: 12  --】
+T^T  48.4032600%  T^T
+Fund Name: 393 . 光大量化核心
+T^T  82.1700000%  T^T
+Fund Name: 394 . 建信上证责任ETF
+T^T  62.6262100%  T^T
+Fund Name: 395 . 博时国企改革股票
+Fund id : 001277 --【pageNo:11, maxPage: 11, (i+1): 11, trs.size: 19  --】
+Fund id : 001277 --【pageNo:11, maxPage: 11, (i+1): 12, trs.size: 19  --】
+Fund id : 001277 --【pageNo:11, maxPage: 11, (i+1): 13, trs.size: 19  --】
+Fund id : 001277 --【pageNo:11, maxPage: 11, (i+1): 14, trs.size: 19  --】
+Fund id : 001277 --【pageNo:11, maxPage: 11, (i+1): 15, trs.size: 19  --】
+Fund id : 001277 --【pageNo:11, maxPage: 11, (i+1): 16, trs.size: 19  --】
+Fund id : 001277 --【pageNo:11, maxPage: 11, (i+1): 17, trs.size: 19  --】
+Fund id : 001277 --【pageNo:11, maxPage: 11, (i+1): 18, trs.size: 19  --】
+T^T  40.9881100%  T^T
+Fund Name: 396 . 工银中证500分级
+T^T  71.3660400%  T^T
+Fund Name: 397 . 工银新材料新能源股票
+Fund id : 001158 --【pageNo:11, maxPage: 11, (i+1): 47, trs.size: 50  --】
+Fund id : 001158 --【pageNo:11, maxPage: 11, (i+1): 48, trs.size: 50  --】
+Fund id : 001158 --【pageNo:11, maxPage: 11, (i+1): 49, trs.size: 50  --】
+T^T  59.8004300%  T^T
+Fund Name: 398 . 华夏沪深300ETF
+T^T  81.2041600%  T^T
+Fund Name: 399 . 海富通上证非周期ETF
+T^T  79.5123000%  T^T
+Fund Name: 400 . 富国创业板指数分级
+T^T  60.5559200%  T^T
+Fund Name: 401 . 易方达深证100ETF联接A
+T^T  59.2661300%  T^T
+Fund Name: 402 . 中银智能制造股票
+Fund id : 001476 --【pageNo:11, maxPage: 11, (i+1): 7, trs.size: 11  --】
+Fund id : 001476 --【pageNo:11, maxPage: 11, (i+1): 8, trs.size: 11  --】
+Fund id : 001476 --【pageNo:11, maxPage: 11, (i+1): 9, trs.size: 11  --】
+Fund id : 001476 --【pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --】
+T^T  35.2941200%  T^T
+Fund Name: 403 . 广发中证全指能源ETF联接A
+Fund id : 001460 --【pageNo:10, maxPage: 11, (i+1): 50, trs.size: 50  --】
+T^T  37.4218800%  T^T
+Fund Name: 404 . 天弘中证医药100A
+Fund id : 001550 --【pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --】
+T^T  35.5800000%  T^T
+Fund Name: 405 . 天弘中证医药100C
+Fund id : 001551 --【pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --】
+T^T  35.7000000%  T^T
+Fund Name: 406 . 天弘中证高端装备制造A
+T^T  40.2970000%  T^T
+Fund Name: 407 . 建信精工制造指数增强
+Fund id : 001397 --【pageNo:10, maxPage: 10, (i+1): 12, trs.size: 15  --】
+Fund id : 001397 --【pageNo:10, maxPage: 10, (i+1): 13, trs.size: 15  --】
+Fund id : 001397 --【pageNo:10, maxPage: 10, (i+1): 14, trs.size: 15  --】
+T^T  34.2862000%  T^T
+Fund Name: 408 . 工银农业产业股票
+Fund id : 001195 --【pageNo:11, maxPage: 11, (i+1): 16, trs.size: 21  --】
+Fund id : 001195 --【pageNo:11, maxPage: 11, (i+1): 17, trs.size: 21  --】
+Fund id : 001195 --【pageNo:11, maxPage: 11, (i+1): 18, trs.size: 21  --】
+Fund id : 001195 --【pageNo:11, maxPage: 11, (i+1): 19, trs.size: 21  --】
+Fund id : 001195 --【pageNo:11, maxPage: 11, (i+1): 20, trs.size: 21  --】
+T^T  50.1469100%  T^T
+Fund Name: 409 . 招商中证煤炭等权指数分级
+Fund id : 161724 --【pageNo:11, maxPage: 11, (i+1): 36, trs.size: 39  --】
+T^T  52.5398000%  T^T
+Fund Name: 410 . 国寿安保中证500ETF
+Fund id : 510560 --【pageNo:11, maxPage: 11, (i+1): 11, trs.size: 18  --】
+Fund id : 510560 --【pageNo:11, maxPage: 11, (i+1): 12, trs.size: 18  --】
+Fund id : 510560 --【pageNo:11, maxPage: 11, (i+1): 13, trs.size: 18  --】
+Fund id : 510560 --【pageNo:11, maxPage: 11, (i+1): 14, trs.size: 18  --】
+Fund id : 510560 --【pageNo:11, maxPage: 11, (i+1): 16, trs.size: 18  --】
+Fund id : 510560 --【pageNo:11, maxPage: 11, (i+1): 17, trs.size: 18  --】
+T^T  54.4516000%  T^T
+Fund Name: 411 . 易方达中证500ETF
+Fund id : 510580 --【pageNo:10, maxPage: 10, (i+1): 17, trs.size: 19  --】
+T^T  87.5090600%  T^T
+Fund Name: 412 . 博时中证淘金大数据100I
+Fund id : 001243 --【pageNo:11, maxPage: 11, (i+1): 32, trs.size: 37  --】
+Fund id : 001243 --【pageNo:11, maxPage: 11, (i+1): 33, trs.size: 37  --】
+Fund id : 001243 --【pageNo:11, maxPage: 11, (i+1): 34, trs.size: 37  --】
+Fund id : 001243 --【pageNo:11, maxPage: 11, (i+1): 35, trs.size: 37  --】
+Fund id : 001243 --【pageNo:11, maxPage: 11, (i+1): 36, trs.size: 37  --】
+T^T  53.9671900%  T^T
+Fund Name: 413 . 华宝兴业中证1000指数分级
+T^T  44.8300500%  T^T
+Fund Name: 414 . 博时上证50ETF联接
+Fund id : 001237 --【pageNo:11, maxPage: 11, (i+1): 32, trs.size: 34  --】
+Fund id : 001237 --【pageNo:11, maxPage: 11, (i+1): 33, trs.size: 34  --】
+T^T  35.5673200%  T^T
+Fund Name: 415 . 嘉实沪深300ETF联接
+T^T  80.3830000%  T^T
+Fund Name: 416 . 博时沪深300指数C
+T^T  30.8518500%  T^T
+Fund Name: 417 . 大成360互联网+大数据100A
+Fund id : 002236 --【pageNo:8, maxPage: 8, (i+1): 9, trs.size: 11  --】
+Fund id : 002236 --【pageNo:8, maxPage: 8, (i+1): 10, trs.size: 11  --】
+T^T  23.3281500%  T^T
+Fund Name: 418 . 嘉实沪港深精选股票
+Fund id : 001878 --【pageNo:6, maxPage: 6, (i+1): 22, trs.size: 26  --】
+Fund id : 001878 --【pageNo:6, maxPage: 6, (i+1): 23, trs.size: 26  --】
+Fund id : 001878 --【pageNo:6, maxPage: 6, (i+1): 24, trs.size: 26  --】
+Fund id : 001878 --【pageNo:6, maxPage: 6, (i+1): 25, trs.size: 26  --】
+T^T  34.9381900%  T^T
+Fund Name: 419 . 嘉实环保低碳股票
+Fund id : 001616 --【pageNo:8, maxPage: 8, (i+1): 25, trs.size: 29  --】
+Fund id : 001616 --【pageNo:8, maxPage: 8, (i+1): 26, trs.size: 29  --】
+Fund id : 001616 --【pageNo:8, maxPage: 8, (i+1): 27, trs.size: 29  --】
+T^T  35.0427400%  T^T
+Fund Name: 420 . 中欧消费主题股票C
+Fund id : 002697 --【pageNo:5, maxPage: 5, (i+1): 42, trs.size: 44  --】
+Fund id : 002697 --【pageNo:5, maxPage: 5, (i+1): 43, trs.size: 44  --】
+(⊙_⊙)  13.5948900%  (⊙_⊙)
+Thu Aug 03 16:52:29 CST 2017

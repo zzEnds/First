@@ -1,0 +1,237 @@
+Wed Aug 02 23:40:51 CST 2017
+Fund Name: 261 . 鹏华医药科技
+Fund id : 001230 --【pageNo:10, maxPage: 11, (i+1): 41, trs.size: 50  --】
+Fund id : 001230 --【pageNo:10, maxPage: 11, (i+1): 42, trs.size: 50  --】
+Fund id : 001230 --【pageNo:10, maxPage: 11, (i+1): 43, trs.size: 50  --】
+Fund id : 001230 --【pageNo:10, maxPage: 11, (i+1): 44, trs.size: 50  --】
+Fund id : 001230 --【pageNo:10, maxPage: 11, (i+1): 45, trs.size: 50  --】
+Fund id : 001230 --【pageNo:10, maxPage: 11, (i+1): 46, trs.size: 50  --】
+Fund id : 001230 --【pageNo:10, maxPage: 11, (i+1): 47, trs.size: 50  --】
+Fund id : 001230 --【pageNo:10, maxPage: 11, (i+1): 48, trs.size: 50  --】
+Fund id : 001230 --【pageNo:10, maxPage: 11, (i+1): 49, trs.size: 50  --】
+Fund id : 001230 --【pageNo:10, maxPage: 11, (i+1): 50, trs.size: 50  --】
+T^T  57.1566700%  T^T
+Fund Name: 262 . 博时中证银行指数分级
+Fund id : 160517 --【pageNo:11, maxPage: 11, (i+1): 24, trs.size: 25  --】
+T^T  31.8203600%  T^T
+Fund Name: 263 . 华夏沪深300ETF联接
+T^T  60.7323200%  T^T
+Fund Name: 264 . 南方大数据300A
+Fund id : 001420 --【pageNo:10, maxPage: 10, (i+1): 12, trs.size: 25  --】
+Fund id : 001420 --【pageNo:10, maxPage: 10, (i+1): 13, trs.size: 25  --】
+Fund id : 001420 --【pageNo:10, maxPage: 10, (i+1): 14, trs.size: 25  --】
+Fund id : 001420 --【pageNo:10, maxPage: 10, (i+1): 15, trs.size: 25  --】
+Fund id : 001420 --【pageNo:10, maxPage: 10, (i+1): 16, trs.size: 25  --】
+Fund id : 001420 --【pageNo:10, maxPage: 10, (i+1): 17, trs.size: 25  --】
+Fund id : 001420 --【pageNo:10, maxPage: 10, (i+1): 18, trs.size: 25  --】
+Fund id : 001420 --【pageNo:10, maxPage: 10, (i+1): 19, trs.size: 25  --】
+Fund id : 001420 --【pageNo:10, maxPage: 10, (i+1): 20, trs.size: 25  --】
+Fund id : 001420 --【pageNo:10, maxPage: 10, (i+1): 21, trs.size: 25  --】
+Fund id : 001420 --【pageNo:10, maxPage: 10, (i+1): 22, trs.size: 25  --】
+Fund id : 001420 --【pageNo:10, maxPage: 10, (i+1): 23, trs.size: 25  --】
+Fund id : 001420 --【pageNo:10, maxPage: 10, (i+1): 24, trs.size: 25  --】
+T^T  32.3438200%  T^T
+Fund Name: 265 . 南方大数据300C
+Fund id : 001426 --【pageNo:10, maxPage: 10, (i+1): 12, trs.size: 25  --】
+Fund id : 001426 --【pageNo:10, maxPage: 10, (i+1): 13, trs.size: 25  --】
+Fund id : 001426 --【pageNo:10, maxPage: 10, (i+1): 14, trs.size: 25  --】
+Fund id : 001426 --【pageNo:10, maxPage: 10, (i+1): 15, trs.size: 25  --】
+Fund id : 001426 --【pageNo:10, maxPage: 10, (i+1): 16, trs.size: 25  --】
+Fund id : 001426 --【pageNo:10, maxPage: 10, (i+1): 17, trs.size: 25  --】
+Fund id : 001426 --【pageNo:10, maxPage: 10, (i+1): 18, trs.size: 25  --】
+Fund id : 001426 --【pageNo:10, maxPage: 10, (i+1): 19, trs.size: 25  --】
+Fund id : 001426 --【pageNo:10, maxPage: 10, (i+1): 20, trs.size: 25  --】
+Fund id : 001426 --【pageNo:10, maxPage: 10, (i+1): 21, trs.size: 25  --】
+Fund id : 001426 --【pageNo:10, maxPage: 10, (i+1): 22, trs.size: 25  --】
+Fund id : 001426 --【pageNo:10, maxPage: 10, (i+1): 23, trs.size: 25  --】
+Fund id : 001426 --【pageNo:10, maxPage: 10, (i+1): 24, trs.size: 25  --】
+T^T  31.9839500%  T^T
+Fund Name: 266 . 景顺长城中证500ETF联接
+Fund id : 001455 --【pageNo:11, maxPage: 11, (i+1): 1, trs.size: 5  --】
+Fund id : 001455 --【pageNo:11, maxPage: 11, (i+1): 2, trs.size: 5  --】
+Fund id : 001455 --【pageNo:11, maxPage: 11, (i+1): 3, trs.size: 5  --】
+T^T  33.6174200%  T^T
+Fund Name: 267 . 南方中证互联网指数分级
+Fund id : 160137 --【pageNo:11, maxPage: 11, (i+1): 5, trs.size: 8  --】
+Fund id : 160137 --【pageNo:11, maxPage: 11, (i+1): 7, trs.size: 8  --】
+T^T  39.1811300%  T^T
+Fund Name: 268 . 安信一带一路分级
+Fund id : 167503 --【pageNo:11, maxPage: 11, (i+1): 41, trs.size: 43  --】
+T^T  46.7009400%  T^T
+Fund Name: 269 . 中融国证钢铁行业指数分级
+Fund id : 168203 --【pageNo:11, maxPage: 11, (i+1): 15, trs.size: 16  --】
+T^T  40.0000000%  T^T
+Fund Name: 270 . 中融中证煤炭指数分级
+Fund id : 168204 --【pageNo:11, maxPage: 11, (i+1): 11, trs.size: 14  --】
+Fund id : 168204 --【pageNo:11, maxPage: 11, (i+1): 12, trs.size: 14  --】
+T^T  36.8000000%  T^T
+Fund Name: 271 . 工银互联网加股票
+Fund id : 001409 --【pageNo:11, maxPage: 11, (i+1): 10, trs.size: 15  --】
+Fund id : 001409 --【pageNo:11, maxPage: 11, (i+1): 11, trs.size: 15  --】
+Fund id : 001409 --【pageNo:11, maxPage: 11, (i+1): 12, trs.size: 15  --】
+Fund id : 001409 --【pageNo:11, maxPage: 11, (i+1): 13, trs.size: 15  --】
+Fund id : 001409 --【pageNo:11, maxPage: 11, (i+1): 14, trs.size: 15  --】
+T^T  61.6748800%  T^T
+Fund Name: 272 . 汇丰晋信恒生龙头指数C
+T^T  44.5187700%  T^T
+Fund Name: 273 . 鹏华国防
+Fund id : 160630 --【pageNo:14, maxPage: 14, (i+1): 13, trs.size: 15  --】
+T^T  59.9099100%  T^T
+Fund Name: 274 . 广发中证全指主要消费ETF
+Fund id : 159946 --【pageNo:11, maxPage: 11, (i+1): 6, trs.size: 9  --】
+Fund id : 159946 --【pageNo:11, maxPage: 11, (i+1): 8, trs.size: 9  --】
+T^T  31.1076300%  T^T
+Fund Name: 275 . 国联安商品ETF联接
+T^T  61.5969600%  T^T
+Fund Name: 276 . 广发中证全指原材料联接A
+Fund id : 001459 --【pageNo:10, maxPage: 10, (i+1): 22, trs.size: 24  --】
+Fund id : 001459 --【pageNo:10, maxPage: 10, (i+1): 23, trs.size: 24  --】
+T^T  29.8969100%  T^T
+Fund Name: 277 . 国泰金鑫
+Fund id : 519606 --【pageNo:14, maxPage: 14, (i+1): 28, trs.size: 29  --】
+T^T  51.7741100%  T^T
+Fund Name: 278 . 南方产业活力
+Fund id : 000955 --【pageNo:12, maxPage: 12, (i+1): 22, trs.size: 32  --】
+Fund id : 000955 --【pageNo:12, maxPage: 12, (i+1): 23, trs.size: 32  --】
+Fund id : 000955 --【pageNo:12, maxPage: 12, (i+1): 24, trs.size: 32  --】
+Fund id : 000955 --【pageNo:12, maxPage: 12, (i+1): 25, trs.size: 32  --】
+Fund id : 000955 --【pageNo:12, maxPage: 12, (i+1): 26, trs.size: 32  --】
+Fund id : 000955 --【pageNo:12, maxPage: 12, (i+1): 27, trs.size: 32  --】
+Fund id : 000955 --【pageNo:12, maxPage: 12, (i+1): 28, trs.size: 32  --】
+Fund id : 000955 --【pageNo:12, maxPage: 12, (i+1): 29, trs.size: 32  --】
+Fund id : 000955 --【pageNo:12, maxPage: 12, (i+1): 30, trs.size: 32  --】
+Fund id : 000955 --【pageNo:12, maxPage: 12, (i+1): 31, trs.size: 32  --】
+T^T  54.8322500%  T^T
+Fund Name: 279 . 国金上证50分级
+T^T  55.9626400%  T^T
+Fund Name: 280 . 中海中证高铁产业指数分级
+Fund id : 502030 --【pageNo:10, maxPage: 10, (i+1): 36, trs.size: 37  --】
+T^T  46.8989000%  T^T
+Fund Name: 281 . 银华上证50等权ETF
+T^T  61.7434500%  T^T
+Fund Name: 282 . 天弘中证大宗商品股票指数C
+Fund id : 001559 --【pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --】
+T^T  40.8600000%  T^T
+Fund Name: 283 . 天弘中证证券保险A
+Fund id : 001552 --【pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --】
+T^T  39.5300000%  T^T
+Fund Name: 284 . 长盛上证50指数分级
+Fund id : 502040 --【pageNo:10, maxPage: 10, (i+1): 25, trs.size: 28  --】
+T^T  28.5117100%  T^T
+Fund Name: 285 . 工银医疗保健
+Fund id : 000831 --【pageNo:13, maxPage: 13, (i+1): 42, trs.size: 47  --】
+Fund id : 000831 --【pageNo:13, maxPage: 13, (i+1): 43, trs.size: 47  --】
+Fund id : 000831 --【pageNo:13, maxPage: 13, (i+1): 44, trs.size: 47  --】
+Fund id : 000831 --【pageNo:13, maxPage: 13, (i+1): 45, trs.size: 47  --】
+Fund id : 000831 --【pageNo:13, maxPage: 13, (i+1): 46, trs.size: 47  --】
+T^T  60.0319700%  T^T
+Fund Name: 286 . 民生加银优选
+Fund id : 000884 --【pageNo:13, maxPage: 13, (i+1): 22, trs.size: 27  --】
+Fund id : 000884 --【pageNo:13, maxPage: 13, (i+1): 23, trs.size: 27  --】
+Fund id : 000884 --【pageNo:13, maxPage: 13, (i+1): 24, trs.size: 27  --】
+Fund id : 000884 --【pageNo:13, maxPage: 13, (i+1): 26, trs.size: 27  --】
+T^T  54.7792100%  T^T
+Fund Name: 287 . 嘉实低价策略股票
+Fund id : 001577 --【pageNo:10, maxPage: 10, (i+1): 2, trs.size: 11  --】
+Fund id : 001577 --【pageNo:10, maxPage: 10, (i+1): 3, trs.size: 11  --】
+Fund id : 001577 --【pageNo:10, maxPage: 10, (i+1): 4, trs.size: 11  --】
+Fund id : 001577 --【pageNo:10, maxPage: 10, (i+1): 5, trs.size: 11  --】
+Fund id : 001577 --【pageNo:10, maxPage: 10, (i+1): 6, trs.size: 11  --】
+Fund id : 001577 --【pageNo:10, maxPage: 10, (i+1): 7, trs.size: 11  --】
+Fund id : 001577 --【pageNo:10, maxPage: 10, (i+1): 8, trs.size: 11  --】
+Fund id : 001577 --【pageNo:10, maxPage: 10, (i+1): 9, trs.size: 11  --】
+Fund id : 001577 --【pageNo:10, maxPage: 10, (i+1): 10, trs.size: 11  --】
+T^T  27.8079700%  T^T
+Fund Name: 288 . 广发医疗指数分级
+Fund id : 502056 --【pageNo:10, maxPage: 10, (i+1): 42, trs.size: 45  --】
+Fund id : 502056 --【pageNo:10, maxPage: 10, (i+1): 44, trs.size: 45  --】
+T^T  49.4956100%  T^T
+Fund Name: 289 . 上投摩根新兴服务股票
+Fund id : 001482 --【pageNo:10, maxPage: 10, (i+1): 17, trs.size: 23  --】
+Fund id : 001482 --【pageNo:10, maxPage: 10, (i+1): 18, trs.size: 23  --】
+Fund id : 001482 --【pageNo:10, maxPage: 10, (i+1): 20, trs.size: 23  --】
+Fund id : 001482 --【pageNo:10, maxPage: 10, (i+1): 21, trs.size: 23  --】
+T^T  33.8387900%  T^T
+Fund Name: 290 . 银华中证等权90分级
+T^T  69.8683600%  T^T
+Fund Name: 291 . 诺安中证500ETF联接
+Fund id : 001351 --【pageNo:11, maxPage: 11, (i+1): 6, trs.size: 15  --】
+Fund id : 001351 --【pageNo:11, maxPage: 11, (i+1): 10, trs.size: 15  --】
+Fund id : 001351 --【pageNo:11, maxPage: 11, (i+1): 11, trs.size: 15  --】
+Fund id : 001351 --【pageNo:11, maxPage: 11, (i+1): 12, trs.size: 15  --】
+Fund id : 001351 --【pageNo:11, maxPage: 11, (i+1): 13, trs.size: 15  --】
+Fund id : 001351 --【pageNo:11, maxPage: 11, (i+1): 14, trs.size: 15  --】
+T^T  29.3988500%  T^T
+Fund Name: 292 . 鹏华中证医药卫生(LOF)
+Fund id : 160635 --【pageNo:10, maxPage: 10, (i+1): 25, trs.size: 26  --】
+T^T  29.2592600%  T^T
+Fund Name: 293 . 天弘中证环保产业C
+Fund id : 001591 --【pageNo:10, maxPage: 10, (i+1): 48, trs.size: 50  --】
+T^T  38.5378400%  T^T
+Fund Name: 294 . 鹏华银行分级
+Fund id : 160631 --【pageNo:12, maxPage: 12, (i+1): 8, trs.size: 10  --】
+Fund id : 160631 --【pageNo:12, maxPage: 12, (i+1): 9, trs.size: 10  --】
+T^T  35.4603500%  T^T
+Fund Name: 295 . 建信大安全战略精选股票
+Fund id : 001473 --【pageNo:10, maxPage: 10, (i+1): 20, trs.size: 25  --】
+Fund id : 001473 --【pageNo:10, maxPage: 10, (i+1): 21, trs.size: 25  --】
+Fund id : 001473 --【pageNo:10, maxPage: 10, (i+1): 22, trs.size: 25  --】
+Fund id : 001473 --【pageNo:10, maxPage: 10, (i+1): 23, trs.size: 25  --】
+Fund id : 001473 --【pageNo:10, maxPage: 10, (i+1): 24, trs.size: 25  --】
+T^T  34.9624100%  T^T
+Fund Name: 296 . 上投摩根智慧互联股票
+Fund id : 001313 --【pageNo:11, maxPage: 11, (i+1): 7, trs.size: 13  --】
+Fund id : 001313 --【pageNo:11, maxPage: 11, (i+1): 8, trs.size: 13  --】
+Fund id : 001313 --【pageNo:11, maxPage: 11, (i+1): 9, trs.size: 13  --】
+Fund id : 001313 --【pageNo:11, maxPage: 11, (i+1): 10, trs.size: 13  --】
+Fund id : 001313 --【pageNo:11, maxPage: 11, (i+1): 11, trs.size: 13  --】
+Fund id : 001313 --【pageNo:11, maxPage: 11, (i+1): 12, trs.size: 13  --】
+T^T  40.1590500%  T^T
+Fund Name: 297 . 天弘上证50指数A
+Fund id : 001548 --【pageNo:10, maxPage: 10, (i+1): 48, trs.size: 50  --】
+T^T  29.6996100%  T^T
+Fund Name: 298 . 天弘中证环保产业A
+Fund id : 001590 --【pageNo:10, maxPage: 10, (i+1): 48, trs.size: 50  --】
+T^T  38.4594200%  T^T
+Fund Name: 299 . 天弘中证100指数C
+Fund id : 001587 --【pageNo:10, maxPage: 10, (i+1): 48, trs.size: 50  --】
+T^T  28.5530200%  T^T
+Fund Name: 300 . 广发中证全指主要消费联接A
+Fund id : 001458 --【pageNo:10, maxPage: 10, (i+1): 22, trs.size: 24  --】
+Fund id : 001458 --【pageNo:10, maxPage: 10, (i+1): 23, trs.size: 24  --】
+T^T  27.5543600%  T^T
+Fund Name: 301 . 南方中证500原材料ETF
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:206)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.util.zip.InflaterInputStream.fill(Unknown Source)
+	at java.util.zip.InflaterInputStream.read(Unknown Source)
+	at java.util.zip.GZIPInputStream.read(Unknown Source)
+	at org.apache.http.client.entity.LazyDecompressingInputStream.read(LazyDecompressingInputStream.java:70)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.Reader.read(Unknown Source)
+	at org.apache.http.util.EntityUtils.toString(EntityUtils.java:225)
+	at org.apache.http.util.EntityUtils.toString(EntityUtils.java:306)
+	at com.lu.wang.grepFundData.GrepIds.pickRawData(GrepIds.java:163)
+	at com.lu.wang.grepFundData.GrepIds.pickData(GrepIds.java:144)
+	at com.lu.wang.grepFundData.GrepIds.getTable(GrepIds.java:87)
+	at com.lu.wang.grepFundData.GrepIds.getFundInfo(GrepIds.java:70)
+	at com.lu.wang.grepFundData.GrepIds.main(GrepIds.java:303)
+Empty page of No. 【page=3&per=50】
+Exception in thread "main" java.lang.NullPointerException
+	at org.jsoup.parser.CharacterReader.<init>(CharacterReader.java:16)
+	at org.jsoup.parser.TreeBuilder.initialiseParse(TreeBuilder.java:43)
+	at org.jsoup.parser.TreeBuilder.parse(TreeBuilder.java:51)
+	at org.jsoup.parser.Parser.parse(Parser.java:24)
+	at org.jsoup.Jsoup.parse(Jsoup.java:44)
+	at com.lu.wang.grepFundData.GrepIds.analyzeDailyHTMLByString(GrepIds.java:192)
+	at com.lu.wang.grepFundData.GrepIds.getFundInfo(GrepIds.java:72)
+	at com.lu.wang.grepFundData.GrepIds.main(GrepIds.java:303)

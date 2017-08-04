@@ -1,0 +1,3540 @@
+Fund Name: 1 . ¹ã·¢»¦Éî300ETFÁª½ÓA
+T^T  60.5162900%  T^T
+Fund Name: 2 . ¾°Ë³³¤³Ç»¦Éî300ÔöÇ¿
+T^T  62.2910700%  T^T
+Fund Name: 3 . ¹¤ÒøÉîÖ¤ºìÀûÁª½Ó
+T^T  60.1761300%  T^T
+Fund Name: 4 . Åô»ª»¦Éî300
+T^T  61.3821100%  T^T
+Fund Name: 5 . ÉêÍòÁ¿»¯Ð¡ÅÌ
+°ËÔÂ 02, 2017 10:12:09 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://fund.eastmoney.com:80: Connection reset
+°ËÔÂ 02, 2017 10:12:09 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://fund.eastmoney.com:80
+T^T  76.0082700%  T^T
+Fund Name: 6 . »ªÌ©°ØÈð»¦Éî300Áª½Ó
+T^T  59.0949100%  T^T
+Fund Name: 7 . »ãÌí¸»ÉÏÖ¤×ÛÖ¸
+T^T  61.2617900%  T^T
+Fund Name: 8 . º£¸»Í¨ÉÏÖ¤ÖÜÆÚÁª½Ó
+T^T  57.8475300%  T^T
+Fund Name: 9 . Ì©´ïºêÀûÊ×Ñ¡ÆóÒµ¹ÉÆ±
+T^T  74.0161200%  T^T
+Fund Name: 10 . »ª±¦ÖÐÖ¤100
+T^T  58.7803900%  T^T
+Fund Name: 11 . »ª±¦ÉÏÖ¤180³É³¤Áª½Ó
+T^T  55.5267300%  T^T
+Fund Name: 12 . ÄÏ·½ÉÏÖ¤380ETF
+T^T  75.4392300%  T^T
+Fund Name: 13 . ´ó³ÉÉîÖ¤³É³¤40ETF
+T^T  59.9121700%  T^T
+Fund Name: 14 . ÕÐÉÌÉîÖ¤TMT50ETF
+T^T  89.9572900%  T^T
+Fund Name: 15 . ¼ÎÊµÉîÖ¤120ETF
+T^T  63.1992300%  T^T
+Fund Name: 16 . Ò×·½´ï»¦Éî300ETF
+°ËÔÂ 02, 2017 10:17:36 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://fund.eastmoney.com:80: Software caused connection abort: recv failed
+°ËÔÂ 02, 2017 10:17:36 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://fund.eastmoney.com:80
+Fund id : 510310 --¡¾pageNo:22, maxPage: 22, (i+1): 21, trs.size: 22  --¡¿
+T^T  61.6527100%  T^T
+Fund Name: 17 . Òø»ª»¦Éî300Ö¸Êý·Ö¼¶
+T^T  55.7768900%  T^T
+Fund Name: 18 . Òø»ªÉîÖ¤100·Ö¼¶
+T^T  57.2293200%  T^T
+Fund Name: 19 . Íò¼ÒÖÐÖ¤ºìÀûÖ¸Êý
+T^T  66.5183900%  T^T
+Fund Name: 20 . ½¨ÐÅË«Àû·Ö¼¶
+Fund id : 165310 --¡¾pageNo:13, maxPage: 31, (i+1): 30, trs.size: 50  --¡¿
+Fund id : 165310 --¡¾pageNo:18, maxPage: 31, (i+1): 24, trs.size: 50  --¡¿
+T^T  57.7297300%  T^T
+Fund Name: 21 . ½¨ÐÅÑëÊÓ50
+Fund id : 165312 --¡¾pageNo:13, maxPage: 21, (i+1): 30, trs.size: 50  --¡¿
+T^T  51.3591100%  T^T
+Fund Name: 22 . ÐÅ³ÏÖÐÖ¤500·Ö¼¶
+T^T  72.6822000%  T^T
+Fund Name: 23 . ÖÐÖ¤500»¦ÊÐETF
+T^T  73.5356000%  T^T
+Fund Name: 24 . ¹ã·¢ÖÐÖ¤500ETF
+T^T  71.8406200%  T^T
+Fund Name: 25 . Å©ÒøÖÐÖ¤500
+T^T  74.2542600%  T^T
+Fund Name: 26 . ÉÏÖ¤Ò½Ò©ÎÀÉúETF
+T^T  55.6829800%  T^T
+Fund Name: 27 . »ªÌ©°ØÈðÉÏÖ¤ºìÀûETF
+T^T  80.7071500%  T^T
+Fund Name: 28 . ²©Ê±ÉÏÖ¤³¬´óÅÌÁª½Ó
+T^T  56.0360500%  T^T
+Fund Name: 29 . ½¨ÐÅÔðÈÎÁª½Ó
+°ËÔÂ 02, 2017 10:21:53 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://fund.eastmoney.com:80: Connection reset
+°ËÔÂ 02, 2017 10:21:53 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://fund.eastmoney.com:80
+T^T  60.8021400%  T^T
+Fund Name: 30 . º£¸»Í¨ÖÐÖ¤100
+T^T  59.7993300%  T^T
+Fund Name: 31 . ÆÖÒø»¦Éî300ÔöÇ¿
+T^T  59.5281300%  T^T
+Fund Name: 32 . ¾°Ë³³¤³ÇÉÏÖ¤180Áª½Ó
+T^T  63.0067600%  T^T
+Fund Name: 33 . ÉêÍòÁâÐÅÖÐÐ¡°åÖ¸Êý
+T^T  73.1460900%  T^T
+Fund Name: 34 . º£¸»Í¨ÉÏÖ¤·ÇÖÜÆÚÁª½Ó
+T^T  66.2857100%  T^T
+Fund Name: 35 . ÕÐÉÌÑëÊÓ²Æ¾­50Ö¸ÊýA
+Fund id : 217027 --¡¾pageNo:22, maxPage: 22, (i+1): 42, trs.size: 43  --¡¿
+T^T  53.4402500%  T^T
+Fund Name: 36 . ²©Ê±ÉÏÖ¤×ÔÈ»×ÊÔ´ETF
+T^T  57.7355700%  T^T
+Fund Name: 37 . º£¸»Í¨ÖÐÖ¤ÄÚµØµÍÌ¼Ö¸Êý
+°ËÔÂ 02, 2017 10:27:01 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://fund.eastmoney.com:80: Software caused connection abort: recv failed
+°ËÔÂ 02, 2017 10:27:01 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://fund.eastmoney.com:80
+T^T  69.5602700%  T^T
+Fund Name: 38 . ÈÚÍ¨´´Òµ°åÖ¸ÊýÔöÇ¿
+T^T  72.5436500%  T^T
+Fund Name: 39 . ³¤°²»¦Éî300·ÇÖÜÆÚ
+T^T  59.0383700%  T^T
+Fund Name: 40 . ²©Ê±ÉîÖ¤200Áª½Ó
+T^T  62.9913300%  T^T
+Fund Name: 41 . ¹¤ÒøÉîÖ¤100Ö¸Êý·Ö¼¶
+T^T  56.2811700%  T^T
+Fund Name: 42 . ÕÐÉÌÉîÖ¤100Ö¸ÊýA
+T^T  59.4134900%  T^T
+Fund Name: 43 . »ª°²ÖÐ¹úA¹ÉÔöÇ¿Ö¸Êý
+T^T  91.1138400%  T^T
+Fund Name: 44 . ¶«ÎâÖÐÖ¤ÐÂÐË²úÒµ
+T^T  72.9400300%  T^T
+Fund Name: 45 . ¼ÎÊµÑÐ¾¿°¢¶û·¨¹ÉÆ±
+T^T  61.3073500%  T^T
+Fund Name: 46 . ÕÐÉÌÉÏÖ¤Ïû·Ñ80ETF
+°ËÔÂ 02, 2017 10:29:22 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://fund.eastmoney.com:80: Connection reset
+°ËÔÂ 02, 2017 10:29:22 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://fund.eastmoney.com:80
+T^T  83.8013700%  T^T
+Fund Name: 47 . ¼ÎÊµÖÐ´´400ETF
+T^T  80.5783100%  T^T
+Fund Name: 48 . ¹úÁª°²ÉÏÖ¤ÉÌÆ·ETF
+°ËÔÂ 02, 2017 10:29:45 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://fund.eastmoney.com:80: Connection reset
+°ËÔÂ 02, 2017 10:29:45 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://fund.eastmoney.com:80
+T^T  71.1370300%  T^T
+Fund Name: 49 . »ª°²ÉÏÖ¤180ETF
+T^T  96.5050300%  T^T
+Fund Name: 50 . »ª°²ÉÏÖ¤ÁúÍ·ETF
+T^T  81.0774800%  T^T
+Fund Name: 51 . ¸»¹úÉÏÖ¤×ÛÖ¸ETF
+T^T  81.9802000%  T^T
+Fund Name: 52 . Åµ°²ÖÐÖ¤100
+T^T  59.9451300%  T^T
+Fund Name: 53 . »ª±¦ÉÏÖ¤180³É³¤ETF
+T^T  57.3643400%  T^T
+Fund Name: 54 . »ªÌ©°ØÈð»¦Éî300ETF
+T^T  60.8819800%  T^T
+Fund Name: 55 . ½»ÒøÉÏÖ¤180ÖÎÀíETF
+T^T  63.5409800%  T^T
+Fund Name: 56 . Ò×·½´ïÉÏÖ¤ÖÐÅÌETF
+T^T  85.3146300%  T^T
+Fund Name: 57 . ²©Ê±»¦Éî300Ö¸ÊýA
+T^T  81.6686700%  T^T
+Fund Name: 58 . ¹úÁª°²ÖÐÖ¤Ò½Ò©100
+T^T  62.2817700%  T^T
+Fund Name: 59 . ¹úÌ©ÉÏÖ¤180½ðÈÚÁª½Ó
+T^T  59.4900300%  T^T
+Fund Name: 60 . ½¨ÐÅÉîÖ¤100ÔöÇ¿
+T^T  63.1080800%  T^T
+Fund Name: 61 . Åô»ªÉÏÖ¤ÃñÆó50ETFÁª½Ó
+T^T  67.3823700%  T^T
+Fund Name: 62 . »ªÌ©°ØÈðÖÐÐ¡ÅÌÁª½Ó
+T^T  69.5606100%  T^T
+Fund Name: 63 . ¼ÎÊµÉîÖ¤120Áª½Ó
+T^T  61.1045700%  T^T
+Fund Name: 64 . ³¤Ê¢ÖÐÖ¤100
+T^T  78.6966600%  T^T
+Fund Name: 65 . Æ½°²´ó»ªÉîÖ¤300
+T^T  68.7868100%  T^T
+Fund Name: 66 . ¹úÌ©¹úÖ¤·¿µØ²úÐÐÒµÖ¸Êý·Ö¼¶
+Fund id : 160218 --¡¾pageNo:22, maxPage: 22, (i+1): 36, trs.size: 37  --¡¿
+T^T  66.5204800%  T^T
+Fund Name: 67 . ÆÖÒø°²Ê¢»ù±¾Ãæ400Ö¸Êý
+T^T  70.1580300%  T^T
+Fund Name: 68 . ¼ÎÊµ»ù±¾Ãæ50
+T^T  63.4034000%  T^T
+Fund Name: 69 . ³¤Ê¢»¦Éî300
+T^T  59.4827600%  T^T
+Fund Name: 70 . ³¤Ê¢Í¬»Ô100µÈÈ¨·Ö¼¶
+T^T  68.7809700%  T^T
+Fund Name: 71 . ÉÏÍ¶´óÅÌÀ¶³ï
+T^T  67.0539000%  T^T
+Fund Name: 72 . Íò¼Ò180Ö¸Êý
+T^T  84.9657500%  T^T
+Fund Name: 73 . Ò×·½´ï´´Òµ°åETFÁª½ÓA
+T^T  81.5300900%  T^T
+Fund Name: 74 . ÈÚÍ¨ÉîÖ¤³É·ÝÖ¸ÊýA
+T^T  59.2334500%  T^T
+Fund Name: 75 . ±¦Ó¯ÖÐÖ¤100ÔöÇ¿
+T^T  57.6647100%  T^T
+Fund Name: 76 . ´ó³É»¦Éî300Ö¸Êý
+T^T  76.5177700%  T^T
+Fund Name: 77 . ¹úÍ¶ÈðÒø»¦Éî300
+T^T  64.1159700%  T^T
+Fund Name: 78 . ¹úÌ©ÉÏÖ¤180½ðÈÚETF
+T^T  86.3427500%  T^T
+Fund Name: 79 . ¹úÍ¶ÈðÒøÖÐÖ¤Ö¸Êý
+T^T  54.6769500%  T^T
+Fund Name: 80 . ÒøºÓ»¦Éî300³É³¤·Ö¼¶
+T^T  52.2465400%  T^T
+Fund Name: 81 . Òø»ªµÀÇíË¹88
+T^T  67.7214500%  T^T
+Fund Name: 82 . ¹úÌ©»¦Éî300
+Fund id : 020011 --¡¾pageNo:47, maxPage: 48, (i+1): 50, trs.size: 50  --¡¿
+No acc worth for Fund id : 020011 --¡¾pageNo:48, maxPage: 48, (i+1): 1, trs.size: 1  --¡¿
+T^T  76.5241800%  T^T
+Fund Name: 83 . Ì©´ïºêÀû²Æ¸»´óÅÌÖ¸ÊýA
+T^T  63.6449500%  T^T
+Fund Name: 84 . ÕãÉÌ»¦Éî300Ö¸Êý·Ö¼¶
+T^T  58.5776300%  T^T
+Fund Name: 85 . ½¨ÐÅÉîÖ¤60ETF
+T^T  71.1161200%  T^T
+Fund Name: 86 . Åô»ª×ÊÔ´·Ö¼¶
+T^T  66.8539300%  T^T
+Fund Name: 87 . ÄÏ·½Ð¡¿µETFÁª½ÓA
+T^T  65.5402800%  T^T
+Fund Name: 88 . ÄÏ·½ÉÏÖ¤380Áª½Ó
+T^T  73.3711700%  T^T
+Fund Name: 89 . Åµ°²ÖÐÖ¤´´Òµ³É³¤Ö¸Êý·Ö¼¶
+T^T  73.1695300%  T^T
+Fund Name: 90 . »ªÏÄÉÏÖ¤50ETF
+T^T  84.6019600%  T^T
+Fund Name: 91 . ¹¤ÒøÉÏÖ¤ÑëÆó50ETF
+Fund id : 510060 --¡¾pageNo:18, maxPage: 39, (i+1): 33, trs.size: 50  --¡¿
+T^T  65.8943700%  T^T
+Fund Name: 92 . Åô»ªÉÏÖ¤ÃñÆó50ETF
+T^T  69.3633000%  T^T
+Fund Name: 93 . Ò×·½´ïÉÏÖ¤ÖÐÅÌETFÁª½ÓA
+°ËÔÂ 02, 2017 11:00:31 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://fund.eastmoney.com:80: Connection reset
+°ËÔÂ 02, 2017 11:00:31 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://fund.eastmoney.com:80
+T^T  66.2063800%  T^T
+Fund Name: 94 . ½¨ÐÅ»¦Éî300
+T^T  59.9429600%  T^T
+Fund Name: 95 . ÄÏ·½ÐÂÐËÏû·Ñ·Ö¼¶
+T^T  51.8518500%  T^T
+Fund Name: 96 . ¼ÎÊµÖÐÖ¤500ETFÁª½Ó
+T^T  69.1633700%  T^T
+Fund Name: 97 . »ªÏÄÖÐÐ¡°åETF
+T^T  83.0161600%  T^T
+Fund Name: 98 . Åô»ªÉîÖ¤ÃñÓªETF
+T^T  87.2440100%  T^T
+Fund Name: 99 . »ª±¦¶à²ßÂÔÔö³¤
+°ËÔÂ 02, 2017 11:01:43 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://fund.eastmoney.com:80: Connection reset
+°ËÔÂ 02, 2017 11:01:43 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://fund.eastmoney.com:80
+T^T  90.3526900%  T^T
+Fund Name: 100 . Åµ°²ÖÐÐ¡°åµÈÈ¨ÖØETF
+T^T  64.0850100%  T^T
+Fund Name: 101 . ´ó³ÉÖÐÖ¤100ETF
+Fund id : 159923 --¡¾pageNo:22, maxPage: 22, (i+1): 33, trs.size: 34  --¡¿
+T^T  60.2302500%  T^T
+Fund Name: 102 . ¾°Ë³»¦Éî300µÈÈ¨ETF
+T^T  64.3279800%  T^T
+Fund Name: 103 . ÄÏ·½¿ªÔª»¦Éî300ETF
+T^T  61.7278700%  T^T
+Fund Name: 104 . ½»ÒøÉîÖ¤300ETF
+T^T  62.0544100%  T^T
+Fund Name: 105 . Ò×·½´ï´´Òµ°åETF
+T^T  84.2672400%  T^T
+Fund Name: 106 . Ì©ÐÅÖÐÖ¤200
+T^T  66.1336400%  T^T
+Fund Name: 107 . ÉêÍòÁâÐÅ»¦Éî300Ö¸ÊýÔöÇ¿
+°ËÔÂ 02, 2017 11:03:09 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://fund.eastmoney.com:80: Connection reset
+°ËÔÂ 02, 2017 11:03:09 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://fund.eastmoney.com:80
+T^T  65.7011200%  T^T
+Fund Name: 108 . »ãÌí¸»ÖÐÖ¤ÄÜÔ´ETF
+T^T  55.4710700%  T^T
+Fund Name: 109 . »ãÌí¸»ÖÐÖ¤Ö÷ÒªÏû·ÑETF
+T^T  55.0078800%  T^T
+Fund Name: 110 . »ãÌí¸»ÖÐÖ¤½ðÈÚµØ²úETF
+T^T  62.7677300%  T^T
+Fund Name: 111 . »ãÌí¸»ÖÐÖ¤Ò½Ò©ÎÀÉúETF
+T^T  57.2583600%  T^T
+Fund Name: 112 . ²©Ê±ÉÏÖ¤×ÔÈ»×ÊÔ´Áª½Ó
+T^T  55.9121900%  T^T
+Fund Name: 113 . »ã·á½úÐÅÖÐÐ¡ÅÌ¹ÉÆ±
+T^T  68.0851100%  T^T
+Fund Name: 114 . »ã·á½úÐÅ¿Æ¼¼ÏÈ·æ
+T^T  79.2397200%  T^T
+Fund Name: 115 . Å©Òø»¦Éî300
+T^T  60.9919400%  T^T
+Fund Name: 116 . Åô»ªÖÐÖ¤500
+T^T  74.8263900%  T^T
+Fund Name: 117 . ¹ú¸»»¦Éî300
+T^T  59.3281700%  T^T
+Fund Name: 118 . Ò×·½´ïÉÏÖ¤50Ö¸ÊýA
+T^T  81.7330000%  T^T
+Fund Name: 119 . ½»Òø180ÖÎÀíÁª½Ó
+T^T  61.7046800%  T^T
+Fund Name: 120 . ¹úÁª°²Ë«ìûÖÐÖ¤100
+T^T  59.3686400%  T^T
+Fund Name: 121 . ¹ã·¢ÖÐÐ¡°å300ETF
+°ËÔÂ 02, 2017 11:09:49 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://fund.eastmoney.com:80: Software caused connection abort: recv failed
+°ËÔÂ 02, 2017 11:09:49 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://fund.eastmoney.com:80
+T^T  74.1464600%  T^T
+Fund Name: 122 . ÉÏÍ¶ÖÐÖ¤Ïû·ÑÖ¸Êý
+T^T  55.4884200%  T^T
+Fund Name: 123 . ÉÏÖ¤½ðÈÚµØ²úETF
+T^T  59.9516000%  T^T
+Fund Name: 124 . »ª°²»¦Éî300ÔöÇ¿A
+T^T  56.1306500%  T^T
+Fund Name: 125 . ÄÏ·½ÌìÔª
+T^T  60.4771400%  T^T
+Fund Name: 126 . ÒøºÓ¶¨Í¶±¦ÌÚÑ¶¼Ã°²Ö¸Êý
+T^T  62.0728900%  T^T
+Fund Name: 127 . ¾°Ë³³¤³ÇÑÐ¾¿¾«Ñ¡¹ÉÆ±
+Fund id : 000688 --¡¾pageNo:14, maxPage: 14, (i+1): 20, trs.size: 33  --¡¿
+Fund id : 000688 --¡¾pageNo:14, maxPage: 14, (i+1): 21, trs.size: 33  --¡¿
+Fund id : 000688 --¡¾pageNo:14, maxPage: 14, (i+1): 22, trs.size: 33  --¡¿
+Fund id : 000688 --¡¾pageNo:14, maxPage: 14, (i+1): 23, trs.size: 33  --¡¿
+Fund id : 000688 --¡¾pageNo:14, maxPage: 14, (i+1): 24, trs.size: 33  --¡¿
+Fund id : 000688 --¡¾pageNo:14, maxPage: 14, (i+1): 25, trs.size: 33  --¡¿
+Fund id : 000688 --¡¾pageNo:14, maxPage: 14, (i+1): 26, trs.size: 33  --¡¿
+Fund id : 000688 --¡¾pageNo:14, maxPage: 14, (i+1): 27, trs.size: 33  --¡¿
+Fund id : 000688 --¡¾pageNo:14, maxPage: 14, (i+1): 28, trs.size: 33  --¡¿
+Fund id : 000688 --¡¾pageNo:14, maxPage: 14, (i+1): 29, trs.size: 33  --¡¿
+Fund id : 000688 --¡¾pageNo:14, maxPage: 14, (i+1): 30, trs.size: 33  --¡¿
+Fund id : 000688 --¡¾pageNo:14, maxPage: 14, (i+1): 31, trs.size: 33  --¡¿
+Fund id : 000688 --¡¾pageNo:14, maxPage: 14, (i+1): 32, trs.size: 33  --¡¿
+T^T  52.0883300%  T^T
+Fund Name: 128 . ÐÅ³ÏÖÐÖ¤800½ðÈÚÖ¸Êý·Ö¼¶
+T^T  50.2577300%  T^T
+Fund Name: 129 . Åô»ªÒ½ÁÆ±£½¡¹ÉÆ±
+Fund id : 000780 --¡¾pageNo:14, maxPage: 14, (i+1): 10, trs.size: 19  --¡¿
+Fund id : 000780 --¡¾pageNo:14, maxPage: 14, (i+1): 11, trs.size: 19  --¡¿
+Fund id : 000780 --¡¾pageNo:14, maxPage: 14, (i+1): 12, trs.size: 19  --¡¿
+Fund id : 000780 --¡¾pageNo:14, maxPage: 14, (i+1): 13, trs.size: 19  --¡¿
+Fund id : 000780 --¡¾pageNo:14, maxPage: 14, (i+1): 14, trs.size: 19  --¡¿
+Fund id : 000780 --¡¾pageNo:14, maxPage: 14, (i+1): 15, trs.size: 19  --¡¿
+Fund id : 000780 --¡¾pageNo:14, maxPage: 14, (i+1): 16, trs.size: 19  --¡¿
+Fund id : 000780 --¡¾pageNo:14, maxPage: 14, (i+1): 17, trs.size: 19  --¡¿
+Fund id : 000780 --¡¾pageNo:14, maxPage: 14, (i+1): 18, trs.size: 19  --¡¿
+T^T  58.4888900%  T^T
+Fund Name: 130 . ¹úÌ©¹úÖ¤Ò½Ò©ÎÀÉúÖ¸Êý·Ö¼¶
+T^T  56.3656400%  T^T
+Fund Name: 131 . »ª°²ÖÐÖ¤Ï¸·ÖÒ½Ò©ETF
+T^T  54.3669300%  T^T
+Fund Name: 132 . ´ó³ÉÖÐÖ¤500ÉîÊÐETF
+T^T  67.6489600%  T^T
+Fund Name: 133 . ÉêÍòÖÐÖ¤»·±£²úÒµÖ¸Êý·Ö¼¶
+Fund id : 163114 --¡¾pageNo:16, maxPage: 16, (i+1): 19, trs.size: 22  --¡¿
+Fund id : 163114 --¡¾pageNo:16, maxPage: 16, (i+1): 21, trs.size: 22  --¡¿
+T^T  59.5027300%  T^T
+Fund Name: 134 . ¾°Ë³³¤³Ç³É³¤Ö®ÐÇ
+T^T  61.1362700%  T^T
+Fund Name: 135 . ¸»¹ú³ÇÕò·¢Õ¹¹ÉÆ±
+Fund id : 000471 --¡¾pageNo:17, maxPage: 17, (i+1): 1, trs.size: 14  --¡¿
+Fund id : 000471 --¡¾pageNo:17, maxPage: 17, (i+1): 8, trs.size: 14  --¡¿
+T^T  70.5135800%  T^T
+Fund Name: 136 . »ãÌí¸»»¦Éî300°²ÖÐÖ¸Êý
+T^T  59.7757100%  T^T
+Fund Name: 137 . Ì©´ïÖÐÖ¤500·Ö¼¶
+T^T  64.6696300%  T^T
+Fund Name: 138 . ¹ã·¢ÖÐÖ¤500ETFÁª½ÓA
+T^T  74.3432400%  T^T
+Fund Name: 139 . ¹ã·¢ÉîÖ¤100Ö¸Êý·Ö¼¶
+T^T  56.9424600%  T^T
+Fund Name: 140 . Åô»ª»¦Éî300ETF
+T^T  81.7403900%  T^T
+Fund Name: 141 . ¼ÎÊµÐÂÐË²úÒµ¹ÉÆ±
+Fund id : 000751 --¡¾pageNo:14, maxPage: 14, (i+1): 6, trs.size: 17  --¡¿
+Fund id : 000751 --¡¾pageNo:14, maxPage: 14, (i+1): 7, trs.size: 17  --¡¿
+Fund id : 000751 --¡¾pageNo:14, maxPage: 14, (i+1): 8, trs.size: 17  --¡¿
+Fund id : 000751 --¡¾pageNo:14, maxPage: 14, (i+1): 9, trs.size: 17  --¡¿
+Fund id : 000751 --¡¾pageNo:14, maxPage: 14, (i+1): 10, trs.size: 17  --¡¿
+Fund id : 000751 --¡¾pageNo:14, maxPage: 14, (i+1): 11, trs.size: 17  --¡¿
+Fund id : 000751 --¡¾pageNo:14, maxPage: 14, (i+1): 12, trs.size: 17  --¡¿
+Fund id : 000751 --¡¾pageNo:14, maxPage: 14, (i+1): 13, trs.size: 17  --¡¿
+Fund id : 000751 --¡¾pageNo:14, maxPage: 14, (i+1): 14, trs.size: 17  --¡¿
+Fund id : 000751 --¡¾pageNo:14, maxPage: 14, (i+1): 15, trs.size: 17  --¡¿
+Fund id : 000751 --¡¾pageNo:14, maxPage: 14, (i+1): 16, trs.size: 17  --¡¿
+T^T  54.6279500%  T^T
+Fund Name: 142 . ¼ÎÊµÖÐÖ¤Ò½Ò©ÎÀÉúETF
+Fund id : 512610 --¡¾pageNo:15, maxPage: 15, (i+1): 40, trs.size: 47  --¡¿
+Fund id : 512610 --¡¾pageNo:15, maxPage: 15, (i+1): 41, trs.size: 47  --¡¿
+Fund id : 512610 --¡¾pageNo:15, maxPage: 15, (i+1): 42, trs.size: 47  --¡¿
+Fund id : 512610 --¡¾pageNo:15, maxPage: 15, (i+1): 43, trs.size: 47  --¡¿
+Fund id : 512610 --¡¾pageNo:15, maxPage: 15, (i+1): 45, trs.size: 47  --¡¿
+Fund id : 512610 --¡¾pageNo:15, maxPage: 15, (i+1): 46, trs.size: 47  --¡¿
+T^T  53.9274500%  T^T
+Fund Name: 143 . Åô»ªµØ²ú·Ö¼¶
+Fund id : 160628 --¡¾pageNo:15, maxPage: 15, (i+1): 3, trs.size: 4  --¡¿
+T^T  59.3770700%  T^T
+Fund Name: 144 . ¹ú¸»½¡¿µÓÅÖÊÉú»î¹ÉÆ±
+Fund id : 000761 --¡¾pageNo:14, maxPage: 14, (i+1): 10, trs.size: 19  --¡¿
+Fund id : 000761 --¡¾pageNo:14, maxPage: 14, (i+1): 11, trs.size: 19  --¡¿
+Fund id : 000761 --¡¾pageNo:14, maxPage: 14, (i+1): 12, trs.size: 19  --¡¿
+Fund id : 000761 --¡¾pageNo:14, maxPage: 14, (i+1): 13, trs.size: 19  --¡¿
+Fund id : 000761 --¡¾pageNo:14, maxPage: 14, (i+1): 14, trs.size: 19  --¡¿
+Fund id : 000761 --¡¾pageNo:14, maxPage: 14, (i+1): 15, trs.size: 19  --¡¿
+Fund id : 000761 --¡¾pageNo:14, maxPage: 14, (i+1): 16, trs.size: 19  --¡¿
+Fund id : 000761 --¡¾pageNo:14, maxPage: 14, (i+1): 17, trs.size: 19  --¡¿
+Fund id : 000761 --¡¾pageNo:14, maxPage: 14, (i+1): 18, trs.size: 19  --¡¿
+T^T  59.7613400%  T^T
+Fund Name: 145 . ´óÄ¦Æ·ÖÊÉú»î¹ÉÆ±
+T^T  65.7863100%  T^T
+Fund Name: 146 . Åô»ªÖ¤È¯±£ÏÕ·Ö¼¶
+T^T  60.4620500%  T^T
+Fund Name: 147 . ½¨ÐÅÖÐÖ¤500Ö¸ÊýÔöÇ¿
+T^T  69.6026900%  T^T
+Fund Name: 148 . Åµ°²ÖÐÖ¤500ETF
+T^T  67.1239700%  T^T
+Fund Name: 149 . »ª°²»¦Éî300ÔöÇ¿C
+T^T  55.7477100%  T^T
+Fund Name: 150 . ¹ã·¢ÖÐÖ¤È«Ö¸¿ÉÑ¡Ïû·ÑETF
+Fund id : 159936 --¡¾pageNo:16, maxPage: 16, (i+1): 12, trs.size: 17  --¡¿
+Fund id : 159936 --¡¾pageNo:16, maxPage: 16, (i+1): 13, trs.size: 17  --¡¿
+Fund id : 159936 --¡¾pageNo:16, maxPage: 16, (i+1): 14, trs.size: 17  --¡¿
+Fund id : 159936 --¡¾pageNo:16, maxPage: 16, (i+1): 15, trs.size: 17  --¡¿
+Fund id : 159936 --¡¾pageNo:16, maxPage: 16, (i+1): 16, trs.size: 17  --¡¿
+T^T  62.4606500%  T^T
+Fund Name: 151 . ÉÏÍ¶Ä¦¸ùÃñÉúÐèÇó
+T^T  65.4968600%  T^T
+Fund Name: 152 . ½¨ÐÅÖÐÐ¡ÅÌÏÈ·æ¹ÉÆ±
+Fund id : 000729 --¡¾pageNo:14, maxPage: 14, (i+1): 30, trs.size: 40  --¡¿
+Fund id : 000729 --¡¾pageNo:14, maxPage: 14, (i+1): 31, trs.size: 40  --¡¿
+Fund id : 000729 --¡¾pageNo:14, maxPage: 14, (i+1): 32, trs.size: 40  --¡¿
+Fund id : 000729 --¡¾pageNo:14, maxPage: 14, (i+1): 33, trs.size: 40  --¡¿
+Fund id : 000729 --¡¾pageNo:14, maxPage: 14, (i+1): 34, trs.size: 40  --¡¿
+Fund id : 000729 --¡¾pageNo:14, maxPage: 14, (i+1): 35, trs.size: 40  --¡¿
+Fund id : 000729 --¡¾pageNo:14, maxPage: 14, (i+1): 36, trs.size: 40  --¡¿
+Fund id : 000729 --¡¾pageNo:14, maxPage: 14, (i+1): 37, trs.size: 40  --¡¿
+Fund id : 000729 --¡¾pageNo:14, maxPage: 14, (i+1): 38, trs.size: 40  --¡¿
+Fund id : 000729 --¡¾pageNo:14, maxPage: 14, (i+1): 39, trs.size: 40  --¡¿
+T^T  57.8479300%  T^T
+Fund Name: 153 . ½¨ÐÅ¸Ä¸ïºìÀû¹ÉÆ±
+Fund id : 000592 --¡¾pageNo:15, maxPage: 16, (i+1): 44, trs.size: 50  --¡¿
+Fund id : 000592 --¡¾pageNo:15, maxPage: 16, (i+1): 45, trs.size: 50  --¡¿
+Fund id : 000592 --¡¾pageNo:15, maxPage: 16, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 000592 --¡¾pageNo:15, maxPage: 16, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 000592 --¡¾pageNo:15, maxPage: 16, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 000592 --¡¾pageNo:15, maxPage: 16, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 000592 --¡¾pageNo:16, maxPage: 16, (i+1): 1, trs.size: 6  --¡¿
+Fund id : 000592 --¡¾pageNo:16, maxPage: 16, (i+1): 2, trs.size: 6  --¡¿
+Fund id : 000592 --¡¾pageNo:16, maxPage: 16, (i+1): 3, trs.size: 6  --¡¿
+Fund id : 000592 --¡¾pageNo:16, maxPage: 16, (i+1): 4, trs.size: 6  --¡¿
+Fund id : 000592 --¡¾pageNo:16, maxPage: 16, (i+1): 5, trs.size: 6  --¡¿
+T^T  62.1212100%  T^T
+Fund Name: 154 . ¾°Ë³³¤³ÇÖÐÖ¤Ò½Ò©ÎÀÉúETF
+Fund id : 512230 --¡¾pageNo:15, maxPage: 15, (i+1): 24, trs.size: 28  --¡¿
+Fund id : 512230 --¡¾pageNo:15, maxPage: 15, (i+1): 25, trs.size: 28  --¡¿
+Fund id : 512230 --¡¾pageNo:15, maxPage: 15, (i+1): 26, trs.size: 28  --¡¿
+Fund id : 512230 --¡¾pageNo:15, maxPage: 15, (i+1): 27, trs.size: 28  --¡¿
+T^T  52.1215100%  T^T
+Fund Name: 155 . ¾°Ë³ÖÐÖ¤800Ê³Æ·ÒûÁÏETF
+Fund id : 512210 --¡¾pageNo:15, maxPage: 15, (i+1): 24, trs.size: 28  --¡¿
+Fund id : 512210 --¡¾pageNo:15, maxPage: 15, (i+1): 25, trs.size: 28  --¡¿
+Fund id : 512210 --¡¾pageNo:15, maxPage: 15, (i+1): 26, trs.size: 28  --¡¿
+Fund id : 512210 --¡¾pageNo:15, maxPage: 15, (i+1): 27, trs.size: 28  --¡¿
+T^T  47.8479200%  T^T
+Fund Name: 156 . ÉêÍòÁâÐÅÖÐÖ¤¾ü¹¤Ö¸Êý·Ö¼¶
+Fund id : 163115 --¡¾pageNo:15, maxPage: 15, (i+1): 29, trs.size: 33  --¡¿
+Fund id : 163115 --¡¾pageNo:15, maxPage: 15, (i+1): 31, trs.size: 33  --¡¿
+T^T  60.5141800%  T^T
+Fund Name: 157 . »ãÌí¸»»·±£ÐÐÒµ¹ÉÆ±
+Fund id : 000696 --¡¾pageNo:14, maxPage: 14, (i+1): 15, trs.size: 24  --¡¿
+Fund id : 000696 --¡¾pageNo:14, maxPage: 14, (i+1): 16, trs.size: 24  --¡¿
+Fund id : 000696 --¡¾pageNo:14, maxPage: 14, (i+1): 17, trs.size: 24  --¡¿
+Fund id : 000696 --¡¾pageNo:14, maxPage: 14, (i+1): 18, trs.size: 24  --¡¿
+Fund id : 000696 --¡¾pageNo:14, maxPage: 14, (i+1): 19, trs.size: 24  --¡¿
+Fund id : 000696 --¡¾pageNo:14, maxPage: 14, (i+1): 20, trs.size: 24  --¡¿
+Fund id : 000696 --¡¾pageNo:14, maxPage: 14, (i+1): 21, trs.size: 24  --¡¿
+Fund id : 000696 --¡¾pageNo:14, maxPage: 14, (i+1): 22, trs.size: 24  --¡¿
+Fund id : 000696 --¡¾pageNo:14, maxPage: 14, (i+1): 23, trs.size: 24  --¡¿
+T^T  54.9295800%  T^T
+Fund Name: 158 . ÐÅ³ÏÖÐÖ¤800Ò½Ò©Ö¸Êý·Ö¼¶
+T^T  56.2953200%  T^T
+Fund Name: 159 . Ç°º£¿ªÔ´ÖÐÖ¤¾ü¹¤Ö¸ÊýA
+Fund id : 000596 --¡¾pageNo:16, maxPage: 16, (i+1): 24, trs.size: 26  --¡¿
+Fund id : 000596 --¡¾pageNo:16, maxPage: 16, (i+1): 25, trs.size: 26  --¡¿
+T^T  68.9730100%  T^T
+Fund Name: 160 . ¹¤ÒøÑÐ¾¿¾«Ñ¡¹ÉÆ±
+Fund id : 000803 --¡¾pageNo:13, maxPage: 13, (i+1): 27, trs.size: 39  --¡¿
+Fund id : 000803 --¡¾pageNo:13, maxPage: 13, (i+1): 28, trs.size: 39  --¡¿
+Fund id : 000803 --¡¾pageNo:13, maxPage: 13, (i+1): 29, trs.size: 39  --¡¿
+Fund id : 000803 --¡¾pageNo:13, maxPage: 13, (i+1): 30, trs.size: 39  --¡¿
+Fund id : 000803 --¡¾pageNo:13, maxPage: 13, (i+1): 31, trs.size: 39  --¡¿
+Fund id : 000803 --¡¾pageNo:13, maxPage: 13, (i+1): 32, trs.size: 39  --¡¿
+Fund id : 000803 --¡¾pageNo:13, maxPage: 13, (i+1): 33, trs.size: 39  --¡¿
+Fund id : 000803 --¡¾pageNo:13, maxPage: 13, (i+1): 34, trs.size: 39  --¡¿
+Fund id : 000803 --¡¾pageNo:13, maxPage: 13, (i+1): 35, trs.size: 39  --¡¿
+Fund id : 000803 --¡¾pageNo:13, maxPage: 13, (i+1): 36, trs.size: 39  --¡¿
+Fund id : 000803 --¡¾pageNo:13, maxPage: 13, (i+1): 37, trs.size: 39  --¡¿
+T^T  55.1971300%  T^T
+Fund Name: 161 . ÖÐÖ¤500Ò½Ò©ÎÀÉúETF
+Fund id : 512300 --¡¾pageNo:13, maxPage: 14, (i+1): 42, trs.size: 50  --¡¿
+Fund id : 512300 --¡¾pageNo:13, maxPage: 14, (i+1): 44, trs.size: 50  --¡¿
+Fund id : 512300 --¡¾pageNo:13, maxPage: 14, (i+1): 45, trs.size: 50  --¡¿
+Fund id : 512300 --¡¾pageNo:13, maxPage: 14, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 512300 --¡¾pageNo:13, maxPage: 14, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 512300 --¡¾pageNo:13, maxPage: 14, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 512300 --¡¾pageNo:13, maxPage: 14, (i+1): 49, trs.size: 50  --¡¿
+T^T  56.1986600%  T^T
+Fund Name: 162 . ¹ã·¢°Ù·¢100Ö¸ÊýA
+Fund id : 000826 --¡¾pageNo:14, maxPage: 14, (i+1): 10, trs.size: 14  --¡¿
+Fund id : 000826 --¡¾pageNo:14, maxPage: 14, (i+1): 11, trs.size: 14  --¡¿
+Fund id : 000826 --¡¾pageNo:14, maxPage: 14, (i+1): 12, trs.size: 14  --¡¿
+T^T  60.2139000%  T^T
+Fund Name: 163 . ÄÏ·½Ð¡¿µETFÁª½ÓC
+(¡Ñ_¡Ñ)  10.2195200%  (¡Ñ_¡Ñ)
+Fund Name: 164 . Åµ°²ÉÏÖ¤ÐÂÐËETF
+T^T  74.2117600%  T^T
+Fund Name: 165 . ¹úÊÙ°²±£»¦Éî300Ö¸Êý
+Fund id : 000613 --¡¾pageNo:16, maxPage: 16, (i+1): 14, trs.size: 17  --¡¿
+Fund id : 000613 --¡¾pageNo:16, maxPage: 16, (i+1): 15, trs.size: 17  --¡¿
+T^T  56.6063200%  T^T
+Fund Name: 166 . ÕÐÉÌÖÐÖ¤È«Ö¸Ö¤È¯¹«Ë¾Ö¸Êý·Ö¼¶
+Fund id : 161720 --¡¾pageNo:14, maxPage: 14, (i+1): 6, trs.size: 9  --¡¿
+Fund id : 161720 --¡¾pageNo:14, maxPage: 14, (i+1): 7, trs.size: 9  --¡¿
+T^T  60.8382400%  T^T
+Fund Name: 167 . ÒøºÓ¿µÀÖ
+Fund id : 519673 --¡¾pageNo:14, maxPage: 14, (i+1): 10, trs.size: 11  --¡¿
+T^T  59.5959600%  T^T
+Fund Name: 168 . Ç°º£¿ªÔ´»¦Éî300Ö¸Êý
+Fund id : 000656 --¡¾pageNo:16, maxPage: 16, (i+1): 12, trs.size: 14  --¡¿
+Fund id : 000656 --¡¾pageNo:16, maxPage: 16, (i+1): 13, trs.size: 14  --¡¿
+T^T  59.6032100%  T^T
+Fund Name: 169 . ¹ã·¢ÖÐÖ¤È«Ö¸Ò½Ò©ÎÀÉúETF
+Fund id : 159938 --¡¾pageNo:13, maxPage: 13, (i+1): 29, trs.size: 36  --¡¿
+Fund id : 159938 --¡¾pageNo:13, maxPage: 13, (i+1): 31, trs.size: 36  --¡¿
+Fund id : 159938 --¡¾pageNo:13, maxPage: 13, (i+1): 32, trs.size: 36  --¡¿
+Fund id : 159938 --¡¾pageNo:13, maxPage: 13, (i+1): 33, trs.size: 36  --¡¿
+Fund id : 159938 --¡¾pageNo:13, maxPage: 13, (i+1): 34, trs.size: 36  --¡¿
+Fund id : 159938 --¡¾pageNo:13, maxPage: 13, (i+1): 35, trs.size: 36  --¡¿
+T^T  50.9076600%  T^T
+Fund Name: 170 . »ª°²ÐÂË¿Â·Ö÷Ìâ¹ÉÆ±
+Fund id : 001104 --¡¾pageNo:11, maxPage: 11, (i+1): 19, trs.size: 31  --¡¿
+Fund id : 001104 --¡¾pageNo:11, maxPage: 11, (i+1): 20, trs.size: 31  --¡¿
+Fund id : 001104 --¡¾pageNo:11, maxPage: 11, (i+1): 21, trs.size: 31  --¡¿
+Fund id : 001104 --¡¾pageNo:11, maxPage: 11, (i+1): 22, trs.size: 31  --¡¿
+Fund id : 001104 --¡¾pageNo:11, maxPage: 11, (i+1): 24, trs.size: 31  --¡¿
+Fund id : 001104 --¡¾pageNo:11, maxPage: 11, (i+1): 25, trs.size: 31  --¡¿
+Fund id : 001104 --¡¾pageNo:11, maxPage: 11, (i+1): 26, trs.size: 31  --¡¿
+Fund id : 001104 --¡¾pageNo:11, maxPage: 11, (i+1): 27, trs.size: 31  --¡¿
+Fund id : 001104 --¡¾pageNo:11, maxPage: 11, (i+1): 28, trs.size: 31  --¡¿
+Fund id : 001104 --¡¾pageNo:11, maxPage: 11, (i+1): 29, trs.size: 31  --¡¿
+T^T  35.7466100%  T^T
+Fund Name: 171 . ¼ÎÊµÐÂÏû·Ñ¹ÉÆ±
+Fund id : 001044 --¡¾pageNo:11, maxPage: 11, (i+1): 39, trs.size: 48  --¡¿
+Fund id : 001044 --¡¾pageNo:11, maxPage: 11, (i+1): 40, trs.size: 48  --¡¿
+Fund id : 001044 --¡¾pageNo:11, maxPage: 11, (i+1): 41, trs.size: 48  --¡¿
+Fund id : 001044 --¡¾pageNo:11, maxPage: 11, (i+1): 42, trs.size: 48  --¡¿
+Fund id : 001044 --¡¾pageNo:11, maxPage: 11, (i+1): 43, trs.size: 48  --¡¿
+Fund id : 001044 --¡¾pageNo:11, maxPage: 11, (i+1): 44, trs.size: 48  --¡¿
+Fund id : 001044 --¡¾pageNo:11, maxPage: 11, (i+1): 45, trs.size: 48  --¡¿
+Fund id : 001044 --¡¾pageNo:11, maxPage: 11, (i+1): 46, trs.size: 48  --¡¿
+Fund id : 001044 --¡¾pageNo:11, maxPage: 11, (i+1): 47, trs.size: 48  --¡¿
+T^T  43.1358400%  T^T
+Fund Name: 172 . ¸»¹úÐÂÐË²úÒµ¹ÉÆ±
+Fund id : 001048 --¡¾pageNo:11, maxPage: 12, (i+1): 45, trs.size: 50  --¡¿
+Fund id : 001048 --¡¾pageNo:11, maxPage: 12, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 001048 --¡¾pageNo:11, maxPage: 12, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 001048 --¡¾pageNo:11, maxPage: 12, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 001048 --¡¾pageNo:11, maxPage: 12, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 001048 --¡¾pageNo:11, maxPage: 12, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 001048 --¡¾pageNo:12, maxPage: 12, (i+1): 1, trs.size: 5  --¡¿
+Fund id : 001048 --¡¾pageNo:12, maxPage: 12, (i+1): 2, trs.size: 5  --¡¿
+Fund id : 001048 --¡¾pageNo:12, maxPage: 12, (i+1): 3, trs.size: 5  --¡¿
+T^T  44.5979900%  T^T
+Fund Name: 173 . ¹¤Òø´´ÐÂ¶¯Á¦
+Fund id : 000893 --¡¾pageNo:13, maxPage: 13, (i+1): 41, trs.size: 43  --¡¿
+T^T  68.2260300%  T^T
+Fund Name: 174 . ¼ÎÊµ»¦Éî300Ö¸ÊýÑÐ¾¿ÔöÇ¿
+Fund id : 000176 --¡¾pageNo:12, maxPage: 13, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 000176 --¡¾pageNo:13, maxPage: 13, (i+1): 1, trs.size: 8  --¡¿
+Fund id : 000176 --¡¾pageNo:13, maxPage: 13, (i+1): 2, trs.size: 8  --¡¿
+Fund id : 000176 --¡¾pageNo:13, maxPage: 13, (i+1): 3, trs.size: 8  --¡¿
+Fund id : 000176 --¡¾pageNo:13, maxPage: 13, (i+1): 4, trs.size: 8  --¡¿
+Fund id : 000176 --¡¾pageNo:13, maxPage: 13, (i+1): 5, trs.size: 8  --¡¿
+Fund id : 000176 --¡¾pageNo:13, maxPage: 13, (i+1): 6, trs.size: 8  --¡¿
+Fund id : 000176 --¡¾pageNo:13, maxPage: 13, (i+1): 7, trs.size: 8  --¡¿
+T^T  43.5859100%  T^T
+Fund Name: 175 . ÕÐÉÌÒ½Ò©½¡¿µ²úÒµ¹ÉÆ±
+Fund id : 000960 --¡¾pageNo:12, maxPage: 12, (i+1): 38, trs.size: 44  --¡¿
+Fund id : 000960 --¡¾pageNo:12, maxPage: 12, (i+1): 39, trs.size: 44  --¡¿
+Fund id : 000960 --¡¾pageNo:12, maxPage: 12, (i+1): 40, trs.size: 44  --¡¿
+Fund id : 000960 --¡¾pageNo:12, maxPage: 12, (i+1): 41, trs.size: 44  --¡¿
+Fund id : 000960 --¡¾pageNo:12, maxPage: 12, (i+1): 42, trs.size: 44  --¡¿
+Fund id : 000960 --¡¾pageNo:12, maxPage: 12, (i+1): 43, trs.size: 44  --¡¿
+T^T  56.4413900%  T^T
+Fund Name: 176 . ¼ÎÊµÆóÒµ±ä¸ï¹ÉÆ±
+Fund id : 001036 --¡¾pageNo:12, maxPage: 12, (i+1): 16, trs.size: 26  --¡¿
+Fund id : 001036 --¡¾pageNo:12, maxPage: 12, (i+1): 17, trs.size: 26  --¡¿
+Fund id : 001036 --¡¾pageNo:12, maxPage: 12, (i+1): 18, trs.size: 26  --¡¿
+Fund id : 001036 --¡¾pageNo:12, maxPage: 12, (i+1): 19, trs.size: 26  --¡¿
+Fund id : 001036 --¡¾pageNo:12, maxPage: 12, (i+1): 20, trs.size: 26  --¡¿
+Fund id : 001036 --¡¾pageNo:12, maxPage: 12, (i+1): 21, trs.size: 26  --¡¿
+Fund id : 001036 --¡¾pageNo:12, maxPage: 12, (i+1): 22, trs.size: 26  --¡¿
+Fund id : 001036 --¡¾pageNo:12, maxPage: 12, (i+1): 23, trs.size: 26  --¡¿
+Fund id : 001036 --¡¾pageNo:12, maxPage: 12, (i+1): 24, trs.size: 26  --¡¿
+T^T  53.4450700%  T^T
+Fund Name: 177 . »ª±¦Æ·ÖÊÉú»î¹ÉÆ±
+Fund id : 000867 --¡¾pageNo:12, maxPage: 12, (i+1): 32, trs.size: 45  --¡¿
+Fund id : 000867 --¡¾pageNo:12, maxPage: 12, (i+1): 34, trs.size: 45  --¡¿
+Fund id : 000867 --¡¾pageNo:12, maxPage: 12, (i+1): 36, trs.size: 45  --¡¿
+Fund id : 000867 --¡¾pageNo:12, maxPage: 12, (i+1): 38, trs.size: 45  --¡¿
+Fund id : 000867 --¡¾pageNo:12, maxPage: 12, (i+1): 41, trs.size: 45  --¡¿
+Fund id : 000867 --¡¾pageNo:12, maxPage: 12, (i+1): 42, trs.size: 45  --¡¿
+Fund id : 000867 --¡¾pageNo:12, maxPage: 12, (i+1): 43, trs.size: 45  --¡¿
+Fund id : 000867 --¡¾pageNo:12, maxPage: 12, (i+1): 44, trs.size: 45  --¡¿
+T^T  53.7606300%  T^T
+Fund Name: 178 . Ò×·½´ï»¦Éî300·ÇÒøETFÁª½Ó
+Fund id : 000950 --¡¾pageNo:13, maxPage: 13, (i+1): 13, trs.size: 15  --¡¿
+T^T  52.4163600%  T^T
+Fund Name: 179 . ¾°Ë³³¤³ÇÁ¿»¯¾«Ñ¡¹ÉÆ±
+Fund id : 000978 --¡¾pageNo:12, maxPage: 12, (i+1): 18, trs.size: 28  --¡¿
+Fund id : 000978 --¡¾pageNo:12, maxPage: 12, (i+1): 19, trs.size: 28  --¡¿
+Fund id : 000978 --¡¾pageNo:12, maxPage: 12, (i+1): 20, trs.size: 28  --¡¿
+Fund id : 000978 --¡¾pageNo:12, maxPage: 12, (i+1): 21, trs.size: 28  --¡¿
+Fund id : 000978 --¡¾pageNo:12, maxPage: 12, (i+1): 22, trs.size: 28  --¡¿
+Fund id : 000978 --¡¾pageNo:12, maxPage: 12, (i+1): 23, trs.size: 28  --¡¿
+Fund id : 000978 --¡¾pageNo:12, maxPage: 12, (i+1): 24, trs.size: 28  --¡¿
+Fund id : 000978 --¡¾pageNo:12, maxPage: 12, (i+1): 25, trs.size: 28  --¡¿
+Fund id : 000978 --¡¾pageNo:12, maxPage: 12, (i+1): 26, trs.size: 28  --¡¿
+Fund id : 000978 --¡¾pageNo:12, maxPage: 12, (i+1): 27, trs.size: 28  --¡¿
+T^T  53.9126000%  T^T
+Fund Name: 180 . Å©ÒøÒ½ÁÆ±£½¡¹ÉÆ±
+Fund id : 000913 --¡¾pageNo:11, maxPage: 12, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 000913 --¡¾pageNo:12, maxPage: 12, (i+1): 1, trs.size: 15  --¡¿
+Fund id : 000913 --¡¾pageNo:12, maxPage: 12, (i+1): 2, trs.size: 15  --¡¿
+Fund id : 000913 --¡¾pageNo:12, maxPage: 12, (i+1): 3, trs.size: 15  --¡¿
+Fund id : 000913 --¡¾pageNo:12, maxPage: 12, (i+1): 4, trs.size: 15  --¡¿
+Fund id : 000913 --¡¾pageNo:12, maxPage: 12, (i+1): 5, trs.size: 15  --¡¿
+Fund id : 000913 --¡¾pageNo:12, maxPage: 12, (i+1): 7, trs.size: 15  --¡¿
+Fund id : 000913 --¡¾pageNo:12, maxPage: 12, (i+1): 8, trs.size: 15  --¡¿
+Fund id : 000913 --¡¾pageNo:12, maxPage: 12, (i+1): 9, trs.size: 15  --¡¿
+Fund id : 000913 --¡¾pageNo:12, maxPage: 12, (i+1): 10, trs.size: 15  --¡¿
+Fund id : 000913 --¡¾pageNo:12, maxPage: 12, (i+1): 12, trs.size: 15  --¡¿
+Fund id : 000913 --¡¾pageNo:12, maxPage: 12, (i+1): 13, trs.size: 15  --¡¿
+Fund id : 000913 --¡¾pageNo:12, maxPage: 12, (i+1): 14, trs.size: 15  --¡¿
+T^T  50.5795700%  T^T
+Fund Name: 181 . »ª°²ÖÐÖ¤Ï¸·ÖÒ½Ò©ETFÁª½ÓA
+Fund id : 000373 --¡¾pageNo:13, maxPage: 13, (i+1): 17, trs.size: 25  --¡¿
+Fund id : 000373 --¡¾pageNo:13, maxPage: 13, (i+1): 18, trs.size: 25  --¡¿
+Fund id : 000373 --¡¾pageNo:13, maxPage: 13, (i+1): 19, trs.size: 25  --¡¿
+Fund id : 000373 --¡¾pageNo:13, maxPage: 13, (i+1): 20, trs.size: 25  --¡¿
+Fund id : 000373 --¡¾pageNo:13, maxPage: 13, (i+1): 21, trs.size: 25  --¡¿
+Fund id : 000373 --¡¾pageNo:13, maxPage: 13, (i+1): 22, trs.size: 25  --¡¿
+Fund id : 000373 --¡¾pageNo:13, maxPage: 13, (i+1): 23, trs.size: 25  --¡¿
+Fund id : 000373 --¡¾pageNo:13, maxPage: 13, (i+1): 24, trs.size: 25  --¡¿
+T^T  43.9516100%  T^T
+Fund Name: 182 . ´ó³É²úÒµÉý¼¶¹ÉÆ±
+Fund id : 160919 --¡¾pageNo:13, maxPage: 13, (i+1): 28, trs.size: 30  --¡¿
+Fund id : 160919 --¡¾pageNo:13, maxPage: 13, (i+1): 29, trs.size: 30  --¡¿
+T^T  55.4910700%  T^T
+Fund Name: 183 . Ììºë»¦Éî300Ö¸Êý
+Fund id : 000961 --¡¾pageNo:13, maxPage: 13, (i+1): 17, trs.size: 18  --¡¿
+T^T  46.3499100%  T^T
+Fund Name: 184 . ¹ã·¢ÐÅÏ¢¼¼ÊõÁª½ÓA
+Fund id : 000942 --¡¾pageNo:12, maxPage: 13, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 000942 --¡¾pageNo:13, maxPage: 13, (i+1): 1, trs.size: 4  --¡¿
+Fund id : 000942 --¡¾pageNo:13, maxPage: 13, (i+1): 2, trs.size: 4  --¡¿
+T^T  58.2693200%  T^T
+Fund Name: 185 . ³¤Ê¢Í¬ÇìÖÐÖ¤800(LOF)
+Fund id : 160806 --¡¾pageNo:26, maxPage: 26, (i+1): 27, trs.size: 28  --¡¿
+T^T  60.1980200%  T^T
+Fund Name: 186 . Ì©´ï×ªÐÍ»úÓö
+T^T  56.3204000%  T^T
+Fund Name: 187 . Òø»ªÉÏÖ¤50µÈÈ¨Áª½Ó
+T^T  57.9085700%  T^T
+Fund Name: 188 . ¹ú¸»ÖÐÖ¤100Ö¸ÊýÔöÇ¿·Ö¼¶
+Fund id : 164508 --¡¾pageNo:12, maxPage: 12, (i+1): 19, trs.size: 23  --¡¿
+Fund id : 164508 --¡¾pageNo:12, maxPage: 12, (i+1): 21, trs.size: 23  --¡¿
+T^T  45.7600000%  T^T
+Fund Name: 189 . ÌìºëÖÐÖ¤500Ö¸Êý
+Fund id : 000962 --¡¾pageNo:13, maxPage: 13, (i+1): 17, trs.size: 18  --¡¿
+T^T  56.4336000%  T^T
+Fund Name: 190 . »ªÌ©°ØÈð»ý¼«ÓÅÑ¡¹ÉÆ±
+Fund id : 001097 --¡¾pageNo:11, maxPage: 11, (i+1): 39, trs.size: 48  --¡¿
+Fund id : 001097 --¡¾pageNo:11, maxPage: 11, (i+1): 40, trs.size: 48  --¡¿
+Fund id : 001097 --¡¾pageNo:11, maxPage: 11, (i+1): 41, trs.size: 48  --¡¿
+Fund id : 001097 --¡¾pageNo:11, maxPage: 11, (i+1): 42, trs.size: 48  --¡¿
+Fund id : 001097 --¡¾pageNo:11, maxPage: 11, (i+1): 43, trs.size: 48  --¡¿
+Fund id : 001097 --¡¾pageNo:11, maxPage: 11, (i+1): 44, trs.size: 48  --¡¿
+Fund id : 001097 --¡¾pageNo:11, maxPage: 11, (i+1): 45, trs.size: 48  --¡¿
+Fund id : 001097 --¡¾pageNo:11, maxPage: 11, (i+1): 46, trs.size: 48  --¡¿
+T^T  52.1624000%  T^T
+Fund Name: 191 . ¾°Ë³³¤³ÇÖÐÖ¤500ETF
+T^T  66.9609800%  T^T
+Fund Name: 192 . ¼ÎÊµÄæÏò²ßÂÔ¹ÉÆ±
+Fund id : 000985 --¡¾pageNo:12, maxPage: 12, (i+1): 24, trs.size: 33  --¡¿
+Fund id : 000985 --¡¾pageNo:12, maxPage: 12, (i+1): 25, trs.size: 33  --¡¿
+Fund id : 000985 --¡¾pageNo:12, maxPage: 12, (i+1): 26, trs.size: 33  --¡¿
+Fund id : 000985 --¡¾pageNo:12, maxPage: 12, (i+1): 27, trs.size: 33  --¡¿
+Fund id : 000985 --¡¾pageNo:12, maxPage: 12, (i+1): 28, trs.size: 33  --¡¿
+Fund id : 000985 --¡¾pageNo:12, maxPage: 12, (i+1): 29, trs.size: 33  --¡¿
+Fund id : 000985 --¡¾pageNo:12, maxPage: 12, (i+1): 30, trs.size: 33  --¡¿
+Fund id : 000985 --¡¾pageNo:12, maxPage: 12, (i+1): 31, trs.size: 33  --¡¿
+Fund id : 000985 --¡¾pageNo:12, maxPage: 12, (i+1): 32, trs.size: 33  --¡¿
+T^T  50.6343700%  T^T
+Fund Name: 193 . ´ó³ÉÉîÖ¤³É³¤40Áª½Ó
+°ËÔÂ 02, 2017 11:18:29 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://fund.eastmoney.com:80: Connection reset
+°ËÔÂ 02, 2017 11:18:29 ÏÂÎç org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://fund.eastmoney.com:80
+T^T  58.4440200%  T^T
+Fund Name: 194 . ÐËÈ«»¦Éî300Ö¸Êý(LOF)
+T^T  61.7354100%  T^T
+Fund Name: 195 . Åô»ªÑøÀÏ²úÒµ
+Fund id : 000854 --¡¾pageNo:13, maxPage: 13, (i+1): 12, trs.size: 21  --¡¿
+Fund id : 000854 --¡¾pageNo:13, maxPage: 13, (i+1): 13, trs.size: 21  --¡¿
+Fund id : 000854 --¡¾pageNo:13, maxPage: 13, (i+1): 14, trs.size: 21  --¡¿
+Fund id : 000854 --¡¾pageNo:13, maxPage: 13, (i+1): 15, trs.size: 21  --¡¿
+Fund id : 000854 --¡¾pageNo:13, maxPage: 13, (i+1): 16, trs.size: 21  --¡¿
+Fund id : 000854 --¡¾pageNo:13, maxPage: 13, (i+1): 17, trs.size: 21  --¡¿
+Fund id : 000854 --¡¾pageNo:13, maxPage: 13, (i+1): 18, trs.size: 21  --¡¿
+Fund id : 000854 --¡¾pageNo:13, maxPage: 13, (i+1): 19, trs.size: 21  --¡¿
+Fund id : 000854 --¡¾pageNo:13, maxPage: 13, (i+1): 20, trs.size: 21  --¡¿
+T^T  58.5897400%  T^T
+Fund Name: 196 . ½¨ÐÅÇ±Á¦ÐÂÀ¶³ï¹ÉÆ±
+Fund id : 000756 --¡¾pageNo:14, maxPage: 14, (i+1): 10, trs.size: 21  --¡¿
+Fund id : 000756 --¡¾pageNo:14, maxPage: 14, (i+1): 11, trs.size: 21  --¡¿
+Fund id : 000756 --¡¾pageNo:14, maxPage: 14, (i+1): 12, trs.size: 21  --¡¿
+Fund id : 000756 --¡¾pageNo:14, maxPage: 14, (i+1): 13, trs.size: 21  --¡¿
+Fund id : 000756 --¡¾pageNo:14, maxPage: 14, (i+1): 14, trs.size: 21  --¡¿
+Fund id : 000756 --¡¾pageNo:14, maxPage: 14, (i+1): 15, trs.size: 21  --¡¿
+Fund id : 000756 --¡¾pageNo:14, maxPage: 14, (i+1): 16, trs.size: 21  --¡¿
+Fund id : 000756 --¡¾pageNo:14, maxPage: 14, (i+1): 17, trs.size: 21  --¡¿
+Fund id : 000756 --¡¾pageNo:14, maxPage: 14, (i+1): 18, trs.size: 21  --¡¿
+Fund id : 000756 --¡¾pageNo:14, maxPage: 14, (i+1): 19, trs.size: 21  --¡¿
+Fund id : 000756 --¡¾pageNo:14, maxPage: 14, (i+1): 20, trs.size: 21  --¡¿
+T^T  47.3170700%  T^T
+Fund Name: 197 . ²©Ê±ÉÏÖ¤³¬´óÅÌETF
+T^T  95.0573500%  T^T
+Fund Name: 198 . ¹ã·¢ÖÐÖ¤È«Ö¸½ðÈÚµØ²úETF
+Fund id : 159940 --¡¾pageNo:12, maxPage: 12, (i+1): 14, trs.size: 18  --¡¿
+Fund id : 159940 --¡¾pageNo:12, maxPage: 12, (i+1): 15, trs.size: 18  --¡¿
+Fund id : 159940 --¡¾pageNo:12, maxPage: 12, (i+1): 16, trs.size: 18  --¡¿
+Fund id : 159940 --¡¾pageNo:12, maxPage: 12, (i+1): 17, trs.size: 18  --¡¿
+T^T  43.2567300%  T^T
+Fund Name: 199 . ¹ã·¢»·±£Ö¸ÊýA
+Fund id : 001064 --¡¾pageNo:12, maxPage: 12, (i+1): 22, trs.size: 24  --¡¿
+Fund id : 001064 --¡¾pageNo:12, maxPage: 12, (i+1): 23, trs.size: 24  --¡¿
+T^T  56.2047400%  T^T
+Fund Name: 200 . ÐÂ»ª²ßÂÔ¾«Ñ¡¹ÉÆ±
+Fund id : 001040 --¡¾pageNo:12, maxPage: 12, (i+1): 3, trs.size: 8  --¡¿
+Fund id : 001040 --¡¾pageNo:12, maxPage: 12, (i+1): 4, trs.size: 8  --¡¿
+Fund id : 001040 --¡¾pageNo:12, maxPage: 12, (i+1): 5, trs.size: 8  --¡¿
+Fund id : 001040 --¡¾pageNo:12, maxPage: 12, (i+1): 6, trs.size: 8  --¡¿
+Fund id : 001040 --¡¾pageNo:12, maxPage: 12, (i+1): 7, trs.size: 8  --¡¿
+T^T  45.1373400%  T^T
+Fund Name: 201 . ¸»¹úÖÐÖ¤ÐÂÄÜÔ´Æû³µÖ¸Êý·Ö¼¶
+Fund id : 161028 --¡¾pageNo:12, maxPage: 12, (i+1): 18, trs.size: 20  --¡¿
+Fund id : 161028 --¡¾pageNo:12, maxPage: 12, (i+1): 19, trs.size: 20  --¡¿
+T^T  49.8944400%  T^T
+Fund Name: 202 . ÄÏ·½ÖÐÖ¤Ð¡¿µ²úÒµETF
+T^T  73.0626600%  T^T
+Fund Name: 203 . »ãÌí¸»ÖÐÖ¤Ö÷ÒªÏû·ÑETFÁª½Ó
+Fund id : 000248 --¡¾pageNo:11, maxPage: 11, (i+1): 39, trs.size: 49  --¡¿
+Fund id : 000248 --¡¾pageNo:11, maxPage: 11, (i+1): 40, trs.size: 49  --¡¿
+Fund id : 000248 --¡¾pageNo:11, maxPage: 11, (i+1): 41, trs.size: 49  --¡¿
+Fund id : 000248 --¡¾pageNo:11, maxPage: 11, (i+1): 42, trs.size: 49  --¡¿
+Fund id : 000248 --¡¾pageNo:11, maxPage: 11, (i+1): 43, trs.size: 49  --¡¿
+Fund id : 000248 --¡¾pageNo:11, maxPage: 11, (i+1): 45, trs.size: 49  --¡¿
+Fund id : 000248 --¡¾pageNo:11, maxPage: 11, (i+1): 46, trs.size: 49  --¡¿
+Fund id : 000248 --¡¾pageNo:11, maxPage: 11, (i+1): 47, trs.size: 49  --¡¿
+Fund id : 000248 --¡¾pageNo:11, maxPage: 11, (i+1): 48, trs.size: 49  --¡¿
+T^T  41.3622800%  T^T
+Fund Name: 204 . ÉÏÍ¶Ä¦¸ù×¿Ô½ÖÆÔì¹ÉÆ±
+Fund id : 001126 --¡¾pageNo:11, maxPage: 11, (i+1): 29, trs.size: 37  --¡¿
+Fund id : 001126 --¡¾pageNo:11, maxPage: 11, (i+1): 30, trs.size: 37  --¡¿
+Fund id : 001126 --¡¾pageNo:11, maxPage: 11, (i+1): 31, trs.size: 37  --¡¿
+Fund id : 001126 --¡¾pageNo:11, maxPage: 11, (i+1): 32, trs.size: 37  --¡¿
+Fund id : 001126 --¡¾pageNo:11, maxPage: 11, (i+1): 33, trs.size: 37  --¡¿
+Fund id : 001126 --¡¾pageNo:11, maxPage: 11, (i+1): 34, trs.size: 37  --¡¿
+Fund id : 001126 --¡¾pageNo:11, maxPage: 11, (i+1): 35, trs.size: 37  --¡¿
+Fund id : 001126 --¡¾pageNo:11, maxPage: 11, (i+1): 36, trs.size: 37  --¡¿
+T^T  55.4574600%  T^T
+Fund Name: 205 . ¼ÎÊµÖÐÖ¤Ö÷ÒªÏû·ÑETF
+Fund id : 512600 --¡¾pageNo:15, maxPage: 15, (i+1): 40, trs.size: 47  --¡¿
+Fund id : 512600 --¡¾pageNo:15, maxPage: 15, (i+1): 41, trs.size: 47  --¡¿
+Fund id : 512600 --¡¾pageNo:15, maxPage: 15, (i+1): 42, trs.size: 47  --¡¿
+Fund id : 512600 --¡¾pageNo:15, maxPage: 15, (i+1): 43, trs.size: 47  --¡¿
+Fund id : 512600 --¡¾pageNo:15, maxPage: 15, (i+1): 45, trs.size: 47  --¡¿
+Fund id : 512600 --¡¾pageNo:15, maxPage: 15, (i+1): 46, trs.size: 47  --¡¿
+T^T  51.0667400%  T^T
+Fund Name: 206 . ÄÏ·½ÖÐÖ¤500¹¤ÒµETF
+Fund id : 512310 --¡¾pageNo:11, maxPage: 12, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 512310 --¡¾pageNo:12, maxPage: 12, (i+1): 1, trs.size: 5  --¡¿
+Fund id : 512310 --¡¾pageNo:12, maxPage: 12, (i+1): 2, trs.size: 5  --¡¿
+Fund id : 512310 --¡¾pageNo:12, maxPage: 12, (i+1): 3, trs.size: 5  --¡¿
+Fund id : 512310 --¡¾pageNo:12, maxPage: 12, (i+1): 4, trs.size: 5  --¡¿
+T^T  58.9802600%  T^T
+Fund Name: 207 . MSCIÖÐ¹úA¹ÉETFÁª½Ó
+Fund id : 000975 --¡¾pageNo:12, maxPage: 12, (i+1): 30, trs.size: 37  --¡¿
+Fund id : 000975 --¡¾pageNo:12, maxPage: 12, (i+1): 31, trs.size: 37  --¡¿
+Fund id : 000975 --¡¾pageNo:12, maxPage: 12, (i+1): 32, trs.size: 37  --¡¿
+Fund id : 000975 --¡¾pageNo:12, maxPage: 12, (i+1): 33, trs.size: 37  --¡¿
+Fund id : 000975 --¡¾pageNo:12, maxPage: 12, (i+1): 34, trs.size: 37  --¡¿
+Fund id : 000975 --¡¾pageNo:12, maxPage: 12, (i+1): 35, trs.size: 37  --¡¿
+T^T  47.2016200%  T^T
+Fund Name: 208 . »ª¸»ÖÐÐ¡°åÖ¸ÊýÔöÇ¿
+T^T  67.6854100%  T^T
+Fund Name: 209 . ÐÅ´ï°ÄÒø×ªÐÍ´´ÐÂ¹ÉÆ±
+Fund id : 001105 --¡¾pageNo:11, maxPage: 12, (i+1): 44, trs.size: 50  --¡¿
+Fund id : 001105 --¡¾pageNo:11, maxPage: 12, (i+1): 45, trs.size: 50  --¡¿
+Fund id : 001105 --¡¾pageNo:11, maxPage: 12, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 001105 --¡¾pageNo:12, maxPage: 12, (i+1): 1, trs.size: 2  --¡¿
+T^T  62.5731000%  T^T
+Fund Name: 210 . Íò¼ÒÉÏÖ¤50ETF
+T^T  67.8228500%  T^T
+Fund Name: 211 . »ªÏÄÉÏÖ¤50ETFÁª½Ó
+Fund id : 001051 --¡¾pageNo:12, maxPage: 12, (i+1): 15, trs.size: 20  --¡¿
+Fund id : 001051 --¡¾pageNo:12, maxPage: 12, (i+1): 16, trs.size: 20  --¡¿
+Fund id : 001051 --¡¾pageNo:12, maxPage: 12, (i+1): 17, trs.size: 20  --¡¿
+Fund id : 001051 --¡¾pageNo:12, maxPage: 12, (i+1): 18, trs.size: 20  --¡¿
+Fund id : 001051 --¡¾pageNo:12, maxPage: 12, (i+1): 19, trs.size: 20  --¡¿
+T^T  44.0000000%  T^T
+Fund Name: 212 . MSCIÖÐ¹úA¹ÉETF
+Fund id : 512990 --¡¾pageNo:12, maxPage: 12, (i+1): 30, trs.size: 38  --¡¿
+Fund id : 512990 --¡¾pageNo:12, maxPage: 12, (i+1): 31, trs.size: 38  --¡¿
+Fund id : 512990 --¡¾pageNo:12, maxPage: 12, (i+1): 32, trs.size: 38  --¡¿
+Fund id : 512990 --¡¾pageNo:12, maxPage: 12, (i+1): 33, trs.size: 38  --¡¿
+Fund id : 512990 --¡¾pageNo:12, maxPage: 12, (i+1): 34, trs.size: 38  --¡¿
+Fund id : 512990 --¡¾pageNo:12, maxPage: 12, (i+1): 35, trs.size: 38  --¡¿
+Fund id : 512990 --¡¾pageNo:12, maxPage: 12, (i+1): 36, trs.size: 38  --¡¿
+T^T  48.0912100%  T^T
+Fund Name: 213 . ÐÂ»ªÖÐÖ¤»·±£²úÒµÖ¸Êý·Ö¼¶
+Fund id : 164304 --¡¾pageNo:14, maxPage: 14, (i+1): 40, trs.size: 45  --¡¿
+Fund id : 164304 --¡¾pageNo:14, maxPage: 14, (i+1): 41, trs.size: 45  --¡¿
+Fund id : 164304 --¡¾pageNo:14, maxPage: 14, (i+1): 42, trs.size: 45  --¡¿
+Fund id : 164304 --¡¾pageNo:14, maxPage: 14, (i+1): 43, trs.size: 45  --¡¿
+T^T  58.6366600%  T^T
+Fund Name: 214 . ÐÅ³ÏÖÐÖ¤TMT²úÒµÖ¸Êý·Ö¼¶
+Fund id : 165522 --¡¾pageNo:13, maxPage: 13, (i+1): 40, trs.size: 46  --¡¿
+Fund id : 165522 --¡¾pageNo:13, maxPage: 13, (i+1): 42, trs.size: 46  --¡¿
+Fund id : 165522 --¡¾pageNo:13, maxPage: 13, (i+1): 44, trs.size: 46  --¡¿
+Fund id : 165522 --¡¾pageNo:13, maxPage: 13, (i+1): 45, trs.size: 46  --¡¿
+T^T  59.4270500%  T^T
+Fund Name: 215 . ÖÐÒøÐÂ¶¯Á¦¹ÉÆ±
+Fund id : 000996 --¡¾pageNo:12, maxPage: 12, (i+1): 18, trs.size: 26  --¡¿
+Fund id : 000996 --¡¾pageNo:12, maxPage: 12, (i+1): 19, trs.size: 26  --¡¿
+Fund id : 000996 --¡¾pageNo:12, maxPage: 12, (i+1): 20, trs.size: 26  --¡¿
+Fund id : 000996 --¡¾pageNo:12, maxPage: 12, (i+1): 21, trs.size: 26  --¡¿
+Fund id : 000996 --¡¾pageNo:12, maxPage: 12, (i+1): 22, trs.size: 26  --¡¿
+Fund id : 000996 --¡¾pageNo:12, maxPage: 12, (i+1): 23, trs.size: 26  --¡¿
+Fund id : 000996 --¡¾pageNo:12, maxPage: 12, (i+1): 24, trs.size: 26  --¡¿
+Fund id : 000996 --¡¾pageNo:12, maxPage: 12, (i+1): 25, trs.size: 26  --¡¿
+T^T  62.3853200%  T^T
+Fund Name: 216 . °²ÐÅÏû·ÑÒ½Ò©¹ÉÆ±
+Fund id : 000974 --¡¾pageNo:12, maxPage: 12, (i+1): 10, trs.size: 17  --¡¿
+Fund id : 000974 --¡¾pageNo:12, maxPage: 12, (i+1): 11, trs.size: 17  --¡¿
+Fund id : 000974 --¡¾pageNo:12, maxPage: 12, (i+1): 12, trs.size: 17  --¡¿
+Fund id : 000974 --¡¾pageNo:12, maxPage: 12, (i+1): 13, trs.size: 17  --¡¿
+Fund id : 000974 --¡¾pageNo:12, maxPage: 12, (i+1): 15, trs.size: 17  --¡¿
+T^T  40.1727900%  T^T
+Fund Name: 217 . Åµ°²ÐÂ¾­¼Ã¹ÉÆ±
+Fund id : 000971 --¡¾pageNo:12, maxPage: 12, (i+1): 42, trs.size: 50  --¡¿
+Fund id : 000971 --¡¾pageNo:12, maxPage: 12, (i+1): 43, trs.size: 50  --¡¿
+Fund id : 000971 --¡¾pageNo:12, maxPage: 12, (i+1): 45, trs.size: 50  --¡¿
+Fund id : 000971 --¡¾pageNo:12, maxPage: 12, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 000971 --¡¾pageNo:12, maxPage: 12, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 000971 --¡¾pageNo:12, maxPage: 12, (i+1): 49, trs.size: 50  --¡¿
+T^T  60.0000000%  T^T
+Fund Name: 218 . ¹úÍ¶ÈðÒøÖÐÖ¤´´ÒµÖ¸Êý·Ö¼¶
+Fund id : 161223 --¡¾pageNo:12, maxPage: 12, (i+1): 28, trs.size: 30  --¡¿
+Fund id : 161223 --¡¾pageNo:12, maxPage: 12, (i+1): 29, trs.size: 30  --¡¿
+T^T  54.9857500%  T^T
+Fund Name: 219 . Ç°º£¿ªÔ´¹ÉÏ¢ÂÊ100Ç¿¹ÉÆ±
+Fund id : 000916 --¡¾pageNo:12, maxPage: 13, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 000916 --¡¾pageNo:12, maxPage: 13, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 000916 --¡¾pageNo:12, maxPage: 13, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 000916 --¡¾pageNo:12, maxPage: 13, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 000916 --¡¾pageNo:13, maxPage: 13, (i+1): 2, trs.size: 5  --¡¿
+Fund id : 000916 --¡¾pageNo:13, maxPage: 13, (i+1): 3, trs.size: 5  --¡¿
+Fund id : 000916 --¡¾pageNo:13, maxPage: 13, (i+1): 4, trs.size: 5  --¡¿
+T^T  30.0141200%  T^T
+Fund Name: 220 . ÉÏÍ¶Ä¦¸ù°²È«Õ½ÂÔ¹ÉÆ±
+Fund id : 001009 --¡¾pageNo:12, maxPage: 12, (i+1): 8, trs.size: 18  --¡¿
+Fund id : 001009 --¡¾pageNo:12, maxPage: 12, (i+1): 9, trs.size: 18  --¡¿
+Fund id : 001009 --¡¾pageNo:12, maxPage: 12, (i+1): 10, trs.size: 18  --¡¿
+Fund id : 001009 --¡¾pageNo:12, maxPage: 12, (i+1): 11, trs.size: 18  --¡¿
+Fund id : 001009 --¡¾pageNo:12, maxPage: 12, (i+1): 12, trs.size: 18  --¡¿
+Fund id : 001009 --¡¾pageNo:12, maxPage: 12, (i+1): 14, trs.size: 18  --¡¿
+Fund id : 001009 --¡¾pageNo:12, maxPage: 12, (i+1): 15, trs.size: 18  --¡¿
+Fund id : 001009 --¡¾pageNo:12, maxPage: 12, (i+1): 16, trs.size: 18  --¡¿
+T^T  54.2890700%  T^T
+Fund Name: 221 . ¹ã·¢ÖÐÖ¤È«Ö¸ÐÅÏ¢¼¼ÊõETF
+Fund id : 159939 --¡¾pageNo:13, maxPage: 13, (i+1): 9, trs.size: 15  --¡¿
+Fund id : 159939 --¡¾pageNo:13, maxPage: 13, (i+1): 11, trs.size: 15  --¡¿
+Fund id : 159939 --¡¾pageNo:13, maxPage: 13, (i+1): 12, trs.size: 15  --¡¿
+Fund id : 159939 --¡¾pageNo:13, maxPage: 13, (i+1): 13, trs.size: 15  --¡¿
+T^T  57.9262800%  T^T
+Fund Name: 222 . ¹úÌ©ÉîÖ¤TMT50Ö¸Êý·Ö¼¶
+Fund id : 160224 --¡¾pageNo:12, maxPage: 12, (i+1): 18, trs.size: 23  --¡¿
+Fund id : 160224 --¡¾pageNo:12, maxPage: 12, (i+1): 20, trs.size: 23  --¡¿
+T^T  56.8443700%  T^T
+Fund Name: 223 . »ãÌí¸»ÍâÑÓÔö³¤Ö÷Ìâ
+Fund id : 000925 --¡¾pageNo:12, maxPage: 13, (i+1): 42, trs.size: 50  --¡¿
+Fund id : 000925 --¡¾pageNo:12, maxPage: 13, (i+1): 43, trs.size: 50  --¡¿
+Fund id : 000925 --¡¾pageNo:12, maxPage: 13, (i+1): 44, trs.size: 50  --¡¿
+Fund id : 000925 --¡¾pageNo:12, maxPage: 13, (i+1): 45, trs.size: 50  --¡¿
+Fund id : 000925 --¡¾pageNo:12, maxPage: 13, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 000925 --¡¾pageNo:12, maxPage: 13, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 000925 --¡¾pageNo:12, maxPage: 13, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 000925 --¡¾pageNo:12, maxPage: 13, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 000925 --¡¾pageNo:12, maxPage: 13, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 000925 --¡¾pageNo:13, maxPage: 13, (i+1): 1, trs.size: 5  --¡¿
+Fund id : 000925 --¡¾pageNo:13, maxPage: 13, (i+1): 2, trs.size: 5  --¡¿
+Fund id : 000925 --¡¾pageNo:13, maxPage: 13, (i+1): 3, trs.size: 5  --¡¿
+Fund id : 000925 --¡¾pageNo:13, maxPage: 13, (i+1): 4, trs.size: 5  --¡¿
+T^T  64.8095000%  T^T
+Fund Name: 224 . »ãÌí¸»ÒÆ¶¯»¥Áª¹ÉÆ±
+Fund id : 000697 --¡¾pageNo:14, maxPage: 14, (i+1): 30, trs.size: 40  --¡¿
+Fund id : 000697 --¡¾pageNo:14, maxPage: 14, (i+1): 31, trs.size: 40  --¡¿
+Fund id : 000697 --¡¾pageNo:14, maxPage: 14, (i+1): 32, trs.size: 40  --¡¿
+Fund id : 000697 --¡¾pageNo:14, maxPage: 14, (i+1): 33, trs.size: 40  --¡¿
+Fund id : 000697 --¡¾pageNo:14, maxPage: 14, (i+1): 34, trs.size: 40  --¡¿
+Fund id : 000697 --¡¾pageNo:14, maxPage: 14, (i+1): 35, trs.size: 40  --¡¿
+Fund id : 000697 --¡¾pageNo:14, maxPage: 14, (i+1): 36, trs.size: 40  --¡¿
+Fund id : 000697 --¡¾pageNo:14, maxPage: 14, (i+1): 37, trs.size: 40  --¡¿
+Fund id : 000697 --¡¾pageNo:14, maxPage: 14, (i+1): 39, trs.size: 40  --¡¿
+T^T  73.6925100%  T^T
+Fund Name: 225 . »ªÈóÔª´ó¸»Ê±ÖÐ¹úA50Ö¸Êý
+T^T  46.1786900%  T^T
+Fund Name: 226 . »ªÏÄ»¦Éî300Ö¸ÊýÔöÇ¿C
+Fund id : 001016 --¡¾pageNo:12, maxPage: 12, (i+1): 32, trs.size: 38  --¡¿
+Fund id : 001016 --¡¾pageNo:12, maxPage: 12, (i+1): 33, trs.size: 38  --¡¿
+Fund id : 001016 --¡¾pageNo:12, maxPage: 12, (i+1): 34, trs.size: 38  --¡¿
+Fund id : 001016 --¡¾pageNo:12, maxPage: 12, (i+1): 35, trs.size: 38  --¡¿
+Fund id : 001016 --¡¾pageNo:12, maxPage: 12, (i+1): 36, trs.size: 38  --¡¿
+Fund id : 001016 --¡¾pageNo:12, maxPage: 12, (i+1): 37, trs.size: 38  --¡¿
+T^T  42.2278200%  T^T
+Fund Name: 227 . ¹ã·¢°Ù·¢100Ö¸ÊýE
+Fund id : 000827 --¡¾pageNo:14, maxPage: 14, (i+1): 10, trs.size: 14  --¡¿
+Fund id : 000827 --¡¾pageNo:14, maxPage: 14, (i+1): 11, trs.size: 14  --¡¿
+Fund id : 000827 --¡¾pageNo:14, maxPage: 14, (i+1): 12, trs.size: 14  --¡¿
+T^T  60.2248400%  T^T
+Fund Name: 228 . Ç°º£¿ªÔ´ÖÐº½¾ü¹¤
+Fund id : 164402 --¡¾pageNo:12, maxPage: 12, (i+1): 13, trs.size: 17  --¡¿
+Fund id : 164402 --¡¾pageNo:12, maxPage: 12, (i+1): 15, trs.size: 17  --¡¿
+Fund id : 164402 --¡¾pageNo:12, maxPage: 12, (i+1): 16, trs.size: 17  --¡¿
+T^T  47.3529400%  T^T
+Fund Name: 229 . »ª°²ÖÐÖ¤Ï¸·ÖÒ½Ò©ETFÁª½ÓC
+Fund id : 000376 --¡¾pageNo:13, maxPage: 13, (i+1): 17, trs.size: 25  --¡¿
+Fund id : 000376 --¡¾pageNo:13, maxPage: 13, (i+1): 18, trs.size: 25  --¡¿
+Fund id : 000376 --¡¾pageNo:13, maxPage: 13, (i+1): 19, trs.size: 25  --¡¿
+Fund id : 000376 --¡¾pageNo:13, maxPage: 13, (i+1): 20, trs.size: 25  --¡¿
+Fund id : 000376 --¡¾pageNo:13, maxPage: 13, (i+1): 21, trs.size: 25  --¡¿
+Fund id : 000376 --¡¾pageNo:13, maxPage: 13, (i+1): 22, trs.size: 25  --¡¿
+Fund id : 000376 --¡¾pageNo:13, maxPage: 13, (i+1): 23, trs.size: 25  --¡¿
+Fund id : 000376 --¡¾pageNo:13, maxPage: 13, (i+1): 24, trs.size: 25  --¡¿
+T^T  43.6921300%  T^T
+Fund Name: 230 . Åô»ª´«Ã½·Ö¼¶
+T^T  59.6479800%  T^T
+Fund Name: 231 . ¸»¹úÖÐÖ¤È«Ö¸Ö¤È¯¹«Ë¾Ö¸Êý·Ö¼¶
+Fund id : 161027 --¡¾pageNo:12, maxPage: 12, (i+1): 19, trs.size: 22  --¡¿
+Fund id : 161027 --¡¾pageNo:12, maxPage: 12, (i+1): 21, trs.size: 22  --¡¿
+T^T  55.7459000%  T^T
+Fund Name: 232 . Ò×·½´ï»¦Éî300ETFÁª½Ó
+T^T  59.5693100%  T^T
+Fund Name: 233 . ÌìºëÉÏÖ¤50Ö¸ÊýC
+Fund id : 001549 --¡¾pageNo:10, maxPage: 10, (i+1): 48, trs.size: 50  --¡¿
+T^T  29.4083200%  T^T
+Fund Name: 234 . Ç°º£¿ªÔ´ÔÙÈÚ×Ê¹ÉÆ±
+Fund id : 001178 --¡¾pageNo:11, maxPage: 11, (i+1): 13, trs.size: 20  --¡¿
+Fund id : 001178 --¡¾pageNo:11, maxPage: 11, (i+1): 14, trs.size: 20  --¡¿
+Fund id : 001178 --¡¾pageNo:11, maxPage: 11, (i+1): 15, trs.size: 20  --¡¿
+Fund id : 001178 --¡¾pageNo:11, maxPage: 11, (i+1): 16, trs.size: 20  --¡¿
+Fund id : 001178 --¡¾pageNo:11, maxPage: 11, (i+1): 17, trs.size: 20  --¡¿
+Fund id : 001178 --¡¾pageNo:11, maxPage: 11, (i+1): 18, trs.size: 20  --¡¿
+Fund id : 001178 --¡¾pageNo:11, maxPage: 11, (i+1): 19, trs.size: 20  --¡¿
+T^T  35.3080600%  T^T
+Fund Name: 235 . ÕÐÉÌ»¦Éî300µØ²úÖ¸Êý·Ö¼¶
+Fund id : 161721 --¡¾pageNo:13, maxPage: 13, (i+1): 46, trs.size: 49  --¡¿
+Fund id : 161721 --¡¾pageNo:13, maxPage: 13, (i+1): 47, trs.size: 49  --¡¿
+T^T  57.2549000%  T^T
+Fund Name: 236 . Åô»ªÒ»´øÒ»Â··Ö¼¶
+Fund id : 160638 --¡¾pageNo:11, maxPage: 11, (i+1): 39, trs.size: 40  --¡¿
+T^T  46.9684000%  T^T
+Fund Name: 237 . »ª±¦ÐËÒµÖÐÖ¤Ò½ÁÆÖ¸Êý·Ö¼¶
+T^T  50.4777700%  T^T
+Fund Name: 238 . ÈÚÍ¨¾ü¹¤·Ö¼¶
+T^T  44.7504300%  T^T
+Fund Name: 239 . ÌìºëÖÐÖ¤µç×ÓÖ¸ÊýA
+Fund id : 001617 --¡¾pageNo:10, maxPage: 10, (i+1): 40, trs.size: 41  --¡¿
+T^T  32.4574300%  T^T
+Fund Name: 240 . ÌìºëÖÐÖ¤µç×ÓÖ¸ÊýC
+Fund id : 001618 --¡¾pageNo:10, maxPage: 10, (i+1): 40, trs.size: 41  --¡¿
+T^T  32.4928900%  T^T
+Fund Name: 241 . ÌìºëÖÐÖ¤¼ÆËã»úÖ¸ÊýA
+Fund id : 001629 --¡¾pageNo:10, maxPage: 10, (i+1): 40, trs.size: 41  --¡¿
+T^T  43.9535100%  T^T
+Fund Name: 242 . ÌìºëÖÐÖ¤¼ÆËã»úÖ¸ÊýC
+Fund id : 001630 --¡¾pageNo:10, maxPage: 10, (i+1): 40, trs.size: 41  --¡¿
+T^T  44.1437300%  T^T
+Fund Name: 243 . ÌìºëÖÐÖ¤Ê³Æ·ÒûÁÏÖ¸ÊýA
+Fund id : 001631 --¡¾pageNo:10, maxPage: 10, (i+1): 40, trs.size: 41  --¡¿
+T^T  34.5226700%  T^T
+Fund Name: 244 . ÕÐÉÌÉîÖ¤TMT50ETFÁª½ÓA
+T^T  76.8565200%  T^T
+Fund Name: 245 . »ªÌ©°ØÈðÖÐÐ¡ÅÌETF
+T^T  86.1103400%  T^T
+Fund Name: 246 . Òø»ª×ÊÔ´Ö¸Êý·Ö¼¶
+T^T  70.7117300%  T^T
+Fund Name: 247 . ´ó³ÉÉîÖ¤³É·ÝETF
+Fund id : 159943 --¡¾pageNo:11, maxPage: 11, (i+1): 8, trs.size: 18  --¡¿
+Fund id : 159943 --¡¾pageNo:11, maxPage: 11, (i+1): 9, trs.size: 18  --¡¿
+Fund id : 159943 --¡¾pageNo:11, maxPage: 11, (i+1): 13, trs.size: 18  --¡¿
+Fund id : 159943 --¡¾pageNo:11, maxPage: 11, (i+1): 14, trs.size: 18  --¡¿
+Fund id : 159943 --¡¾pageNo:11, maxPage: 11, (i+1): 17, trs.size: 18  --¡¿
+T^T  93.8008800%  T^T
+Fund Name: 248 . Ò×·½´ï»¦Éî300·ÇÒøETF
+Fund id : 512070 --¡¾pageNo:15, maxPage: 16, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 512070 --¡¾pageNo:15, maxPage: 16, (i+1): 50, trs.size: 50  --¡¿
+T^T  65.1503600%  T^T
+Fund Name: 249 . ÄÏ·½ÖÐÖ¤¹úÓÐÆóÒµ¸Ä¸ïÖ¸Êý·Ö¼¶
+Fund id : 160136 --¡¾pageNo:11, maxPage: 11, (i+1): 24, trs.size: 27  --¡¿
+Fund id : 160136 --¡¾pageNo:11, maxPage: 11, (i+1): 26, trs.size: 27  --¡¿
+T^T  51.5713100%  T^T
+Fund Name: 250 . »ª°²´ó¹úÐÂ¾­¼Ã¹ÉÆ±
+Fund id : 000549 --¡¾pageNo:16, maxPage: 16, (i+1): 41, trs.size: 45  --¡¿
+T^T  63.7881000%  T^T
+Fund Name: 251 . »ª°²ÖÐÖ¤ÒøÐÐÖ¸Êý·Ö¼¶
+Fund id : 160418 --¡¾pageNo:11, maxPage: 11, (i+1): 21, trs.size: 23  --¡¿
+Fund id : 160418 --¡¾pageNo:11, maxPage: 11, (i+1): 22, trs.size: 23  --¡¿
+T^T  30.8958500%  T^T
+Fund Name: 252 . »ª°²ÖÇÄÜ×°±¸Ö÷Ìâ¹ÉÆ±
+Fund id : 001072 --¡¾pageNo:11, maxPage: 11, (i+1): 19, trs.size: 28  --¡¿
+Fund id : 001072 --¡¾pageNo:11, maxPage: 11, (i+1): 20, trs.size: 28  --¡¿
+Fund id : 001072 --¡¾pageNo:11, maxPage: 11, (i+1): 21, trs.size: 28  --¡¿
+Fund id : 001072 --¡¾pageNo:11, maxPage: 11, (i+1): 22, trs.size: 28  --¡¿
+Fund id : 001072 --¡¾pageNo:11, maxPage: 11, (i+1): 24, trs.size: 28  --¡¿
+Fund id : 001072 --¡¾pageNo:11, maxPage: 11, (i+1): 25, trs.size: 28  --¡¿
+Fund id : 001072 --¡¾pageNo:11, maxPage: 11, (i+1): 26, trs.size: 28  --¡¿
+Fund id : 001072 --¡¾pageNo:11, maxPage: 11, (i+1): 27, trs.size: 28  --¡¿
+T^T  43.6832700%  T^T
+Fund Name: 253 . ÄÏ·½´óÊý¾Ý100A
+Fund id : 001113 --¡¾pageNo:11, maxPage: 11, (i+1): 39, trs.size: 43  --¡¿
+Fund id : 001113 --¡¾pageNo:11, maxPage: 11, (i+1): 40, trs.size: 43  --¡¿
+Fund id : 001113 --¡¾pageNo:11, maxPage: 11, (i+1): 41, trs.size: 43  --¡¿
+Fund id : 001113 --¡¾pageNo:11, maxPage: 11, (i+1): 42, trs.size: 43  --¡¿
+T^T  49.7834200%  T^T
+Fund Name: 254 . Åô»ª¾Æ·Ö¼¶
+Fund id : 160632 --¡¾pageNo:11, maxPage: 12, (i+1): 49, trs.size: 50  --¡¿
+T^T  47.3642800%  T^T
+Fund Name: 255 . Ò×·½´ïÖØ×é·Ö¼¶
+Fund id : 161123 --¡¾pageNo:11, maxPage: 11, (i+1): 29, trs.size: 30  --¡¿
+T^T  50.6475900%  T^T
+Fund Name: 256 . Ò×·½´ïÉúÎï·Ö¼¶
+T^T  52.0431100%  T^T
+Fund Name: 257 . ¹úÊÙ°²±£ÖÐÖ¤ÑøÀÏ²úÒµÖ¸Êý·Ö¼¶
+Fund id : 168001 --¡¾pageNo:11, maxPage: 11, (i+1): 6, trs.size: 9  --¡¿
+Fund id : 168001 --¡¾pageNo:11, maxPage: 11, (i+1): 7, trs.size: 9  --¡¿
+Fund id : 168001 --¡¾pageNo:11, maxPage: 11, (i+1): 8, trs.size: 9  --¡¿
+T^T  34.3424800%  T^T
+Fund Name: 258 . ¹¤Òø¾Û½¹30¹ÉÆ±
+Fund id : 001496 --¡¾pageNo:11, maxPage: 11, (i+1): 7, trs.size: 11  --¡¿
+Fund id : 001496 --¡¾pageNo:11, maxPage: 11, (i+1): 8, trs.size: 11  --¡¿
+Fund id : 001496 --¡¾pageNo:11, maxPage: 11, (i+1): 9, trs.size: 11  --¡¿
+T^T  36.2369300%  T^T
+Fund Name: 259 . Ò×·½´ï¹úÆó¸Ä¸ïÖ¸Êý·Ö¼?
+Fund id : 502006 --¡¾pageNo:11, maxPage: 11, (i+1): 21, trs.size: 22  --¡¿
+T^T  49.3742000%  T^T
+Fund Name: 260 . ¸»¹úÖÐÖ¤ÒøÐÐÖ¸Êý·Ö¼¶
+Fund id : 161029 --¡¾pageNo:11, maxPage: 11, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 161029 --¡¾pageNo:11, maxPage: 11, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 161029 --¡¾pageNo:11, maxPage: 11, (i+1): 49, trs.size: 50  --¡¿
+T^T  34.8128800%  T^T
+Fund Name: 261 . Åô»ªÒ½Ò©¿Æ¼¼
+Fund id : 001230 --¡¾pageNo:10, maxPage: 11, (i+1): 41, trs.size: 50  --¡¿
+Fund id : 001230 --¡¾pageNo:10, maxPage: 11, (i+1): 42, trs.size: 50  --¡¿
+Fund id : 001230 --¡¾pageNo:10, maxPage: 11, (i+1): 43, trs.size: 50  --¡¿
+Fund id : 001230 --¡¾pageNo:10, maxPage: 11, (i+1): 44, trs.size: 50  --¡¿
+Fund id : 001230 --¡¾pageNo:10, maxPage: 11, (i+1): 45, trs.size: 50  --¡¿
+Fund id : 001230 --¡¾pageNo:10, maxPage: 11, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 001230 --¡¾pageNo:10, maxPage: 11, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 001230 --¡¾pageNo:10, maxPage: 11, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 001230 --¡¾pageNo:10, maxPage: 11, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 001230 --¡¾pageNo:10, maxPage: 11, (i+1): 50, trs.size: 50  --¡¿
+T^T  57.1566700%  T^T
+Fund Name: 262 . ²©Ê±ÖÐÖ¤ÒøÐÐÖ¸Êý·Ö¼¶
+Fund id : 160517 --¡¾pageNo:11, maxPage: 11, (i+1): 24, trs.size: 25  --¡¿
+T^T  31.8203600%  T^T
+Fund Name: 263 . »ªÏÄ»¦Éî300ETFÁª½Ó
+T^T  60.7323200%  T^T
+Fund Name: 264 . ÄÏ·½´óÊý¾Ý300A
+Fund id : 001420 --¡¾pageNo:10, maxPage: 10, (i+1): 12, trs.size: 25  --¡¿
+Fund id : 001420 --¡¾pageNo:10, maxPage: 10, (i+1): 13, trs.size: 25  --¡¿
+Fund id : 001420 --¡¾pageNo:10, maxPage: 10, (i+1): 14, trs.size: 25  --¡¿
+Fund id : 001420 --¡¾pageNo:10, maxPage: 10, (i+1): 15, trs.size: 25  --¡¿
+Fund id : 001420 --¡¾pageNo:10, maxPage: 10, (i+1): 16, trs.size: 25  --¡¿
+Fund id : 001420 --¡¾pageNo:10, maxPage: 10, (i+1): 17, trs.size: 25  --¡¿
+Fund id : 001420 --¡¾pageNo:10, maxPage: 10, (i+1): 18, trs.size: 25  --¡¿
+Fund id : 001420 --¡¾pageNo:10, maxPage: 10, (i+1): 19, trs.size: 25  --¡¿
+Fund id : 001420 --¡¾pageNo:10, maxPage: 10, (i+1): 20, trs.size: 25  --¡¿
+Fund id : 001420 --¡¾pageNo:10, maxPage: 10, (i+1): 21, trs.size: 25  --¡¿
+Fund id : 001420 --¡¾pageNo:10, maxPage: 10, (i+1): 22, trs.size: 25  --¡¿
+Fund id : 001420 --¡¾pageNo:10, maxPage: 10, (i+1): 23, trs.size: 25  --¡¿
+Fund id : 001420 --¡¾pageNo:10, maxPage: 10, (i+1): 24, trs.size: 25  --¡¿
+T^T  32.3438200%  T^T
+Fund Name: 265 . ÄÏ·½´óÊý¾Ý300C
+Fund id : 001426 --¡¾pageNo:10, maxPage: 10, (i+1): 12, trs.size: 25  --¡¿
+Fund id : 001426 --¡¾pageNo:10, maxPage: 10, (i+1): 13, trs.size: 25  --¡¿
+Fund id : 001426 --¡¾pageNo:10, maxPage: 10, (i+1): 14, trs.size: 25  --¡¿
+Fund id : 001426 --¡¾pageNo:10, maxPage: 10, (i+1): 15, trs.size: 25  --¡¿
+Fund id : 001426 --¡¾pageNo:10, maxPage: 10, (i+1): 16, trs.size: 25  --¡¿
+Fund id : 001426 --¡¾pageNo:10, maxPage: 10, (i+1): 17, trs.size: 25  --¡¿
+Fund id : 001426 --¡¾pageNo:10, maxPage: 10, (i+1): 18, trs.size: 25  --¡¿
+Fund id : 001426 --¡¾pageNo:10, maxPage: 10, (i+1): 19, trs.size: 25  --¡¿
+Fund id : 001426 --¡¾pageNo:10, maxPage: 10, (i+1): 20, trs.size: 25  --¡¿
+Fund id : 001426 --¡¾pageNo:10, maxPage: 10, (i+1): 21, trs.size: 25  --¡¿
+Fund id : 001426 --¡¾pageNo:10, maxPage: 10, (i+1): 22, trs.size: 25  --¡¿
+Fund id : 001426 --¡¾pageNo:10, maxPage: 10, (i+1): 23, trs.size: 25  --¡¿
+Fund id : 001426 --¡¾pageNo:10, maxPage: 10, (i+1): 24, trs.size: 25  --¡¿
+T^T  31.9839500%  T^T
+Fund Name: 266 . ¾°Ë³³¤³ÇÖÐÖ¤500ETFÁª½Ó
+Fund id : 001455 --¡¾pageNo:11, maxPage: 11, (i+1): 1, trs.size: 5  --¡¿
+Fund id : 001455 --¡¾pageNo:11, maxPage: 11, (i+1): 2, trs.size: 5  --¡¿
+Fund id : 001455 --¡¾pageNo:11, maxPage: 11, (i+1): 3, trs.size: 5  --¡¿
+T^T  33.6174200%  T^T
+Fund Name: 267 . ÄÏ·½ÖÐÖ¤»¥ÁªÍøÖ¸Êý·Ö¼¶
+Fund id : 160137 --¡¾pageNo:11, maxPage: 11, (i+1): 5, trs.size: 8  --¡¿
+Fund id : 160137 --¡¾pageNo:11, maxPage: 11, (i+1): 7, trs.size: 8  --¡¿
+T^T  39.1811300%  T^T
+Fund Name: 268 . °²ÐÅÒ»´øÒ»Â··Ö¼¶
+Fund id : 167503 --¡¾pageNo:11, maxPage: 11, (i+1): 41, trs.size: 43  --¡¿
+T^T  46.7009400%  T^T
+Fund Name: 269 . ÖÐÈÚ¹úÖ¤¸ÖÌúÐÐÒµÖ¸Êý·Ö¼¶
+Fund id : 168203 --¡¾pageNo:11, maxPage: 11, (i+1): 15, trs.size: 16  --¡¿
+T^T  40.0000000%  T^T
+Fund Name: 270 . ÖÐÈÚÖÐÖ¤ÃºÌ¿Ö¸Êý·Ö¼¶
+Fund id : 168204 --¡¾pageNo:11, maxPage: 11, (i+1): 11, trs.size: 14  --¡¿
+Fund id : 168204 --¡¾pageNo:11, maxPage: 11, (i+1): 12, trs.size: 14  --¡¿
+T^T  36.8000000%  T^T
+Fund Name: 271 . ¹¤Òø»¥ÁªÍø¼Ó¹ÉÆ±
+Fund id : 001409 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 15  --¡¿
+Fund id : 001409 --¡¾pageNo:11, maxPage: 11, (i+1): 11, trs.size: 15  --¡¿
+Fund id : 001409 --¡¾pageNo:11, maxPage: 11, (i+1): 12, trs.size: 15  --¡¿
+Fund id : 001409 --¡¾pageNo:11, maxPage: 11, (i+1): 13, trs.size: 15  --¡¿
+Fund id : 001409 --¡¾pageNo:11, maxPage: 11, (i+1): 14, trs.size: 15  --¡¿
+T^T  61.6748800%  T^T
+Fund Name: 272 . »ã·á½úÐÅºãÉúÁúÍ·Ö¸ÊýC
+T^T  44.5187700%  T^T
+Fund Name: 273 . Åô»ª¹ú·À
+Fund id : 160630 --¡¾pageNo:14, maxPage: 14, (i+1): 13, trs.size: 15  --¡¿
+T^T  59.9099100%  T^T
+Fund Name: 274 . ¹ã·¢ÖÐÖ¤È«Ö¸Ö÷ÒªÏû·ÑETF
+Fund id : 159946 --¡¾pageNo:11, maxPage: 11, (i+1): 6, trs.size: 9  --¡¿
+Fund id : 159946 --¡¾pageNo:11, maxPage: 11, (i+1): 8, trs.size: 9  --¡¿
+T^T  31.1076300%  T^T
+Fund Name: 275 . ¹úÁª°²ÉÌÆ·ETFÁª½Ó
+T^T  61.5969600%  T^T
+Fund Name: 276 . ¹ã·¢ÖÐÖ¤È«Ö¸Ô­²ÄÁÏÁª½ÓA
+Fund id : 001459 --¡¾pageNo:10, maxPage: 10, (i+1): 22, trs.size: 24  --¡¿
+Fund id : 001459 --¡¾pageNo:10, maxPage: 10, (i+1): 23, trs.size: 24  --¡¿
+T^T  29.8969100%  T^T
+Fund Name: 277 . ¹úÌ©½ðöÎ
+Fund id : 519606 --¡¾pageNo:14, maxPage: 14, (i+1): 28, trs.size: 29  --¡¿
+T^T  51.7741100%  T^T
+Fund Name: 278 . ÄÏ·½²úÒµ»îÁ¦
+Fund id : 000955 --¡¾pageNo:12, maxPage: 12, (i+1): 22, trs.size: 32  --¡¿
+Fund id : 000955 --¡¾pageNo:12, maxPage: 12, (i+1): 23, trs.size: 32  --¡¿
+Fund id : 000955 --¡¾pageNo:12, maxPage: 12, (i+1): 24, trs.size: 32  --¡¿
+Fund id : 000955 --¡¾pageNo:12, maxPage: 12, (i+1): 25, trs.size: 32  --¡¿
+Fund id : 000955 --¡¾pageNo:12, maxPage: 12, (i+1): 26, trs.size: 32  --¡¿
+Fund id : 000955 --¡¾pageNo:12, maxPage: 12, (i+1): 27, trs.size: 32  --¡¿
+Fund id : 000955 --¡¾pageNo:12, maxPage: 12, (i+1): 28, trs.size: 32  --¡¿
+Fund id : 000955 --¡¾pageNo:12, maxPage: 12, (i+1): 29, trs.size: 32  --¡¿
+Fund id : 000955 --¡¾pageNo:12, maxPage: 12, (i+1): 30, trs.size: 32  --¡¿
+Fund id : 000955 --¡¾pageNo:12, maxPage: 12, (i+1): 31, trs.size: 32  --¡¿
+T^T  54.8322500%  T^T
+Fund Name: 279 . ¹ú½ðÉÏÖ¤50·Ö¼¶
+T^T  55.9626400%  T^T
+Fund Name: 280 . ÖÐº£ÖÐÖ¤¸ßÌú²úÒµÖ¸Êý·Ö¼¶
+Fund id : 502030 --¡¾pageNo:10, maxPage: 10, (i+1): 36, trs.size: 37  --¡¿
+T^T  46.8989000%  T^T
+Fund Name: 281 . Òø»ªÉÏÖ¤50µÈÈ¨ETF
+T^T  61.7434500%  T^T
+Fund Name: 282 . ÌìºëÖÐÖ¤´ó×ÚÉÌÆ·¹ÉÆ±Ö¸ÊýC
+Fund id : 001559 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --¡¿
+T^T  40.8600000%  T^T
+Fund Name: 283 . ÌìºëÖÐÖ¤Ö¤È¯±£ÏÕA
+Fund id : 001552 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --¡¿
+T^T  39.5300000%  T^T
+Fund Name: 284 . ³¤Ê¢ÉÏÖ¤50Ö¸Êý·Ö¼¶
+Fund id : 502040 --¡¾pageNo:10, maxPage: 10, (i+1): 25, trs.size: 28  --¡¿
+T^T  28.5117100%  T^T
+Fund Name: 285 . ¹¤ÒøÒ½ÁÆ±£½¡
+Fund id : 000831 --¡¾pageNo:13, maxPage: 13, (i+1): 42, trs.size: 47  --¡¿
+Fund id : 000831 --¡¾pageNo:13, maxPage: 13, (i+1): 43, trs.size: 47  --¡¿
+Fund id : 000831 --¡¾pageNo:13, maxPage: 13, (i+1): 44, trs.size: 47  --¡¿
+Fund id : 000831 --¡¾pageNo:13, maxPage: 13, (i+1): 45, trs.size: 47  --¡¿
+Fund id : 000831 --¡¾pageNo:13, maxPage: 13, (i+1): 46, trs.size: 47  --¡¿
+T^T  60.0319700%  T^T
+Fund Name: 286 . ÃñÉú¼ÓÒøÓÅÑ¡
+Fund id : 000884 --¡¾pageNo:13, maxPage: 13, (i+1): 22, trs.size: 27  --¡¿
+Fund id : 000884 --¡¾pageNo:13, maxPage: 13, (i+1): 23, trs.size: 27  --¡¿
+Fund id : 000884 --¡¾pageNo:13, maxPage: 13, (i+1): 24, trs.size: 27  --¡¿
+Fund id : 000884 --¡¾pageNo:13, maxPage: 13, (i+1): 26, trs.size: 27  --¡¿
+T^T  54.7792100%  T^T
+Fund Name: 287 . ¼ÎÊµµÍ¼Û²ßÂÔ¹ÉÆ±
+Fund id : 001577 --¡¾pageNo:10, maxPage: 10, (i+1): 2, trs.size: 11  --¡¿
+Fund id : 001577 --¡¾pageNo:10, maxPage: 10, (i+1): 3, trs.size: 11  --¡¿
+Fund id : 001577 --¡¾pageNo:10, maxPage: 10, (i+1): 4, trs.size: 11  --¡¿
+Fund id : 001577 --¡¾pageNo:10, maxPage: 10, (i+1): 5, trs.size: 11  --¡¿
+Fund id : 001577 --¡¾pageNo:10, maxPage: 10, (i+1): 6, trs.size: 11  --¡¿
+Fund id : 001577 --¡¾pageNo:10, maxPage: 10, (i+1): 7, trs.size: 11  --¡¿
+Fund id : 001577 --¡¾pageNo:10, maxPage: 10, (i+1): 8, trs.size: 11  --¡¿
+Fund id : 001577 --¡¾pageNo:10, maxPage: 10, (i+1): 9, trs.size: 11  --¡¿
+Fund id : 001577 --¡¾pageNo:10, maxPage: 10, (i+1): 10, trs.size: 11  --¡¿
+T^T  27.8079700%  T^T
+Fund Name: 288 . ¹ã·¢Ò½ÁÆÖ¸Êý·Ö¼¶
+Fund id : 502056 --¡¾pageNo:10, maxPage: 10, (i+1): 42, trs.size: 45  --¡¿
+Fund id : 502056 --¡¾pageNo:10, maxPage: 10, (i+1): 44, trs.size: 45  --¡¿
+T^T  49.4956100%  T^T
+Fund Name: 289 . ÉÏÍ¶Ä¦¸ùÐÂÐË·þÎñ¹ÉÆ±
+Fund id : 001482 --¡¾pageNo:10, maxPage: 10, (i+1): 17, trs.size: 23  --¡¿
+Fund id : 001482 --¡¾pageNo:10, maxPage: 10, (i+1): 18, trs.size: 23  --¡¿
+Fund id : 001482 --¡¾pageNo:10, maxPage: 10, (i+1): 20, trs.size: 23  --¡¿
+Fund id : 001482 --¡¾pageNo:10, maxPage: 10, (i+1): 21, trs.size: 23  --¡¿
+T^T  33.8387900%  T^T
+Fund Name: 290 . Òø»ªÖÐÖ¤µÈÈ¨90·Ö¼¶
+T^T  69.8683600%  T^T
+Fund Name: 291 . Åµ°²ÖÐÖ¤500ETFÁª½Ó
+Fund id : 001351 --¡¾pageNo:11, maxPage: 11, (i+1): 6, trs.size: 15  --¡¿
+Fund id : 001351 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 15  --¡¿
+Fund id : 001351 --¡¾pageNo:11, maxPage: 11, (i+1): 11, trs.size: 15  --¡¿
+Fund id : 001351 --¡¾pageNo:11, maxPage: 11, (i+1): 12, trs.size: 15  --¡¿
+Fund id : 001351 --¡¾pageNo:11, maxPage: 11, (i+1): 13, trs.size: 15  --¡¿
+Fund id : 001351 --¡¾pageNo:11, maxPage: 11, (i+1): 14, trs.size: 15  --¡¿
+T^T  29.3988500%  T^T
+Fund Name: 292 . Åô»ªÖÐÖ¤Ò½Ò©ÎÀÉú(LOF)
+Fund id : 160635 --¡¾pageNo:10, maxPage: 10, (i+1): 25, trs.size: 26  --¡¿
+T^T  29.2592600%  T^T
+Fund Name: 293 . ÌìºëÖÐÖ¤»·±£²úÒµC
+Fund id : 001591 --¡¾pageNo:10, maxPage: 10, (i+1): 48, trs.size: 50  --¡¿
+T^T  38.5378400%  T^T
+Fund Name: 294 . Åô»ªÒøÐÐ·Ö¼¶
+Fund id : 160631 --¡¾pageNo:12, maxPage: 12, (i+1): 8, trs.size: 10  --¡¿
+Fund id : 160631 --¡¾pageNo:12, maxPage: 12, (i+1): 9, trs.size: 10  --¡¿
+T^T  35.4603500%  T^T
+Fund Name: 295 . ½¨ÐÅ´ó°²È«Õ½ÂÔ¾«Ñ¡¹ÉÆ±
+Fund id : 001473 --¡¾pageNo:10, maxPage: 10, (i+1): 20, trs.size: 25  --¡¿
+Fund id : 001473 --¡¾pageNo:10, maxPage: 10, (i+1): 21, trs.size: 25  --¡¿
+Fund id : 001473 --¡¾pageNo:10, maxPage: 10, (i+1): 22, trs.size: 25  --¡¿
+Fund id : 001473 --¡¾pageNo:10, maxPage: 10, (i+1): 23, trs.size: 25  --¡¿
+Fund id : 001473 --¡¾pageNo:10, maxPage: 10, (i+1): 24, trs.size: 25  --¡¿
+T^T  34.9624100%  T^T
+Fund Name: 296 . ÉÏÍ¶Ä¦¸ùÖÇ»Û»¥Áª¹ÉÆ±
+Fund id : 001313 --¡¾pageNo:11, maxPage: 11, (i+1): 7, trs.size: 13  --¡¿
+Fund id : 001313 --¡¾pageNo:11, maxPage: 11, (i+1): 8, trs.size: 13  --¡¿
+Fund id : 001313 --¡¾pageNo:11, maxPage: 11, (i+1): 9, trs.size: 13  --¡¿
+Fund id : 001313 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 13  --¡¿
+Fund id : 001313 --¡¾pageNo:11, maxPage: 11, (i+1): 11, trs.size: 13  --¡¿
+Fund id : 001313 --¡¾pageNo:11, maxPage: 11, (i+1): 12, trs.size: 13  --¡¿
+T^T  40.1590500%  T^T
+Fund Name: 297 . ÌìºëÉÏÖ¤50Ö¸ÊýA
+Fund id : 001548 --¡¾pageNo:10, maxPage: 10, (i+1): 48, trs.size: 50  --¡¿
+T^T  29.6996100%  T^T
+Fund Name: 298 . ÌìºëÖÐÖ¤»·±£²úÒµA
+Fund id : 001590 --¡¾pageNo:10, maxPage: 10, (i+1): 48, trs.size: 50  --¡¿
+T^T  38.4594200%  T^T
+Fund Name: 299 . ÌìºëÖÐÖ¤100Ö¸ÊýC
+Fund id : 001587 --¡¾pageNo:10, maxPage: 10, (i+1): 48, trs.size: 50  --¡¿
+T^T  28.5530200%  T^T
+Fund Name: 300 . ¹ã·¢ÖÐÖ¤È«Ö¸Ö÷ÒªÏû·ÑÁª½ÓA
+Fund id : 001458 --¡¾pageNo:10, maxPage: 10, (i+1): 22, trs.size: 24  --¡¿
+Fund id : 001458 --¡¾pageNo:10, maxPage: 10, (i+1): 23, trs.size: 24  --¡¿
+T^T  27.5543600%  T^T
+Fund Name: 301 . ÄÏ·½ÖÐÖ¤500Ô­²ÄÁÏETF
+Fund id : 512340 --¡¾pageNo:11, maxPage: 11, (i+1): 45, trs.size: 50  --¡¿
+Fund id : 512340 --¡¾pageNo:11, maxPage: 11, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 512340 --¡¾pageNo:11, maxPage: 11, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 512340 --¡¾pageNo:11, maxPage: 11, (i+1): 48, trs.size: 50  --¡¿
+T^T  51.8552300%  T^T
+Fund Name: 302 . ¼ÎÊµÊÂ¼þÇý¶¯¹ÉÆ±
+Fund id : 001416 --¡¾pageNo:10, maxPage: 10, (i+1): 35, trs.size: 45  --¡¿
+Fund id : 001416 --¡¾pageNo:10, maxPage: 10, (i+1): 36, trs.size: 45  --¡¿
+Fund id : 001416 --¡¾pageNo:10, maxPage: 10, (i+1): 37, trs.size: 45  --¡¿
+Fund id : 001416 --¡¾pageNo:10, maxPage: 10, (i+1): 38, trs.size: 45  --¡¿
+Fund id : 001416 --¡¾pageNo:10, maxPage: 10, (i+1): 39, trs.size: 45  --¡¿
+Fund id : 001416 --¡¾pageNo:10, maxPage: 10, (i+1): 40, trs.size: 45  --¡¿
+Fund id : 001416 --¡¾pageNo:10, maxPage: 10, (i+1): 41, trs.size: 45  --¡¿
+Fund id : 001416 --¡¾pageNo:10, maxPage: 10, (i+1): 42, trs.size: 45  --¡¿
+Fund id : 001416 --¡¾pageNo:10, maxPage: 10, (i+1): 43, trs.size: 45  --¡¿
+Fund id : 001416 --¡¾pageNo:10, maxPage: 10, (i+1): 44, trs.size: 45  --¡¿
+T^T  35.4935200%  T^T
+Fund Name: 303 . ½¨ÐÅÐÅÏ¢²úÒµ¹ÉÆ±
+Fund id : 001070 --¡¾pageNo:11, maxPage: 11, (i+1): 24, trs.size: 38  --¡¿
+Fund id : 001070 --¡¾pageNo:11, maxPage: 11, (i+1): 25, trs.size: 38  --¡¿
+Fund id : 001070 --¡¾pageNo:11, maxPage: 11, (i+1): 26, trs.size: 38  --¡¿
+Fund id : 001070 --¡¾pageNo:11, maxPage: 11, (i+1): 27, trs.size: 38  --¡¿
+Fund id : 001070 --¡¾pageNo:11, maxPage: 11, (i+1): 28, trs.size: 38  --¡¿
+Fund id : 001070 --¡¾pageNo:11, maxPage: 11, (i+1): 29, trs.size: 38  --¡¿
+Fund id : 001070 --¡¾pageNo:11, maxPage: 11, (i+1): 30, trs.size: 38  --¡¿
+Fund id : 001070 --¡¾pageNo:11, maxPage: 11, (i+1): 31, trs.size: 38  --¡¿
+Fund id : 001070 --¡¾pageNo:11, maxPage: 11, (i+1): 32, trs.size: 38  --¡¿
+Fund id : 001070 --¡¾pageNo:11, maxPage: 11, (i+1): 34, trs.size: 38  --¡¿
+Fund id : 001070 --¡¾pageNo:11, maxPage: 11, (i+1): 35, trs.size: 38  --¡¿
+Fund id : 001070 --¡¾pageNo:11, maxPage: 11, (i+1): 37, trs.size: 38  --¡¿
+T^T  36.4157700%  T^T
+Fund Name: 304 . ¹úÌ©»¥ÁªÍø+¹ÉÆ±
+Fund id : 001542 --¡¾pageNo:10, maxPage: 10, (i+1): 17, trs.size: 22  --¡¿
+Fund id : 001542 --¡¾pageNo:10, maxPage: 10, (i+1): 18, trs.size: 22  --¡¿
+Fund id : 001542 --¡¾pageNo:10, maxPage: 10, (i+1): 19, trs.size: 22  --¡¿
+Fund id : 001542 --¡¾pageNo:10, maxPage: 10, (i+1): 20, trs.size: 22  --¡¿
+Fund id : 001542 --¡¾pageNo:10, maxPage: 10, (i+1): 21, trs.size: 22  --¡¿
+T^T  47.2477100%  T^T
+Fund Name: 305 . Ç°º£¿ªÔ´Ç¿ÊÆ¹²Ê¶100Ç¿¹ÉÆ±
+Fund id : 001849 --¡¾pageNo:8, maxPage: 9, (i+1): 50, trs.size: 50  --¡¿
+(¡Ñ_¡Ñ)  19.5436500%  (¡Ñ_¡Ñ)
+Fund Name: 306 . »ªÌ©°ØÈðÖÐÖ¤500ETFÁª½Ó
+Fund id : 001214 --¡¾pageNo:11, maxPage: 11, (i+1): 24, trs.size: 30  --¡¿
+Fund id : 001214 --¡¾pageNo:11, maxPage: 11, (i+1): 26, trs.size: 30  --¡¿
+Fund id : 001214 --¡¾pageNo:11, maxPage: 11, (i+1): 27, trs.size: 30  --¡¿
+Fund id : 001214 --¡¾pageNo:11, maxPage: 11, (i+1): 28, trs.size: 30  --¡¿
+Fund id : 001214 --¡¾pageNo:11, maxPage: 11, (i+1): 29, trs.size: 30  --¡¿
+T^T  52.7300500%  T^T
+Fund Name: 307 . ²©Ê±ÉÏÖ¤50ETF
+Fund id : 510710 --¡¾pageNo:11, maxPage: 11, (i+1): 24, trs.size: 29  --¡¿
+Fund id : 510710 --¡¾pageNo:11, maxPage: 11, (i+1): 26, trs.size: 29  --¡¿
+Fund id : 510710 --¡¾pageNo:11, maxPage: 11, (i+1): 27, trs.size: 29  --¡¿
+Fund id : 510710 --¡¾pageNo:11, maxPage: 11, (i+1): 28, trs.size: 29  --¡¿
+T^T  69.1831100%  T^T
+Fund Name: 308 . ÖÐÈÚÒ»´øÒ»Â··Ö¼¶
+Fund id : 168201 --¡¾pageNo:11, maxPage: 11, (i+1): 40, trs.size: 42  --¡¿
+T^T  52.8787900%  T^T
+Fund Name: 309 . ÌìºëÖÐÖ¤ÐÝÏÐÓéÀÖÖ¸ÊýA
+Fund id : 001611 --¡¾pageNo:10, maxPage: 10, (i+1): 40, trs.size: 41  --¡¿
+T^T  43.2787500%  T^T
+Fund Name: 310 . ÌìºëÖÐÖ¤Ê³Æ·ÒûÁÏÖ¸ÊýC
+Fund id : 001632 --¡¾pageNo:10, maxPage: 10, (i+1): 40, trs.size: 41  --¡¿
+T^T  34.3171100%  T^T
+Fund Name: 311 . ¹úÌ©ÑëÆó¸Ä¸ï¹ÉÆ±
+Fund id : 001626 --¡¾pageNo:10, maxPage: 10, (i+1): 5, trs.size: 9  --¡¿
+Fund id : 001626 --¡¾pageNo:10, maxPage: 10, (i+1): 6, trs.size: 9  --¡¿
+Fund id : 001626 --¡¾pageNo:10, maxPage: 10, (i+1): 7, trs.size: 9  --¡¿
+T^T  37.9111800%  T^T
+Fund Name: 312 . »ª°²´´Òµ°å50Ö¸Êý·Ö¼¶
+Fund id : 160420 --¡¾pageNo:11, maxPage: 11, (i+1): 3, trs.size: 6  --¡¿
+Fund id : 160420 --¡¾pageNo:11, maxPage: 11, (i+1): 4, trs.size: 6  --¡¿
+Fund id : 160420 --¡¾pageNo:11, maxPage: 11, (i+1): 5, trs.size: 6  --¡¿
+T^T  39.9403400%  T^T
+Fund Name: 313 . Åô»ªÐÂË¿Â··Ö¼¶
+Fund id : 502026 --¡¾pageNo:10, maxPage: 10, (i+1): 25, trs.size: 28  --¡¿
+T^T  35.7575800%  T^T
+Fund Name: 314 . ·½Õý¸»°î±£ÏÕÖ÷ÌâÖ¸Êý·Ö¼¶
+Fund id : 167301 --¡¾pageNo:10, maxPage: 10, (i+1): 35, trs.size: 37  --¡¿
+Fund id : 167301 --¡¾pageNo:10, maxPage: 10, (i+1): 36, trs.size: 37  --¡¿
+T^T  38.8844000%  T^T
+Fund Name: 315 . ½»ÒøÖÐÖ¤»¥ÁªÍø½ðÈÚÖ¸Êý·Ö¼¶
+Fund id : 164907 --¡¾pageNo:11, maxPage: 11, (i+1): 8, trs.size: 12  --¡¿
+Fund id : 164907 --¡¾pageNo:11, maxPage: 11, (i+1): 9, trs.size: 12  --¡¿
+Fund id : 164907 --¡¾pageNo:11, maxPage: 11, (i+1): 11, trs.size: 12  --¡¿
+T^T  48.8195600%  T^T
+Fund Name: 316 . »ª±¦ÐËÒµÖÆÔì
+Fund id : 000866 --¡¾pageNo:13, maxPage: 13, (i+1): 7, trs.size: 16  --¡¿
+Fund id : 000866 --¡¾pageNo:13, maxPage: 13, (i+1): 8, trs.size: 16  --¡¿
+Fund id : 000866 --¡¾pageNo:13, maxPage: 13, (i+1): 9, trs.size: 16  --¡¿
+Fund id : 000866 --¡¾pageNo:13, maxPage: 13, (i+1): 10, trs.size: 16  --¡¿
+Fund id : 000866 --¡¾pageNo:13, maxPage: 13, (i+1): 11, trs.size: 16  --¡¿
+Fund id : 000866 --¡¾pageNo:13, maxPage: 13, (i+1): 12, trs.size: 16  --¡¿
+Fund id : 000866 --¡¾pageNo:13, maxPage: 13, (i+1): 13, trs.size: 16  --¡¿
+Fund id : 000866 --¡¾pageNo:13, maxPage: 13, (i+1): 14, trs.size: 16  --¡¿
+Fund id : 000866 --¡¾pageNo:13, maxPage: 13, (i+1): 15, trs.size: 16  --¡¿
+T^T  54.6319500%  T^T
+Fund Name: 317 . Åô»ª»·±£·Ö¼¶
+Fund id : 160634 --¡¾pageNo:11, maxPage: 11, (i+1): 19, trs.size: 20  --¡¿
+T^T  53.6639500%  T^T
+Fund Name: 318 . Åô»ª»¥ÁªÍø·Ö¼¶
+Fund id : 160636 --¡¾pageNo:11, maxPage: 11, (i+1): 20, trs.size: 21  --¡¿
+T^T  57.9124600%  T^T
+Fund Name: 319 . ÖÐÅ·»¦Éî300Ö¸ÊýÔöÇ¿A
+T^T  61.9254600%  T^T
+Fund Name: 320 . ³¤³Ç¾ÃÌ©»¦Éî300Ö¸Êý
+T^T  88.2387000%  T^T
+Fund Name: 321 . ÉÏÍ¶Ä¦¸ùÒ½ÁÆ½¡¿µ¹ÉÆ±
+Fund id : 001766 --¡¾pageNo:9, maxPage: 9, (i+1): 15, trs.size: 21  --¡¿
+Fund id : 001766 --¡¾pageNo:9, maxPage: 9, (i+1): 16, trs.size: 21  --¡¿
+Fund id : 001766 --¡¾pageNo:9, maxPage: 9, (i+1): 17, trs.size: 21  --¡¿
+Fund id : 001766 --¡¾pageNo:9, maxPage: 9, (i+1): 18, trs.size: 21  --¡¿
+Fund id : 001766 --¡¾pageNo:9, maxPage: 9, (i+1): 19, trs.size: 21  --¡¿
+Fund id : 001766 --¡¾pageNo:9, maxPage: 9, (i+1): 20, trs.size: 21  --¡¿
+T^T  31.9806800%  T^T
+Fund Name: 322 . ÌìºëÖÐÖ¤È«Ö¸·¿µØ²úA
+Fund id : 001556 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --¡¿
+T^T  33.4127000%  T^T
+Fund Name: 323 . ÌìºëÖÐÖ¤È«Ö¸ÔËÊäA
+Fund id : 001554 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --¡¿
+T^T  43.7700000%  T^T
+Fund Name: 324 . ÌìºëÖÐÖ¤È«Ö¸ÔËÊäC
+Fund id : 001555 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --¡¿
+T^T  43.8900000%  T^T
+Fund Name: 325 . ÌìºëÖÐÖ¤´ó×ÚÉÌÆ·¹ÉÆ±Ö¸ÊýA
+Fund id : 001558 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --¡¿
+T^T  40.7500000%  T^T
+Fund Name: 326 . Ç°º£¿ªÔ´ÓÅÊÆÀ¶³ï¹ÉÆ±C
+T^T  30.8231200%  T^T
+Fund Name: 327 . ¹ã·¢ÖÐÖ¤È«Ö¸½ðÈÚµØ²úÁª½ÓA
+Fund id : 001469 --¡¾pageNo:10, maxPage: 11, (i+1): 50, trs.size: 50  --¡¿
+T^T  29.4272100%  T^T
+Fund Name: 328 . »ãÌí¸»ÉîÖ¤300ETF
+T^T  67.4620000%  T^T
+Fund Name: 329 . °²ÐÅ»¦Éî300ÔöÇ¿·¢ÆðÊ½C
+Fund id : 003262 --¡¾pageNo:4, maxPage: 4, (i+1): 29, trs.size: 39  --¡¿
+Fund id : 003262 --¡¾pageNo:4, maxPage: 4, (i+1): 30, trs.size: 39  --¡¿
+Fund id : 003262 --¡¾pageNo:4, maxPage: 4, (i+1): 31, trs.size: 39  --¡¿
+Fund id : 003262 --¡¾pageNo:4, maxPage: 4, (i+1): 32, trs.size: 39  --¡¿
+Fund id : 003262 --¡¾pageNo:4, maxPage: 4, (i+1): 33, trs.size: 39  --¡¿
+Fund id : 003262 --¡¾pageNo:4, maxPage: 4, (i+1): 34, trs.size: 39  --¡¿
+Fund id : 003262 --¡¾pageNo:4, maxPage: 4, (i+1): 35, trs.size: 39  --¡¿
+Fund id : 003262 --¡¾pageNo:4, maxPage: 4, (i+1): 36, trs.size: 39  --¡¿
+Fund id : 003262 --¡¾pageNo:4, maxPage: 4, (i+1): 37, trs.size: 39  --¡¿
+Fund id : 003262 --¡¾pageNo:4, maxPage: 4, (i+1): 38, trs.size: 39  --¡¿
+(¡Ñ_¡Ñ)  13.6533300%  (¡Ñ_¡Ñ)
+Fund Name: 330 . Å©ÒøÐÅÏ¢´«Ã½¹ÉÆ±
+Fund id : 001319 --¡¾pageNo:10, maxPage: 11, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 001319 --¡¾pageNo:10, maxPage: 11, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 001319 --¡¾pageNo:10, maxPage: 11, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 001319 --¡¾pageNo:10, maxPage: 11, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 001319 --¡¾pageNo:10, maxPage: 11, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 001319 --¡¾pageNo:11, maxPage: 11, (i+1): 1, trs.size: 2  --¡¿
+T^T  34.7477500%  T^T
+Fund Name: 331 . ³¤ÐÅÁ¿»¯¶à²ßÂÔ¹ÉÆ±A
+Fund id : 519965 --¡¾pageNo:10, maxPage: 11, (i+1): 50, trs.size: 50  --¡¿
+T^T  42.8785600%  T^T
+Fund Name: 332 . ¸»¹úÖÐÖ¤500
+T^T  75.3669400%  T^T
+Fund Name: 333 . ¹úÍ¶»¦Éî300½ðÈÚµØ²úÁª½Ó
+T^T  60.3717600%  T^T
+Fund Name: 334 . Åô»ª´´Òµ°å·Ö¼¶
+Fund id : 160637 --¡¾pageNo:11, maxPage: 11, (i+1): 25, trs.size: 26  --¡¿
+T^T  43.4014900%  T^T
+Fund Name: 335 . ¹¤ÒøÑøÀÏ²úÒµ¹ÉÆ±
+Fund id : 001171 --¡¾pageNo:11, maxPage: 12, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 001171 --¡¾pageNo:11, maxPage: 12, (i+1): 50, trs.size: 50  --¡¿
+T^T  52.2804100%  T^T
+Fund Name: 336 . ¹ã·¢Ò½Ò©ÎÀÉúÁª½ÓA
+Fund id : 001180 --¡¾pageNo:11, maxPage: 11, (i+1): 36, trs.size: 40  --¡¿
+Fund id : 001180 --¡¾pageNo:11, maxPage: 11, (i+1): 37, trs.size: 40  --¡¿
+Fund id : 001180 --¡¾pageNo:11, maxPage: 11, (i+1): 38, trs.size: 40  --¡¿
+Fund id : 001180 --¡¾pageNo:11, maxPage: 11, (i+1): 39, trs.size: 40  --¡¿
+T^T  46.9490600%  T^T
+Fund Name: 337 . ÖÐÒø»¦Éî300µÈÈ¨ÖØÖ¸Êý
+T^T  64.7205000%  T^T
+Fund Name: 338 . ÉêÍòÁâÐÅ»¦Éî300¼ÛÖµÖ¸Êý
+T^T  60.2179200%  T^T
+Fund Name: 339 . ¾°Ë³³¤³ÇÓÅÖÊ³É³¤
+T^T  60.3740800%  T^T
+Fund Name: 340 . ¹úÍ¶ÈðÒøÉîÖ¤100Ö¸Êý
+T^T  63.1186800%  T^T
+Fund Name: 341 . »ã·á½úÐÅÖÇÔìÏÈ·æ¹ÉÆ±C
+T^T  27.4019700%  T^T
+Fund Name: 342 . »ã·á½úÐÅÖÇÔìÏÈ·æ¹ÉÆ±A
+T^T  27.8791200%  T^T
+Fund Name: 343 . ÐÅ³ÏÖÐÖ¤ÖÇÄÜ¼Ò¾ÓÖ¸Êý·Ö¼¶
+Fund id : 165524 --¡¾pageNo:11, maxPage: 11, (i+1): 5, trs.size: 9  --¡¿
+Fund id : 165524 --¡¾pageNo:11, maxPage: 11, (i+1): 6, trs.size: 9  --¡¿
+Fund id : 165524 --¡¾pageNo:11, maxPage: 11, (i+1): 7, trs.size: 9  --¡¿
+Fund id : 165524 --¡¾pageNo:11, maxPage: 11, (i+1): 8, trs.size: 9  --¡¿
+T^T  52.7301100%  T^T
+Fund Name: 344 . ³¤Ê¢ÖÐÖ¤ÉêÍòÒ»´øÒ»Â··Ö¼¶
+Fund id : 502013 --¡¾pageNo:11, maxPage: 11, (i+1): 29, trs.size: 30  --¡¿
+T^T  50.4410600%  T^T
+Fund Name: 345 . ÄÏ·½ÖÐÖ¤500ÐÅÏ¢¼¼ÊõÁª½ÓC
+(¡Ñ_¡Ñ)  14.0730900%  (¡Ñ_¡Ñ)
+Fund Name: 346 . ´ó³ÉÖÐÖ¤ºìÀûÖ¸Êý
+T^T  66.2746900%  T^T
+Fund Name: 347 . Òø»ªÖÐ¹úÃÎ30¹ÉÆ±
+Fund id : 001163 --¡¾pageNo:11, maxPage: 11, (i+1): 5, trs.size: 17  --¡¿
+Fund id : 001163 --¡¾pageNo:11, maxPage: 11, (i+1): 6, trs.size: 17  --¡¿
+Fund id : 001163 --¡¾pageNo:11, maxPage: 11, (i+1): 7, trs.size: 17  --¡¿
+Fund id : 001163 --¡¾pageNo:11, maxPage: 11, (i+1): 8, trs.size: 17  --¡¿
+Fund id : 001163 --¡¾pageNo:11, maxPage: 11, (i+1): 9, trs.size: 17  --¡¿
+Fund id : 001163 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 17  --¡¿
+Fund id : 001163 --¡¾pageNo:11, maxPage: 11, (i+1): 11, trs.size: 17  --¡¿
+Fund id : 001163 --¡¾pageNo:11, maxPage: 11, (i+1): 12, trs.size: 17  --¡¿
+Fund id : 001163 --¡¾pageNo:11, maxPage: 11, (i+1): 13, trs.size: 17  --¡¿
+Fund id : 001163 --¡¾pageNo:11, maxPage: 11, (i+1): 14, trs.size: 17  --¡¿
+Fund id : 001163 --¡¾pageNo:11, maxPage: 11, (i+1): 15, trs.size: 17  --¡¿
+T^T  41.6733100%  T^T
+Fund Name: 348 . »ªÈóÔª´óÖÐ´´100ETF
+Fund id : 159942 --¡¾pageNo:11, maxPage: 11, (i+1): 17, trs.size: 25  --¡¿
+Fund id : 159942 --¡¾pageNo:11, maxPage: 11, (i+1): 18, trs.size: 25  --¡¿
+Fund id : 159942 --¡¾pageNo:11, maxPage: 11, (i+1): 19, trs.size: 25  --¡¿
+Fund id : 159942 --¡¾pageNo:11, maxPage: 11, (i+1): 22, trs.size: 25  --¡¿
+Fund id : 159942 --¡¾pageNo:11, maxPage: 11, (i+1): 23, trs.size: 25  --¡¿
+Fund id : 159942 --¡¾pageNo:11, maxPage: 11, (i+1): 24, trs.size: 25  --¡¿
+T^T  70.2734800%  T^T
+Fund Name: 349 . ²©Ê±ÖÐÖ¤ÌÔ½ð´óÊý¾Ý100A
+Fund id : 001242 --¡¾pageNo:11, maxPage: 11, (i+1): 32, trs.size: 37  --¡¿
+Fund id : 001242 --¡¾pageNo:11, maxPage: 11, (i+1): 33, trs.size: 37  --¡¿
+Fund id : 001242 --¡¾pageNo:11, maxPage: 11, (i+1): 34, trs.size: 37  --¡¿
+Fund id : 001242 --¡¾pageNo:11, maxPage: 11, (i+1): 35, trs.size: 37  --¡¿
+Fund id : 001242 --¡¾pageNo:11, maxPage: 11, (i+1): 36, trs.size: 37  --¡¿
+T^T  53.9794100%  T^T
+Fund Name: 350 . Ò×·½´ïÉÏÖ¤50Ö¸Êý·Ö¼¶
+Fund id : 502048 --¡¾pageNo:12, maxPage: 12, (i+1): 13, trs.size: 14  --¡¿
+T^T  53.3453900%  T^T
+Fund Name: 351 . »ªÌ©°ØÈðÖÐÖ¤500ETF
+Fund id : 512510 --¡¾pageNo:11, maxPage: 11, (i+1): 25, trs.size: 32  --¡¿
+Fund id : 512510 --¡¾pageNo:11, maxPage: 11, (i+1): 27, trs.size: 32  --¡¿
+Fund id : 512510 --¡¾pageNo:11, maxPage: 11, (i+1): 28, trs.size: 32  --¡¿
+Fund id : 512510 --¡¾pageNo:11, maxPage: 11, (i+1): 29, trs.size: 32  --¡¿
+Fund id : 512510 --¡¾pageNo:11, maxPage: 11, (i+1): 30, trs.size: 32  --¡¿
+Fund id : 512510 --¡¾pageNo:11, maxPage: 11, (i+1): 31, trs.size: 32  --¡¿
+T^T  56.5005700%  T^T
+Fund Name: 352 . Åµ°²µÍÌ¼¾­¼Ã¹ÉÆ±
+Fund id : 001208 --¡¾pageNo:11, maxPage: 11, (i+1): 24, trs.size: 35  --¡¿
+Fund id : 001208 --¡¾pageNo:11, maxPage: 11, (i+1): 25, trs.size: 35  --¡¿
+Fund id : 001208 --¡¾pageNo:11, maxPage: 11, (i+1): 26, trs.size: 35  --¡¿
+T^T  39.6135300%  T^T
+Fund Name: 353 . ÄÏ·½ÖÐÖ¤¸ßÌú²úÒµÖ¸Êý·Ö¼¶
+Fund id : 160135 --¡¾pageNo:11, maxPage: 11, (i+1): 19, trs.size: 22  --¡¿
+Fund id : 160135 --¡¾pageNo:11, maxPage: 11, (i+1): 21, trs.size: 22  --¡¿
+T^T  57.6098300%  T^T
+Fund Name: 354 . Åô»ª¸ßÌú·Ö¼¶
+Fund id : 160639 --¡¾pageNo:11, maxPage: 11, (i+1): 34, trs.size: 35  --¡¿
+T^T  49.0472200%  T^T
+Fund Name: 355 . Åô»ªÐÂÄÜÔ´·Ö¼¶
+T^T  47.4048400%  T^T
+Fund Name: 356 . Åô»ª¸ÖÌú·Ö¼¶
+Fund id : 502023 --¡¾pageNo:10, maxPage: 10, (i+1): 25, trs.size: 28  --¡¿
+T^T  28.4143000%  T^T
+Fund Name: 357 . ÌìºëÖÐÖ¤¸ß¶Ë×°±¸ÖÆÔìC
+T^T  40.3889500%  T^T
+Fund Name: 358 . ¹ã·¢ÖÐÖ¤È«Ö¸Ô­²ÄÁÏETF
+Fund id : 159944 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 14  --¡¿
+T^T  38.5913100%  T^T
+Fund Name: 359 . ¹ã·¢ÖÐÖ¤È«Ö¸ÄÜÔ´ETF
+Fund id : 159945 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 14  --¡¿
+T^T  44.9327000%  T^T
+Fund Name: 360 . ÉêÍòÁâÐÅÉêÍòÒ½Ò©ÉúÎï·Ö¼¶
+Fund id : 163118 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 14  --¡¿
+Fund id : 163118 --¡¾pageNo:11, maxPage: 11, (i+1): 13, trs.size: 14  --¡¿
+T^T  29.9346600%  T^T
+Fund Name: 361 . ½¨ÐÅ»¥ÁªÍø+²úÒµÉý¼¶¹ÉÆ±
+Fund id : 001396 --¡¾pageNo:10, maxPage: 11, (i+1): 45, trs.size: 50  --¡¿
+Fund id : 001396 --¡¾pageNo:10, maxPage: 11, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 001396 --¡¾pageNo:10, maxPage: 11, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 001396 --¡¾pageNo:10, maxPage: 11, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 001396 --¡¾pageNo:10, maxPage: 11, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 001396 --¡¾pageNo:10, maxPage: 11, (i+1): 50, trs.size: 50  --¡¿
+T^T  34.8000000%  T^T
+Fund Name: 362 . ¹ã·¢ÑøÀÏÖ¸ÊýA
+Fund id : 000968 --¡¾pageNo:12, maxPage: 12, (i+1): 44, trs.size: 47  --¡¿
+Fund id : 000968 --¡¾pageNo:12, maxPage: 12, (i+1): 45, trs.size: 47  --¡¿
+Fund id : 000968 --¡¾pageNo:12, maxPage: 12, (i+1): 46, trs.size: 47  --¡¿
+T^T  50.9956600%  T^T
+Fund Name: 363 . Î÷²¿ÀûµÃÖÐÖ¤500µÈÈ¨ÖØ·Ö¼¶
+T^T  53.0326600%  T^T
+Fund Name: 364 . ÉêÍòÁâÐÅÉêÍò´«Ã½·Ö¼¶
+Fund id : 163117 --¡¾pageNo:11, maxPage: 11, (i+1): 27, trs.size: 29  --¡¿
+Fund id : 163117 --¡¾pageNo:11, maxPage: 11, (i+1): 28, trs.size: 29  --¡¿
+T^T  51.8613400%  T^T
+Fund Name: 365 . ½»ÒøÖÐÖ¤»·¾³ÖÎÀí(LOF)
+Fund id : 164908 --¡¾pageNo:10, maxPage: 10, (i+1): 27, trs.size: 29  --¡¿
+T^T  36.8207600%  T^T
+Fund Name: 366 . ½¨ÐÅÍø½ðÈÚ·Ö¼¶
+Fund id : 165315 --¡¾pageNo:10, maxPage: 10, (i+1): 35, trs.size: 37  --¡¿
+T^T  40.0757500%  T^T
+Fund Name: 367 . ÉêÍòÁâÐÅÉêÍòµç×Ó·Ö¼¶
+T^T  43.1947300%  T^T
+Fund Name: 368 . ²©Ê±ÖÐÖ¤800Ö¤È¯±£ÏÕ·Ö¼¶
+Fund id : 160516 --¡¾pageNo:11, maxPage: 11, (i+1): 40, trs.size: 41  --¡¿
+T^T  53.5015900%  T^T
+Fund Name: 369 . ¸»¹úÖÐÖ¤ÃºÌ¿Ö¸Êý·Ö¼¶
+Fund id : 161032 --¡¾pageNo:11, maxPage: 11, (i+1): 15, trs.size: 17  --¡¿
+T^T  54.4776100%  T^T
+Fund Name: 370 . ÄÏ·½ÖÐÖ¤500ÐÅÏ¢¼¼ÊõETF
+Fund id : 512330 --¡¾pageNo:10, maxPage: 11, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 512330 --¡¾pageNo:11, maxPage: 11, (i+1): 2, trs.size: 5  --¡¿
+Fund id : 512330 --¡¾pageNo:11, maxPage: 11, (i+1): 3, trs.size: 5  --¡¿
+T^T  37.7573800%  T^T
+Fund Name: 371 . ÕÐÉÌÖÐÖ¤°×¾ÆÖ¸Êý·Ö¼¶
+Fund id : 161725 --¡¾pageNo:11, maxPage: 11, (i+1): 30, trs.size: 32  --¡¿
+Fund id : 161725 --¡¾pageNo:11, maxPage: 11, (i+1): 31, trs.size: 32  --¡¿
+T^T  51.2473300%  T^T
+Fund Name: 372 . ½ðÓ¥Á¿»¯¾«Ñ¡¹ÉÆ±(LOF)
+T^T  69.6048300%  T^T
+Fund Name: 373 . Ììºë´´Òµ°åC
+T^T  44.0503500%  T^T
+Fund Name: 374 . ¹¤ÒøÖÐÖ¤¸ßÌú²úÒµÖ¸Êý·Ö¼¶
+Fund id : 164820 --¡¾pageNo:10, maxPage: 10, (i+1): 38, trs.size: 42  --¡¿
+Fund id : 164820 --¡¾pageNo:10, maxPage: 10, (i+1): 39, trs.size: 42  --¡¿
+Fund id : 164820 --¡¾pageNo:10, maxPage: 10, (i+1): 40, trs.size: 42  --¡¿
+T^T  49.1381500%  T^T
+Fund Name: 375 . ¹¤ÒøÖÐÖ¤ÐÂÄÜÔ´Ö¸Êý·Ö¼¶
+Fund id : 164821 --¡¾pageNo:10, maxPage: 10, (i+1): 40, trs.size: 45  --¡¿
+Fund id : 164821 --¡¾pageNo:10, maxPage: 10, (i+1): 42, trs.size: 45  --¡¿
+Fund id : 164821 --¡¾pageNo:10, maxPage: 10, (i+1): 43, trs.size: 45  --¡¿
+T^T  51.1061400%  T^T
+Fund Name: 376 . ¹úÌ©¹úÖ¤Ê³Æ·ÒûÁÏÐÐÒµÖ¸Êý·Ö¼¶
+Fund id : 160222 --¡¾pageNo:14, maxPage: 14, (i+1): 23, trs.size: 27  --¡¿
+Fund id : 160222 --¡¾pageNo:14, maxPage: 14, (i+1): 24, trs.size: 27  --¡¿
+Fund id : 160222 --¡¾pageNo:14, maxPage: 14, (i+1): 25, trs.size: 27  --¡¿
+T^T  57.7237900%  T^T
+Fund Name: 377 . ÐÅ´ï°ÄÒøÐÂÄÜÔ´²úÒµ¹ÉÆ±
+Fund id : 001410 --¡¾pageNo:10, maxPage: 10, (i+1): 25, trs.size: 29  --¡¿
+Fund id : 001410 --¡¾pageNo:10, maxPage: 10, (i+1): 26, trs.size: 29  --¡¿
+Fund id : 001410 --¡¾pageNo:10, maxPage: 10, (i+1): 28, trs.size: 29  --¡¿
+T^T  42.3272700%  T^T
+Fund Name: 378 . »ãÌí¸»¹úÆó´´ÐÂ¹ÉÆ±
+Fund id : 001490 --¡¾pageNo:9, maxPage: 10, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 001490 --¡¾pageNo:10, maxPage: 10, (i+1): 1, trs.size: 12  --¡¿
+Fund id : 001490 --¡¾pageNo:10, maxPage: 10, (i+1): 2, trs.size: 12  --¡¿
+Fund id : 001490 --¡¾pageNo:10, maxPage: 10, (i+1): 3, trs.size: 12  --¡¿
+Fund id : 001490 --¡¾pageNo:10, maxPage: 10, (i+1): 4, trs.size: 12  --¡¿
+Fund id : 001490 --¡¾pageNo:10, maxPage: 10, (i+1): 5, trs.size: 12  --¡¿
+Fund id : 001490 --¡¾pageNo:10, maxPage: 10, (i+1): 6, trs.size: 12  --¡¿
+Fund id : 001490 --¡¾pageNo:10, maxPage: 10, (i+1): 7, trs.size: 12  --¡¿
+Fund id : 001490 --¡¾pageNo:10, maxPage: 10, (i+1): 8, trs.size: 12  --¡¿
+Fund id : 001490 --¡¾pageNo:10, maxPage: 10, (i+1): 9, trs.size: 12  --¡¿
+Fund id : 001490 --¡¾pageNo:10, maxPage: 10, (i+1): 10, trs.size: 12  --¡¿
+Fund id : 001490 --¡¾pageNo:10, maxPage: 10, (i+1): 11, trs.size: 12  --¡¿
+T^T  29.5713000%  T^T
+Fund Name: 379 . »ª±¦ÉÏÖ¤180Áª½Ó
+T^T  60.1681600%  T^T
+Fund Name: 380 . »ã·á½úÐÅÏû·ÑºìÀû
+T^T  57.7170300%  T^T
+Fund Name: 381 . ¹úÊÙ°²±£ÖÇ»ÛÉú»î¹ÉÆ±
+Fund id : 001672 --¡¾pageNo:9, maxPage: 10, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 001672 --¡¾pageNo:9, maxPage: 10, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 001672 --¡¾pageNo:10, maxPage: 10, (i+1): 1, trs.size: 4  --¡¿
+Fund id : 001672 --¡¾pageNo:10, maxPage: 10, (i+1): 2, trs.size: 4  --¡¿
+T^T  25.9729900%  T^T
+Fund Name: 382 . ¸»¹ú¸ß¶ËÖÆÔìÐÐÒµ¹ÉÆ±
+Fund id : 000513 --¡¾pageNo:15, maxPage: 15, (i+1): 35, trs.size: 42  --¡¿
+Fund id : 000513 --¡¾pageNo:15, maxPage: 15, (i+1): 36, trs.size: 42  --¡¿
+Fund id : 000513 --¡¾pageNo:15, maxPage: 15, (i+1): 37, trs.size: 42  --¡¿
+Fund id : 000513 --¡¾pageNo:15, maxPage: 15, (i+1): 38, trs.size: 42  --¡¿
+Fund id : 000513 --¡¾pageNo:15, maxPage: 15, (i+1): 39, trs.size: 42  --¡¿
+Fund id : 000513 --¡¾pageNo:15, maxPage: 15, (i+1): 41, trs.size: 42  --¡¿
+T^T  59.8196000%  T^T
+Fund Name: 383 . ¹ã·¢»¦Éî300ETF
+Fund id : 510360 --¡¾pageNo:10, maxPage: 10, (i+1): 15, trs.size: 20  --¡¿
+Fund id : 510360 --¡¾pageNo:10, maxPage: 10, (i+1): 16, trs.size: 20  --¡¿
+Fund id : 510360 --¡¾pageNo:10, maxPage: 10, (i+1): 18, trs.size: 20  --¡¿
+T^T  28.1210500%  T^T
+Fund Name: 384 . ³¤Ê¢ÖÐÖ¤Ö¤È¯¹«Ë¾·Ö¼¶
+Fund id : 502053 --¡¾pageNo:10, maxPage: 10, (i+1): 25, trs.size: 28  --¡¿
+T^T  37.5269600%  T^T
+Fund Name: 385 . ÖÐÒøÉÏÖ¤¹úÆó100ETF
+T^T  62.8768800%  T^T
+Fund Name: 386 . Ò×·½´ï»¦Éî300Ò½Ò©ETF
+T^T  50.0061200%  T^T
+Fund Name: 387 . ¾°Ë³ÖÐÖ¤TMT150ETF
+Fund id : 512220 --¡¾pageNo:15, maxPage: 15, (i+1): 24, trs.size: 28  --¡¿
+Fund id : 512220 --¡¾pageNo:15, maxPage: 15, (i+1): 25, trs.size: 28  --¡¿
+Fund id : 512220 --¡¾pageNo:15, maxPage: 15, (i+1): 26, trs.size: 28  --¡¿
+Fund id : 512220 --¡¾pageNo:15, maxPage: 15, (i+1): 27, trs.size: 28  --¡¿
+T^T  63.7713100%  T^T
+Fund Name: 388 . ¼ÎÊµÖÐÖ¤½ðÈÚµØ²úETF
+Fund id : 512640 --¡¾pageNo:15, maxPage: 15, (i+1): 40, trs.size: 46  --¡¿
+Fund id : 512640 --¡¾pageNo:15, maxPage: 15, (i+1): 41, trs.size: 46  --¡¿
+Fund id : 512640 --¡¾pageNo:15, maxPage: 15, (i+1): 42, trs.size: 46  --¡¿
+Fund id : 512640 --¡¾pageNo:15, maxPage: 15, (i+1): 43, trs.size: 46  --¡¿
+Fund id : 512640 --¡¾pageNo:15, maxPage: 15, (i+1): 45, trs.size: 46  --¡¿
+T^T  56.9332400%  T^T
+Fund Name: 389 . ÄÏ·½¹ú²ß¶¯Á¦
+Fund id : 001692 --¡¾pageNo:9, maxPage: 10, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 001692 --¡¾pageNo:9, maxPage: 10, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 001692 --¡¾pageNo:9, maxPage: 10, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 001692 --¡¾pageNo:9, maxPage: 10, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 001692 --¡¾pageNo:10, maxPage: 10, (i+1): 1, trs.size: 4  --¡¿
+Fund id : 001692 --¡¾pageNo:10, maxPage: 10, (i+1): 2, trs.size: 4  --¡¿
+Fund id : 001692 --¡¾pageNo:10, maxPage: 10, (i+1): 3, trs.size: 4  --¡¿
+T^T  27.1360800%  T^T
+Fund Name: 390 . Å©ÒøÉîÖ¤100ÔöÇ¿
+T^T  58.5170300%  T^T
+Fund Name: 391 . ¹¤Òø¸ß¶ËÖÆÔì¹ÉÆ±
+Fund id : 000793 --¡¾pageNo:14, maxPage: 14, (i+1): 12, trs.size: 17  --¡¿
+Fund id : 000793 --¡¾pageNo:14, maxPage: 14, (i+1): 13, trs.size: 17  --¡¿
+Fund id : 000793 --¡¾pageNo:14, maxPage: 14, (i+1): 14, trs.size: 17  --¡¿
+Fund id : 000793 --¡¾pageNo:14, maxPage: 14, (i+1): 15, trs.size: 17  --¡¿
+Fund id : 000793 --¡¾pageNo:14, maxPage: 14, (i+1): 16, trs.size: 17  --¡¿
+T^T  63.6864400%  T^T
+Fund Name: 392 . »ãÌí¸»³É³¤¶àÒò×ÓÁ¿»¯²ßÂÔ¹ÉÆ±
+Fund id : 001050 --¡¾pageNo:11, maxPage: 12, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 001050 --¡¾pageNo:11, maxPage: 12, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 001050 --¡¾pageNo:12, maxPage: 12, (i+1): 1, trs.size: 12  --¡¿
+Fund id : 001050 --¡¾pageNo:12, maxPage: 12, (i+1): 3, trs.size: 12  --¡¿
+Fund id : 001050 --¡¾pageNo:12, maxPage: 12, (i+1): 4, trs.size: 12  --¡¿
+Fund id : 001050 --¡¾pageNo:12, maxPage: 12, (i+1): 5, trs.size: 12  --¡¿
+Fund id : 001050 --¡¾pageNo:12, maxPage: 12, (i+1): 6, trs.size: 12  --¡¿
+Fund id : 001050 --¡¾pageNo:12, maxPage: 12, (i+1): 7, trs.size: 12  --¡¿
+Fund id : 001050 --¡¾pageNo:12, maxPage: 12, (i+1): 8, trs.size: 12  --¡¿
+Fund id : 001050 --¡¾pageNo:12, maxPage: 12, (i+1): 9, trs.size: 12  --¡¿
+Fund id : 001050 --¡¾pageNo:12, maxPage: 12, (i+1): 10, trs.size: 12  --¡¿
+T^T  48.4032600%  T^T
+Fund Name: 393 . ¹â´óÁ¿»¯ºËÐÄ
+T^T  82.1700000%  T^T
+Fund Name: 394 . ½¨ÐÅÉÏÖ¤ÔðÈÎETF
+T^T  62.6262100%  T^T
+Fund Name: 395 . ²©Ê±¹úÆó¸Ä¸ï¹ÉÆ±
+Fund id : 001277 --¡¾pageNo:11, maxPage: 11, (i+1): 11, trs.size: 19  --¡¿
+Fund id : 001277 --¡¾pageNo:11, maxPage: 11, (i+1): 12, trs.size: 19  --¡¿
+Fund id : 001277 --¡¾pageNo:11, maxPage: 11, (i+1): 13, trs.size: 19  --¡¿
+Fund id : 001277 --¡¾pageNo:11, maxPage: 11, (i+1): 14, trs.size: 19  --¡¿
+Fund id : 001277 --¡¾pageNo:11, maxPage: 11, (i+1): 15, trs.size: 19  --¡¿
+Fund id : 001277 --¡¾pageNo:11, maxPage: 11, (i+1): 16, trs.size: 19  --¡¿
+Fund id : 001277 --¡¾pageNo:11, maxPage: 11, (i+1): 17, trs.size: 19  --¡¿
+Fund id : 001277 --¡¾pageNo:11, maxPage: 11, (i+1): 18, trs.size: 19  --¡¿
+T^T  40.9881100%  T^T
+Fund Name: 396 . ¹¤ÒøÖÐÖ¤500·Ö¼¶
+T^T  71.3660400%  T^T
+Fund Name: 397 . ¹¤ÒøÐÂ²ÄÁÏÐÂÄÜÔ´¹ÉÆ±
+Fund id : 001158 --¡¾pageNo:11, maxPage: 11, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 001158 --¡¾pageNo:11, maxPage: 11, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 001158 --¡¾pageNo:11, maxPage: 11, (i+1): 49, trs.size: 50  --¡¿
+T^T  59.8004300%  T^T
+Fund Name: 398 . »ªÏÄ»¦Éî300ETF
+T^T  81.2041600%  T^T
+Fund Name: 399 . º£¸»Í¨ÉÏÖ¤·ÇÖÜÆÚETF
+T^T  79.5123000%  T^T
+Fund Name: 400 . ¸»¹ú´´Òµ°åÖ¸Êý·Ö¼¶
+T^T  60.5559200%  T^T
+Fund Name: 401 . Ò×·½´ïÉîÖ¤100ETFÁª½ÓA
+T^T  59.2661300%  T^T
+Fund Name: 402 . ÖÐÒøÖÇÄÜÖÆÔì¹ÉÆ±
+Fund id : 001476 --¡¾pageNo:11, maxPage: 11, (i+1): 7, trs.size: 11  --¡¿
+Fund id : 001476 --¡¾pageNo:11, maxPage: 11, (i+1): 8, trs.size: 11  --¡¿
+Fund id : 001476 --¡¾pageNo:11, maxPage: 11, (i+1): 9, trs.size: 11  --¡¿
+Fund id : 001476 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --¡¿
+T^T  35.2941200%  T^T
+Fund Name: 403 . ¹ã·¢ÖÐÖ¤È«Ö¸ÄÜÔ´ETFÁª½ÓA
+Fund id : 001460 --¡¾pageNo:10, maxPage: 11, (i+1): 50, trs.size: 50  --¡¿
+T^T  37.4218800%  T^T
+Fund Name: 404 . ÌìºëÖÐÖ¤Ò½Ò©100A
+Fund id : 001550 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --¡¿
+T^T  35.5800000%  T^T
+Fund Name: 405 . ÌìºëÖÐÖ¤Ò½Ò©100C
+Fund id : 001551 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --¡¿
+T^T  35.7000000%  T^T
+Fund Name: 406 . ÌìºëÖÐÖ¤¸ß¶Ë×°±¸ÖÆÔìA
+T^T  40.2970000%  T^T
+Fund Name: 407 . ½¨ÐÅ¾«¹¤ÖÆÔìÖ¸ÊýÔöÇ¿
+Fund id : 001397 --¡¾pageNo:10, maxPage: 10, (i+1): 12, trs.size: 15  --¡¿
+Fund id : 001397 --¡¾pageNo:10, maxPage: 10, (i+1): 13, trs.size: 15  --¡¿
+Fund id : 001397 --¡¾pageNo:10, maxPage: 10, (i+1): 14, trs.size: 15  --¡¿
+T^T  34.2862000%  T^T
+Fund Name: 408 . ¹¤ÒøÅ©Òµ²úÒµ¹ÉÆ±
+Fund id : 001195 --¡¾pageNo:11, maxPage: 11, (i+1): 16, trs.size: 21  --¡¿
+Fund id : 001195 --¡¾pageNo:11, maxPage: 11, (i+1): 17, trs.size: 21  --¡¿
+Fund id : 001195 --¡¾pageNo:11, maxPage: 11, (i+1): 18, trs.size: 21  --¡¿
+Fund id : 001195 --¡¾pageNo:11, maxPage: 11, (i+1): 19, trs.size: 21  --¡¿
+Fund id : 001195 --¡¾pageNo:11, maxPage: 11, (i+1): 20, trs.size: 21  --¡¿
+T^T  50.1469100%  T^T
+Fund Name: 409 . ÕÐÉÌÖÐÖ¤ÃºÌ¿µÈÈ¨Ö¸Êý·Ö¼¶
+Fund id : 161724 --¡¾pageNo:11, maxPage: 11, (i+1): 36, trs.size: 39  --¡¿
+T^T  52.5398000%  T^T
+Fund Name: 410 . ¹úÊÙ°²±£ÖÐÖ¤500ETF
+Fund id : 510560 --¡¾pageNo:11, maxPage: 11, (i+1): 11, trs.size: 18  --¡¿
+Fund id : 510560 --¡¾pageNo:11, maxPage: 11, (i+1): 12, trs.size: 18  --¡¿
+Fund id : 510560 --¡¾pageNo:11, maxPage: 11, (i+1): 13, trs.size: 18  --¡¿
+Fund id : 510560 --¡¾pageNo:11, maxPage: 11, (i+1): 14, trs.size: 18  --¡¿
+Fund id : 510560 --¡¾pageNo:11, maxPage: 11, (i+1): 16, trs.size: 18  --¡¿
+Fund id : 510560 --¡¾pageNo:11, maxPage: 11, (i+1): 17, trs.size: 18  --¡¿
+T^T  54.4516000%  T^T
+Fund Name: 411 . Ò×·½´ïÖÐÖ¤500ETF
+Fund id : 510580 --¡¾pageNo:10, maxPage: 10, (i+1): 17, trs.size: 19  --¡¿
+T^T  87.5090600%  T^T
+Fund Name: 412 . ²©Ê±ÖÐÖ¤ÌÔ½ð´óÊý¾Ý100I
+Fund id : 001243 --¡¾pageNo:11, maxPage: 11, (i+1): 32, trs.size: 37  --¡¿
+Fund id : 001243 --¡¾pageNo:11, maxPage: 11, (i+1): 33, trs.size: 37  --¡¿
+Fund id : 001243 --¡¾pageNo:11, maxPage: 11, (i+1): 34, trs.size: 37  --¡¿
+Fund id : 001243 --¡¾pageNo:11, maxPage: 11, (i+1): 35, trs.size: 37  --¡¿
+Fund id : 001243 --¡¾pageNo:11, maxPage: 11, (i+1): 36, trs.size: 37  --¡¿
+T^T  53.9671900%  T^T
+Fund Name: 413 . »ª±¦ÐËÒµÖÐÖ¤1000Ö¸Êý·Ö¼¶
+T^T  44.8300500%  T^T
+Fund Name: 414 . ²©Ê±ÉÏÖ¤50ETFÁª½Ó
+Fund id : 001237 --¡¾pageNo:11, maxPage: 11, (i+1): 32, trs.size: 34  --¡¿
+Fund id : 001237 --¡¾pageNo:11, maxPage: 11, (i+1): 33, trs.size: 34  --¡¿
+T^T  35.5673200%  T^T
+Fund Name: 415 . ¼ÎÊµ»¦Éî300ETFÁª½Ó
+T^T  80.3830000%  T^T
+Fund Name: 416 . ²©Ê±»¦Éî300Ö¸ÊýC
+T^T  30.8518500%  T^T
+Fund Name: 417 . ´ó³É360»¥ÁªÍø+´óÊý¾Ý100A
+Fund id : 002236 --¡¾pageNo:8, maxPage: 8, (i+1): 9, trs.size: 11  --¡¿
+Fund id : 002236 --¡¾pageNo:8, maxPage: 8, (i+1): 10, trs.size: 11  --¡¿
+T^T  23.3281500%  T^T
+Fund Name: 418 . ¼ÎÊµ»¦¸ÛÉî¾«Ñ¡¹ÉÆ±
+Fund id : 001878 --¡¾pageNo:6, maxPage: 6, (i+1): 22, trs.size: 26  --¡¿
+Fund id : 001878 --¡¾pageNo:6, maxPage: 6, (i+1): 23, trs.size: 26  --¡¿
+Fund id : 001878 --¡¾pageNo:6, maxPage: 6, (i+1): 24, trs.size: 26  --¡¿
+Fund id : 001878 --¡¾pageNo:6, maxPage: 6, (i+1): 25, trs.size: 26  --¡¿
+T^T  34.9381900%  T^T
+Fund Name: 419 . ¼ÎÊµ»·±£µÍÌ¼¹ÉÆ±
+Fund id : 001616 --¡¾pageNo:8, maxPage: 8, (i+1): 25, trs.size: 29  --¡¿
+Fund id : 001616 --¡¾pageNo:8, maxPage: 8, (i+1): 26, trs.size: 29  --¡¿
+Fund id : 001616 --¡¾pageNo:8, maxPage: 8, (i+1): 27, trs.size: 29  --¡¿
+T^T  35.0427400%  T^T
+Fund Name: 420 . ÖÐÅ·Ïû·ÑÖ÷Ìâ¹ÉÆ±C
+Fund id : 002697 --¡¾pageNo:5, maxPage: 5, (i+1): 42, trs.size: 44  --¡¿
+Fund id : 002697 --¡¾pageNo:5, maxPage: 5, (i+1): 43, trs.size: 44  --¡¿
+(¡Ñ_¡Ñ)  13.5948900%  (¡Ñ_¡Ñ)
+Fund Name: 421 . ³¤Ê¢Ò½ÁÆÐÐÒµÁ¿»¯ÅäÖÃ¹ÉÆ±
+Fund id : 002300 --¡¾pageNo:7, maxPage: 8, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 002300 --¡¾pageNo:7, maxPage: 8, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 002300 --¡¾pageNo:7, maxPage: 8, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 002300 --¡¾pageNo:7, maxPage: 8, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 002300 --¡¾pageNo:7, maxPage: 8, (i+1): 50, trs.size: 50  --¡¿
+(¡Ñ_¡Ñ)  13.4615400%  (¡Ñ_¡Ñ)
+Fund Name: 422 . ÕÐÉÌ´ó×ÚÉÌÆ·(LOF)
+Fund id : 161715 --¡¾pageNo:1, maxPage: 25, (i+1): 26, trs.size: 50  --¡¿
+T^T  59.2639600%  T^T
+Fund Name: 423 . ¼ÎÊµ»¦Éî300ETF
+T^T  85.4889400%  T^T
+Fund Name: 424 . Ò×·½´ïÖ¤È¯¹«Ë¾·Ö¼¶
+T^T  51.0177100%  T^T
+Fund Name: 425 . ¼ÎÊµÖÐÖ¤500ETF
+Fund id : 159922 --¡¾pageNo:22, maxPage: 22, (i+1): 25, trs.size: 26  --¡¿
+T^T  91.2182800%  T^T
+Fund Name: 426 . »ã·á½úÐÅ´óÅÌ¹ÉÆ±H
+T^T  22.1600000%  T^T
+Fund Name: 427 . Ò×·½´ïÉîÖ¤100ETF
+T^T  92.2247700%  T^T
+Fund Name: 428 . ¼ÎÊµÖÇÄÜÆû³µ¹ÉÆ±
+Fund id : 002168 --¡¾pageNo:7, maxPage: 8, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 002168 --¡¾pageNo:7, maxPage: 8, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 002168 --¡¾pageNo:8, maxPage: 8, (i+1): 1, trs.size: 3  --¡¿
+T^T  29.2240800%  T^T
+Fund Name: 429 . Åô»ªÏÈ½øÖÆÔì¹ÉÆ±
+Fund id : 000778 --¡¾pageNo:13, maxPage: 13, (i+1): 27, trs.size: 37  --¡¿
+Fund id : 000778 --¡¾pageNo:13, maxPage: 13, (i+1): 28, trs.size: 37  --¡¿
+Fund id : 000778 --¡¾pageNo:13, maxPage: 13, (i+1): 29, trs.size: 37  --¡¿
+Fund id : 000778 --¡¾pageNo:13, maxPage: 13, (i+1): 30, trs.size: 37  --¡¿
+Fund id : 000778 --¡¾pageNo:13, maxPage: 13, (i+1): 31, trs.size: 37  --¡¿
+Fund id : 000778 --¡¾pageNo:13, maxPage: 13, (i+1): 32, trs.size: 37  --¡¿
+Fund id : 000778 --¡¾pageNo:13, maxPage: 13, (i+1): 33, trs.size: 37  --¡¿
+Fund id : 000778 --¡¾pageNo:13, maxPage: 13, (i+1): 34, trs.size: 37  --¡¿
+Fund id : 000778 --¡¾pageNo:13, maxPage: 13, (i+1): 35, trs.size: 37  --¡¿
+Fund id : 000778 --¡¾pageNo:13, maxPage: 13, (i+1): 36, trs.size: 37  --¡¿
+T^T  52.7857800%  T^T
+Fund Name: 430 . ²©Ê±ÒøÖÇ´óÊý¾Ý100
+T^T  23.7782000%  T^T
+Fund Name: 431 . ¹úÁª°²Ë«Á¦ÖÐÐ¡°å×ÛÖ¸
+T^T  73.4137900%  T^T
+Fund Name: 432 . Åµ°²ÑÐ¾¿¾«Ñ¡¹ÉÆ±
+T^T  60.6078000%  T^T
+Fund Name: 433 . ¼ÎÊµÒ½ÁÆ±£½¡¹ÉÆ±
+Fund id : 000711 --¡¾pageNo:14, maxPage: 14, (i+1): 32, trs.size: 43  --¡¿
+Fund id : 000711 --¡¾pageNo:14, maxPage: 14, (i+1): 33, trs.size: 43  --¡¿
+Fund id : 000711 --¡¾pageNo:14, maxPage: 14, (i+1): 34, trs.size: 43  --¡¿
+Fund id : 000711 --¡¾pageNo:14, maxPage: 14, (i+1): 35, trs.size: 43  --¡¿
+Fund id : 000711 --¡¾pageNo:14, maxPage: 14, (i+1): 36, trs.size: 43  --¡¿
+Fund id : 000711 --¡¾pageNo:14, maxPage: 14, (i+1): 37, trs.size: 43  --¡¿
+Fund id : 000711 --¡¾pageNo:14, maxPage: 14, (i+1): 38, trs.size: 43  --¡¿
+Fund id : 000711 --¡¾pageNo:14, maxPage: 14, (i+1): 39, trs.size: 43  --¡¿
+Fund id : 000711 --¡¾pageNo:14, maxPage: 14, (i+1): 40, trs.size: 43  --¡¿
+Fund id : 000711 --¡¾pageNo:14, maxPage: 14, (i+1): 41, trs.size: 43  --¡¿
+Fund id : 000711 --¡¾pageNo:14, maxPage: 14, (i+1): 42, trs.size: 43  --¡¿
+T^T  53.2163700%  T^T
+Fund Name: 434 . ÄÏ·½´´Òµ°åETFÁª½ÓA
+Fund id : 002656 --¡¾pageNo:6, maxPage: 6, (i+1): 35, trs.size: 37  --¡¿
+Fund id : 002656 --¡¾pageNo:6, maxPage: 6, (i+1): 36, trs.size: 37  --¡¿
+T^T  23.6961900%  T^T
+Fund Name: 435 . ÉêÍòÁâÐÅÖÐÖ¤500Ö¸ÊýÔöÇ¿
+Fund id : 002510 --¡¾pageNo:6, maxPage: 7, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 002510 --¡¾pageNo:7, maxPage: 7, (i+1): 1, trs.size: 4  --¡¿
+Fund id : 002510 --¡¾pageNo:7, maxPage: 7, (i+1): 2, trs.size: 4  --¡¿
+(¡Ñ_¡Ñ)  12.6744100%  (¡Ñ_¡Ñ)
+Fund Name: 436 . ²©Ê±¹¤Òµ4.0Ö÷Ìâ¹ÉÆ±
+Fund id : 002595 --¡¾pageNo:6, maxPage: 6, (i+1): 28, trs.size: 29  --¡¿
+(¡Ñ_¡Ñ)  14.3505900%  (¡Ñ_¡Ñ)
+Fund Name: 437 . ´óÄ¦½øÈ¡ÓÅÑ¡¹ÉÆ±
+Fund id : 000594 --¡¾pageNo:16, maxPage: 16, (i+1): 9, trs.size: 14  --¡¿
+Fund id : 000594 --¡¾pageNo:16, maxPage: 16, (i+1): 10, trs.size: 14  --¡¿
+Fund id : 000594 --¡¾pageNo:16, maxPage: 16, (i+1): 11, trs.size: 14  --¡¿
+Fund id : 000594 --¡¾pageNo:16, maxPage: 16, (i+1): 12, trs.size: 14  --¡¿
+T^T  65.1810600%  T^T
+Fund Name: 438 . ½»Òø¹úÖ¤ÐÂÄÜÔ´Ö¸Êý·Ö¼¶
+Fund id : 164905 --¡¾pageNo:12, maxPage: 12, (i+1): 20, trs.size: 24  --¡¿
+Fund id : 164905 --¡¾pageNo:12, maxPage: 12, (i+1): 21, trs.size: 24  --¡¿
+Fund id : 164905 --¡¾pageNo:12, maxPage: 12, (i+1): 22, trs.size: 24  --¡¿
+T^T  58.4381200%  T^T
+Fund Name: 439 . ³¤ÐÅÖÐÖ¤ÄÜÔ´»¥ÁªÖ¸Êý(LOF)
+Fund id : 501002 --¡¾pageNo:8, maxPage: 8, (i+1): 18, trs.size: 21  --¡¿
+(¡Ñ_¡Ñ)  17.7317700%  (¡Ñ_¡Ñ)
+Fund Name: 440 . ¹¤Òø»¦Éî300
+T^T  60.3996200%  T^T
+Fund Name: 441 . »ª°²´´Òµ°å50ETF
+Fund id : 159949 --¡¾pageNo:6, maxPage: 6, (i+1): 3, trs.size: 7  --¡¿
+Fund id : 159949 --¡¾pageNo:6, maxPage: 6, (i+1): 4, trs.size: 7  --¡¿
+Fund id : 159949 --¡¾pageNo:6, maxPage: 6, (i+1): 5, trs.size: 7  --¡¿
+T^T  33.3300000%  T^T
+Fund Name: 442 . ÖÐÒøÕ½ÂÔÐÂÐË²úÒµ¹ÉÆ±
+Fund id : 001677 --¡¾pageNo:8, maxPage: 8, (i+1): 5, trs.size: 18  --¡¿
+Fund id : 001677 --¡¾pageNo:8, maxPage: 8, (i+1): 6, trs.size: 18  --¡¿
+Fund id : 001677 --¡¾pageNo:8, maxPage: 8, (i+1): 7, trs.size: 18  --¡¿
+Fund id : 001677 --¡¾pageNo:8, maxPage: 8, (i+1): 8, trs.size: 18  --¡¿
+Fund id : 001677 --¡¾pageNo:8, maxPage: 8, (i+1): 9, trs.size: 18  --¡¿
+Fund id : 001677 --¡¾pageNo:8, maxPage: 8, (i+1): 10, trs.size: 18  --¡¿
+Fund id : 001677 --¡¾pageNo:8, maxPage: 8, (i+1): 11, trs.size: 18  --¡¿
+Fund id : 001677 --¡¾pageNo:8, maxPage: 8, (i+1): 12, trs.size: 18  --¡¿
+Fund id : 001677 --¡¾pageNo:8, maxPage: 8, (i+1): 13, trs.size: 18  --¡¿
+Fund id : 001677 --¡¾pageNo:8, maxPage: 8, (i+1): 14, trs.size: 18  --¡¿
+Fund id : 001677 --¡¾pageNo:8, maxPage: 8, (i+1): 15, trs.size: 18  --¡¿
+Fund id : 001677 --¡¾pageNo:8, maxPage: 8, (i+1): 16, trs.size: 18  --¡¿
+T^T  20.3703700%  T^T
+Fund Name: 443 . ¹ú¸»»¦¸ÛÉî³É³¤¾«Ñ¡¹ÉÆ±
+Fund id : 001605 --¡¾pageNo:8, maxPage: 8, (i+1): 8, trs.size: 12  --¡¿
+Fund id : 001605 --¡¾pageNo:8, maxPage: 8, (i+1): 9, trs.size: 12  --¡¿
+Fund id : 001605 --¡¾pageNo:8, maxPage: 8, (i+1): 10, trs.size: 12  --¡¿
+Fund id : 001605 --¡¾pageNo:8, maxPage: 8, (i+1): 11, trs.size: 12  --¡¿
+T^T  25.1145700%  T^T
+Fund Name: 444 . ¸»¹úÉÏÖ¤×ÛÖ¸Áª½Ó
+T^T  61.4418400%  T^T
+Fund Name: 445 . ÉÏÖ¤Ö÷ÒªÏû·ÑETF
+T^T  56.6130700%  T^T
+Fund Name: 446 . ¾°Ë³ÖÐÐ¡°å´´Òµ°å¾«Ñ¡¹ÉÆ±
+T^T  63.2530100%  T^T
+Fund Name: 447 . ¹¤ÒøÇ°ÑØÒ½ÁÆ¹ÉÆ±
+Fund id : 001717 --¡¾pageNo:8, maxPage: 8, (i+1): 13, trs.size: 14  --¡¿
+T^T  23.0950500%  T^T
+Fund Name: 448 . ÌìºëÖÐÖ¤ÒÆ¶¯»¥ÁªÍøA
+Fund id : 001560 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --¡¿
+T^T  45.0000000%  T^T
+Fund Name: 449 . »ãÌí¸»ÖÐÖ¤¾«×¼Ò½ÁÆÖ¸ÊýA
+Fund id : 501005 --¡¾pageNo:7, maxPage: 7, (i+1): 38, trs.size: 47  --¡¿
+Fund id : 501005 --¡¾pageNo:7, maxPage: 7, (i+1): 40, trs.size: 47  --¡¿
+Fund id : 501005 --¡¾pageNo:7, maxPage: 7, (i+1): 41, trs.size: 47  --¡¿
+Fund id : 501005 --¡¾pageNo:7, maxPage: 7, (i+1): 42, trs.size: 47  --¡¿
+Fund id : 501005 --¡¾pageNo:7, maxPage: 7, (i+1): 43, trs.size: 47  --¡¿
+Fund id : 501005 --¡¾pageNo:7, maxPage: 7, (i+1): 44, trs.size: 47  --¡¿
+Fund id : 501005 --¡¾pageNo:7, maxPage: 7, (i+1): 45, trs.size: 47  --¡¿
+(¡Ñ_¡Ñ)  16.4525100%  (¡Ñ_¡Ñ)
+Fund Name: 450 . ½¨ÐÅÏÖ´ú·þÎñÒµ¹ÉÆ±
+Fund id : 001781 --¡¾pageNo:8, maxPage: 8, (i+1): 1, trs.size: 3  --¡¿
+Fund id : 001781 --¡¾pageNo:8, maxPage: 8, (i+1): 2, trs.size: 3  --¡¿
+(¡Ñ_¡Ñ)  17.6929700%  (¡Ñ_¡Ñ)
+Fund Name: 451 . ´´½ðºÏÐÅ»¦Éî300Ö¸ÊýÔöÇ¿C
+T^T  28.7754900%  T^T
+Fund Name: 452 . ´´½ðºÏÐÅ»¦Éî300Ö¸ÊýÔöÇ¿A
+T^T  28.3571300%  T^T
+Fund Name: 453 . ´´½ðºÏÐÅÖÐÖ¤500Ö¸ÊýÔöÇ¿C
+T^T  27.8998100%  T^T
+Fund Name: 454 . º£¸»Í¨ÉÏÖ¤ÖÜÆÚETF
+T^T  77.5039600%  T^T
+Fund Name: 455 . ½ðÓ¥¿Æ¼¼´´ÐÂ¹ÉÆ±
+Fund id : 001167 --¡¾pageNo:10, maxPage: 11, (i+1): 43, trs.size: 50  --¡¿
+Fund id : 001167 --¡¾pageNo:10, maxPage: 11, (i+1): 44, trs.size: 50  --¡¿
+Fund id : 001167 --¡¾pageNo:10, maxPage: 11, (i+1): 45, trs.size: 50  --¡¿
+Fund id : 001167 --¡¾pageNo:10, maxPage: 11, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 001167 --¡¾pageNo:10, maxPage: 11, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 001167 --¡¾pageNo:10, maxPage: 11, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 001167 --¡¾pageNo:10, maxPage: 11, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 001167 --¡¾pageNo:10, maxPage: 11, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 001167 --¡¾pageNo:11, maxPage: 11, (i+1): 1, trs.size: 7  --¡¿
+Fund id : 001167 --¡¾pageNo:11, maxPage: 11, (i+1): 2, trs.size: 7  --¡¿
+Fund id : 001167 --¡¾pageNo:11, maxPage: 11, (i+1): 3, trs.size: 7  --¡¿
+Fund id : 001167 --¡¾pageNo:11, maxPage: 11, (i+1): 4, trs.size: 7  --¡¿
+Fund id : 001167 --¡¾pageNo:11, maxPage: 11, (i+1): 5, trs.size: 7  --¡¿
+Fund id : 001167 --¡¾pageNo:11, maxPage: 11, (i+1): 6, trs.size: 7  --¡¿
+T^T  56.0725600%  T^T
+Fund Name: 456 . ¹ã·¢»¦¸ÛÉîÐÂ»úÓö¹ÉÆ±
+Fund id : 001764 --¡¾pageNo:1, maxPage: 6, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 001764 --¡¾pageNo:2, maxPage: 6, (i+1): 11, trs.size: 50  --¡¿
+Fund id : 001764 --¡¾pageNo:2, maxPage: 6, (i+1): 21, trs.size: 50  --¡¿
+Fund id : 001764 --¡¾pageNo:2, maxPage: 6, (i+1): 28, trs.size: 50  --¡¿
+Fund id : 001764 --¡¾pageNo:3, maxPage: 6, (i+1): 17, trs.size: 50  --¡¿
+Fund id : 001764 --¡¾pageNo:3, maxPage: 6, (i+1): 37, trs.size: 50  --¡¿
+Fund id : 001764 --¡¾pageNo:4, maxPage: 6, (i+1): 32, trs.size: 50  --¡¿
+Fund id : 001764 --¡¾pageNo:4, maxPage: 6, (i+1): 40, trs.size: 50  --¡¿
+Fund id : 001764 --¡¾pageNo:5, maxPage: 6, (i+1): 29, trs.size: 50  --¡¿
+Fund id : 001764 --¡¾pageNo:6, maxPage: 6, (i+1): 2, trs.size: 7  --¡¿
+Fund id : 001764 --¡¾pageNo:6, maxPage: 6, (i+1): 3, trs.size: 7  --¡¿
+Fund id : 001764 --¡¾pageNo:6, maxPage: 6, (i+1): 4, trs.size: 7  --¡¿
+Fund id : 001764 --¡¾pageNo:6, maxPage: 6, (i+1): 5, trs.size: 7  --¡¿
+Fund id : 001764 --¡¾pageNo:6, maxPage: 6, (i+1): 6, trs.size: 7  --¡¿
+T^T  20.8264500%  T^T
+Fund Name: 457 . Åµ°²ÏÈ½øÖÆÔì¹ÉÆ±
+Fund id : 001528 --¡¾pageNo:10, maxPage: 10, (i+1): 7, trs.size: 13  --¡¿
+Fund id : 001528 --¡¾pageNo:10, maxPage: 10, (i+1): 8, trs.size: 13  --¡¿
+Fund id : 001528 --¡¾pageNo:10, maxPage: 10, (i+1): 12, trs.size: 13  --¡¿
+T^T  33.1509000%  T^T
+Fund Name: 458 . Òø»ª»¦¸ÛÉîÔö³¤¹ÉÆ±
+Fund id : 001703 --¡¾pageNo:1, maxPage: 5, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 001703 --¡¾pageNo:2, maxPage: 5, (i+1): 11, trs.size: 50  --¡¿
+Fund id : 001703 --¡¾pageNo:2, maxPage: 5, (i+1): 21, trs.size: 50  --¡¿
+Fund id : 001703 --¡¾pageNo:2, maxPage: 5, (i+1): 28, trs.size: 50  --¡¿
+Fund id : 001703 --¡¾pageNo:3, maxPage: 5, (i+1): 17, trs.size: 50  --¡¿
+Fund id : 001703 --¡¾pageNo:3, maxPage: 5, (i+1): 37, trs.size: 50  --¡¿
+Fund id : 001703 --¡¾pageNo:4, maxPage: 5, (i+1): 32, trs.size: 50  --¡¿
+Fund id : 001703 --¡¾pageNo:4, maxPage: 5, (i+1): 40, trs.size: 50  --¡¿
+Fund id : 001703 --¡¾pageNo:5, maxPage: 5, (i+1): 5, trs.size: 10  --¡¿
+Fund id : 001703 --¡¾pageNo:5, maxPage: 5, (i+1): 6, trs.size: 10  --¡¿
+Fund id : 001703 --¡¾pageNo:5, maxPage: 5, (i+1): 7, trs.size: 10  --¡¿
+Fund id : 001703 --¡¾pageNo:5, maxPage: 5, (i+1): 8, trs.size: 10  --¡¿
+Fund id : 001703 --¡¾pageNo:5, maxPage: 5, (i+1): 9, trs.size: 10  --¡¿
+T^T  21.3831500%  T^T
+Fund Name: 459 . ÈÚÍ¨¾Þ³±100Ö¸ÊýA(LOF)
+T^T  72.5619000%  T^T
+Fund Name: 460 . ¾°Ë³³¤³ÇÉÏÖ¤180ETF
+T^T  66.4000000%  T^T
+Fund Name: 461 . ÒøºÓ»¦Éî300¼ÛÖµ
+T^T  61.0909100%  T^T
+Fund Name: 462 . °²ÐÅ¼ÛÖµ¾«Ñ¡¹ÉÆ±
+Fund id : 000577 --¡¾pageNo:16, maxPage: 16, (i+1): 34, trs.size: 39  --¡¿
+Fund id : 000577 --¡¾pageNo:16, maxPage: 16, (i+1): 35, trs.size: 39  --¡¿
+T^T  61.5858400%  T^T
+Fund Name: 463 . ¹¤ÒøÃÀÀö³ÇÕò¹ÉÆ±
+Fund id : 001043 --¡¾pageNo:12, maxPage: 12, (i+1): 19, trs.size: 22  --¡¿
+Fund id : 001043 --¡¾pageNo:12, maxPage: 12, (i+1): 20, trs.size: 22  --¡¿
+T^T  52.2293000%  T^T
+Fund Name: 464 . ´´½ðºÏÐÅÁ¿»¯¶àÒò×Ó¹ÉÆ±A
+Fund id : 002210 --¡¾pageNo:8, maxPage: 8, (i+1): 21, trs.size: 22  --¡¿
+T^T  25.2063000%  T^T
+Fund Name: 465 . ¹úÌ©ÖÐÖ¤¾ü¹¤ETF
+Fund id : 512660 --¡¾pageNo:5, maxPage: 5, (i+1): 42, trs.size: 45  --¡¿
+Fund id : 512660 --¡¾pageNo:5, maxPage: 5, (i+1): 44, trs.size: 45  --¡¿
+T^T  26.3257100%  T^T
+Fund Name: 466 . ÐÅ³ÏÖÐÖ¤800ÓÐÉ«Ö¸Êý·Ö¼¶
+T^T  59.9604200%  T^T
+Fund Name: 467 . ¹ã·¢ÖÐÖ¤È«Ö¸ÄÜÔ´ETFÁª½ÓC
+(¡Ñ_¡Ñ)  15.6526600%  (¡Ñ_¡Ñ)
+Fund Name: 468 . ¹ã·¢ÐÅÏ¢¼¼ÊõÁª½ÓC
+(¡Ñ_¡Ñ)  18.9884300%  (¡Ñ_¡Ñ)
+Fund Name: 469 . »ª°²ÉîÖ¤300
+T^T  66.4827600%  T^T
+Fund Name: 470 . ¾°Ë³³¤³ÇÁ¿»¯ÐÂ¶¯Á¦¹ÉÆ±
+Fund id : 001974 --¡¾pageNo:5, maxPage: 5, (i+1): 37, trs.size: 42  --¡¿
+Fund id : 001974 --¡¾pageNo:5, maxPage: 5, (i+1): 38, trs.size: 42  --¡¿
+Fund id : 001974 --¡¾pageNo:5, maxPage: 5, (i+1): 39, trs.size: 42  --¡¿
+Fund id : 001974 --¡¾pageNo:5, maxPage: 5, (i+1): 40, trs.size: 42  --¡¿
+Fund id : 001974 --¡¾pageNo:5, maxPage: 5, (i+1): 41, trs.size: 42  --¡¿
+T^T  26.1584500%  T^T
+Fund Name: 471 . ³¤³Ç¾ÃÕ×ÖÐÐ¡°å300
+T^T  72.3690800%  T^T
+Fund Name: 472 . ÄÏ·½ÉîÖ¤³É·ÝETFÁª½ÓA
+T^T  59.1047600%  T^T
+Fund Name: 473 . ÖÐ½ð»¦Éî300A
+Fund id : 003015 --¡¾pageNo:5, maxPage: 5, (i+1): 47, trs.size: 48  --¡¿
+(¡Ñ_¡Ñ)  13.9970400%  (¡Ñ_¡Ñ)
+Fund Name: 474 . ÕÐÉÌÖÐÖ¤ÒøÐÐÖ¸Êý·Ö¼¶
+Fund id : 161723 --¡¾pageNo:11, maxPage: 11, (i+1): 36, trs.size: 39  --¡¿
+T^T  34.9771700%  T^T
+Fund Name: 475 . ³¤ÐÅÁ¿»¯ÖÐÐ¡ÅÌ¹ÉÆ±
+Fund id : 519975 --¡¾pageNo:12, maxPage: 12, (i+1): 32, trs.size: 40  --¡¿
+Fund id : 519975 --¡¾pageNo:12, maxPage: 12, (i+1): 33, trs.size: 40  --¡¿
+Fund id : 519975 --¡¾pageNo:12, maxPage: 12, (i+1): 34, trs.size: 40  --¡¿
+Fund id : 519975 --¡¾pageNo:12, maxPage: 12, (i+1): 35, trs.size: 40  --¡¿
+Fund id : 519975 --¡¾pageNo:12, maxPage: 12, (i+1): 36, trs.size: 40  --¡¿
+Fund id : 519975 --¡¾pageNo:12, maxPage: 12, (i+1): 37, trs.size: 40  --¡¿
+Fund id : 519975 --¡¾pageNo:12, maxPage: 12, (i+1): 38, trs.size: 40  --¡¿
+Fund id : 519975 --¡¾pageNo:12, maxPage: 12, (i+1): 39, trs.size: 40  --¡¿
+T^T  51.0625700%  T^T
+Fund Name: 476 . ¹ã·¢ÖÐÖ¤È«Ö¸½ðÈÚµØ²úÁª½ÓC
+(¡Ñ_¡Ñ)  19.0114800%  (¡Ñ_¡Ñ)
+Fund Name: 477 . ¹ã·¢»·±£Ö¸ÊýC
+(¡Ñ_¡Ñ)  12.7324200%  (¡Ñ_¡Ñ)
+Fund Name: 478 . ÄÏ·½ÖÐÖ¤500ÐÅÏ¢¼¼ÊõÁª½ÓA
+Fund id : 002900 --¡¾pageNo:5, maxPage: 5, (i+1): 22, trs.size: 25  --¡¿
+Fund id : 002900 --¡¾pageNo:5, maxPage: 5, (i+1): 23, trs.size: 25  --¡¿
+Fund id : 002900 --¡¾pageNo:5, maxPage: 5, (i+1): 24, trs.size: 25  --¡¿
+(¡Ñ_¡Ñ)  17.1408700%  (¡Ñ_¡Ñ)
+Fund Name: 479 . ¾°Ë³ÖÐÖ¤TMT150ETFÁª½Ó
+Fund id : 001361 --¡¾pageNo:11, maxPage: 11, (i+1): 3, trs.size: 9  --¡¿
+Fund id : 001361 --¡¾pageNo:11, maxPage: 11, (i+1): 4, trs.size: 9  --¡¿
+Fund id : 001361 --¡¾pageNo:11, maxPage: 11, (i+1): 5, trs.size: 9  --¡¿
+Fund id : 001361 --¡¾pageNo:11, maxPage: 11, (i+1): 6, trs.size: 9  --¡¿
+Fund id : 001361 --¡¾pageNo:11, maxPage: 11, (i+1): 7, trs.size: 9  --¡¿
+Fund id : 001361 --¡¾pageNo:11, maxPage: 11, (i+1): 8, trs.size: 9  --¡¿
+T^T  46.9000000%  T^T
+Fund Name: 480 . ¹ã·¢ÖÐÖ¤È«Ö¸Ö÷ÒªÏû·ÑÁª½ÓC
+(¡Ñ_¡Ñ)  11.9001600%  (¡Ñ_¡Ñ)
+Fund Name: 481 . ¹ã·¢»¦Éî300ETFÁª½ÓC
+(¡Ñ_¡Ñ)  16.3091400%  (¡Ñ_¡Ñ)
+Fund Name: 482 . »ãÌí¸»ÖÐÖ¤ÉÏº£¹úÆóETF
+Fund id : 510810 --¡¾pageNo:5, maxPage: 5, (i+1): 29, trs.size: 35  --¡¿
+Fund id : 510810 --¡¾pageNo:5, maxPage: 5, (i+1): 31, trs.size: 35  --¡¿
+Fund id : 510810 --¡¾pageNo:5, maxPage: 5, (i+1): 32, trs.size: 35  --¡¿
+Fund id : 510810 --¡¾pageNo:5, maxPage: 5, (i+1): 33, trs.size: 35  --¡¿
+(¡Ñ_¡Ñ)  10.0996600%  (¡Ñ_¡Ñ)
+Fund Name: 483 . »ª±¦ÐËÒµÖÐÖ¤¾ü¹¤ETF
+T^T  24.6036200%  T^T
+Fund Name: 484 . ÈÚÍ¨ÖÐÖ¤´óÅ©Òµ(LOF)
+(¡Ñ_¡Ñ)  19.4915300%  (¡Ñ_¡Ñ)
+Fund Name: 485 . ½¨ÐÅ¶àÒò×ÓÁ¿»¯¹ÉÆ±
+Fund id : 002952 --¡¾pageNo:5, maxPage: 5, (i+1): 19, trs.size: 24  --¡¿
+Fund id : 002952 --¡¾pageNo:5, maxPage: 5, (i+1): 20, trs.size: 24  --¡¿
+Fund id : 002952 --¡¾pageNo:5, maxPage: 5, (i+1): 21, trs.size: 24  --¡¿
+Fund id : 002952 --¡¾pageNo:5, maxPage: 5, (i+1): 22, trs.size: 24  --¡¿
+Fund id : 002952 --¡¾pageNo:5, maxPage: 5, (i+1): 23, trs.size: 24  --¡¿
+(¡Ñ_¡Ñ)  11.9965600%  (¡Ñ_¡Ñ)
+Fund Name: 486 . »ãÌí¸»ÐÂÐËÏû·Ñ¹ÉÆ±
+Fund id : 001726 --¡¾pageNo:8, maxPage: 8, (i+1): 8, trs.size: 21  --¡¿
+Fund id : 001726 --¡¾pageNo:8, maxPage: 8, (i+1): 9, trs.size: 21  --¡¿
+Fund id : 001726 --¡¾pageNo:8, maxPage: 8, (i+1): 10, trs.size: 21  --¡¿
+Fund id : 001726 --¡¾pageNo:8, maxPage: 8, (i+1): 13, trs.size: 21  --¡¿
+Fund id : 001726 --¡¾pageNo:8, maxPage: 8, (i+1): 14, trs.size: 21  --¡¿
+Fund id : 001726 --¡¾pageNo:8, maxPage: 8, (i+1): 15, trs.size: 21  --¡¿
+Fund id : 001726 --¡¾pageNo:8, maxPage: 8, (i+1): 16, trs.size: 21  --¡¿
+Fund id : 001726 --¡¾pageNo:8, maxPage: 8, (i+1): 17, trs.size: 21  --¡¿
+Fund id : 001726 --¡¾pageNo:8, maxPage: 8, (i+1): 18, trs.size: 21  --¡¿
+Fund id : 001726 --¡¾pageNo:8, maxPage: 8, (i+1): 19, trs.size: 21  --¡¿
+Fund id : 001726 --¡¾pageNo:8, maxPage: 8, (i+1): 20, trs.size: 21  --¡¿
+(¡Ñ_¡Ñ)  18.5873600%  (¡Ñ_¡Ñ)
+Fund Name: 487 . »ãÌí¸»»¦¸ÛÉîÐÂ¼ÛÖµ¹ÉÆ±
+Fund id : 001685 --¡¾pageNo:5, maxPage: 5, (i+1): 47, trs.size: 48  --¡¿
+(¡Ñ_¡Ñ)  19.1524000%  (¡Ñ_¡Ñ)
+Fund Name: 488 . ãüµÂÕ½ÂÔ×ªÐÍ¹ÉÆ±
+Fund id : 001705 --¡¾pageNo:8, maxPage: 8, (i+1): 33, trs.size: 42  --¡¿
+Fund id : 001705 --¡¾pageNo:8, maxPage: 8, (i+1): 34, trs.size: 42  --¡¿
+Fund id : 001705 --¡¾pageNo:8, maxPage: 8, (i+1): 35, trs.size: 42  --¡¿
+Fund id : 001705 --¡¾pageNo:8, maxPage: 8, (i+1): 36, trs.size: 42  --¡¿
+Fund id : 001705 --¡¾pageNo:8, maxPage: 8, (i+1): 37, trs.size: 42  --¡¿
+Fund id : 001705 --¡¾pageNo:8, maxPage: 8, (i+1): 38, trs.size: 42  --¡¿
+Fund id : 001705 --¡¾pageNo:8, maxPage: 8, (i+1): 39, trs.size: 42  --¡¿
+Fund id : 001705 --¡¾pageNo:8, maxPage: 8, (i+1): 40, trs.size: 42  --¡¿
+Fund id : 001705 --¡¾pageNo:8, maxPage: 8, (i+1): 41, trs.size: 42  --¡¿
+T^T  26.8557100%  T^T
+Fund Name: 489 . »ªÏÄ¾­¼Ã×ªÐÍ¹ÉÆ±
+Fund id : 002229 --¡¾pageNo:7, maxPage: 7, (i+1): 17, trs.size: 23  --¡¿
+Fund id : 002229 --¡¾pageNo:7, maxPage: 7, (i+1): 18, trs.size: 23  --¡¿
+Fund id : 002229 --¡¾pageNo:7, maxPage: 7, (i+1): 19, trs.size: 23  --¡¿
+Fund id : 002229 --¡¾pageNo:7, maxPage: 7, (i+1): 20, trs.size: 23  --¡¿
+Fund id : 002229 --¡¾pageNo:7, maxPage: 7, (i+1): 21, trs.size: 23  --¡¿
+Fund id : 002229 --¡¾pageNo:7, maxPage: 7, (i+1): 22, trs.size: 23  --¡¿
+T^T  24.6090500%  T^T
+Fund Name: 490 . ÄÏ·½´´Òµ°åETF
+Fund id : 159948 --¡¾pageNo:6, maxPage: 6, (i+1): 40, trs.size: 43  --¡¿
+Fund id : 159948 --¡¾pageNo:6, maxPage: 6, (i+1): 41, trs.size: 43  --¡¿
+Fund id : 159948 --¡¾pageNo:6, maxPage: 6, (i+1): 42, trs.size: 43  --¡¿
+T^T  24.6388800%  T^T
+Fund Name: 491 . ¾°Ë³³¤³Ç»·±£ÓÅÊÆ¹ÉÆ±
+Fund id : 001975 --¡¾pageNo:7, maxPage: 7, (i+1): 29, trs.size: 32  --¡¿
+Fund id : 001975 --¡¾pageNo:7, maxPage: 7, (i+1): 30, trs.size: 32  --¡¿
+Fund id : 001975 --¡¾pageNo:7, maxPage: 7, (i+1): 31, trs.size: 32  --¡¿
+T^T  32.9411800%  T^T
+Fund Name: 492 . ÕÐÉÌÁ¿»¯¾«Ñ¡¹ÉÆ±
+Fund id : 001917 --¡¾pageNo:7, maxPage: 7, (i+1): 20, trs.size: 25  --¡¿
+Fund id : 001917 --¡¾pageNo:7, maxPage: 7, (i+1): 21, trs.size: 25  --¡¿
+Fund id : 001917 --¡¾pageNo:7, maxPage: 7, (i+1): 22, trs.size: 25  --¡¿
+Fund id : 001917 --¡¾pageNo:7, maxPage: 7, (i+1): 23, trs.size: 25  --¡¿
+Fund id : 001917 --¡¾pageNo:7, maxPage: 7, (i+1): 24, trs.size: 25  --¡¿
+T^T  23.1633500%  T^T
+Fund Name: 493 . ÉÏÍ¶Ä¦¸ùºËÐÄ³É³¤
+T^T  63.7470500%  T^T
+Fund Name: 494 . »ã·á½úÐÅ´óÅÌ²¨¶¯¹ÉÆ±C
+T^T  21.5594900%  T^T
+Fund Name: 495 . ²©Ê±Ë¿Â·Ö÷Ìâ¹ÉÆ±C
+(¡Ñ_¡Ñ)  17.4418600%  (¡Ñ_¡Ñ)
+Fund Name: 496 . Ç°º£¿ªÔ´ÖÐÖ¤¾ü¹¤Ö¸ÊýC
+T^T  65.4508600%  T^T
+Fund Name: 497 . ¹¤ÒøÎÄÌå²úÒµ¹ÉÆ±
+Fund id : 001714 --¡¾pageNo:8, maxPage: 8, (i+1): 19, trs.size: 24  --¡¿
+Fund id : 001714 --¡¾pageNo:8, maxPage: 8, (i+1): 20, trs.size: 24  --¡¿
+Fund id : 001714 --¡¾pageNo:8, maxPage: 8, (i+1): 21, trs.size: 24  --¡¿
+Fund id : 001714 --¡¾pageNo:8, maxPage: 8, (i+1): 22, trs.size: 24  --¡¿
+T^T  25.1944000%  T^T
+Fund Name: 498 . ÌìºëÖÐÖ¤100Ö¸ÊýA
+Fund id : 001586 --¡¾pageNo:10, maxPage: 10, (i+1): 48, trs.size: 50  --¡¿
+T^T  28.8459600%  T^T
+Fund Name: 499 . ¾°Ë³³¤³Ç»¦¸ÛÉî¾«Ñ¡¹ÉÆ±
+Fund id : 000979 --¡¾pageNo:11, maxPage: 11, (i+1): 13, trs.size: 25  --¡¿
+Fund id : 000979 --¡¾pageNo:11, maxPage: 11, (i+1): 14, trs.size: 25  --¡¿
+Fund id : 000979 --¡¾pageNo:11, maxPage: 11, (i+1): 15, trs.size: 25  --¡¿
+Fund id : 000979 --¡¾pageNo:11, maxPage: 11, (i+1): 16, trs.size: 25  --¡¿
+Fund id : 000979 --¡¾pageNo:11, maxPage: 11, (i+1): 17, trs.size: 25  --¡¿
+Fund id : 000979 --¡¾pageNo:11, maxPage: 11, (i+1): 18, trs.size: 25  --¡¿
+Fund id : 000979 --¡¾pageNo:11, maxPage: 11, (i+1): 19, trs.size: 25  --¡¿
+Fund id : 000979 --¡¾pageNo:11, maxPage: 11, (i+1): 20, trs.size: 25  --¡¿
+Fund id : 000979 --¡¾pageNo:11, maxPage: 11, (i+1): 21, trs.size: 25  --¡¿
+Fund id : 000979 --¡¾pageNo:11, maxPage: 11, (i+1): 22, trs.size: 25  --¡¿
+Fund id : 000979 --¡¾pageNo:11, maxPage: 11, (i+1): 23, trs.size: 25  --¡¿
+Fund id : 000979 --¡¾pageNo:11, maxPage: 11, (i+1): 24, trs.size: 25  --¡¿
+T^T  36.9663900%  T^T
+Fund Name: 500 . »ª¸»ÖÐÖ¤100
+T^T  59.0270600%  T^T
+Fund Name: 501 . ÖÐº£ÉÏÖ¤50
+T^T  59.6762800%  T^T
+Fund Name: 502 . ¹úÌ©´ó½¡¿µ¹ÉÆ±
+Fund id : 001645 --¡¾pageNo:7, maxPage: 8, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 001645 --¡¾pageNo:7, maxPage: 8, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 001645 --¡¾pageNo:8, maxPage: 8, (i+1): 1, trs.size: 3  --¡¿
+Fund id : 001645 --¡¾pageNo:8, maxPage: 8, (i+1): 2, trs.size: 3  --¡¿
+T^T  33.5333300%  T^T
+Fund Name: 503 . ÌìºëÖÐÖ¤ÐÝÏÐÓéÀÖÖ¸ÊýC
+Fund id : 001612 --¡¾pageNo:10, maxPage: 10, (i+1): 40, trs.size: 41  --¡¿
+T^T  43.5618300%  T^T
+Fund Name: 504 . »ª°²ÉÏÖ¤180Áª½Ó
+T^T  60.7440300%  T^T
+Fund Name: 505 . ¹â´ó¹úÆó¸Ä¸ï¹ÉÆ±
+Fund id : 001047 --¡¾pageNo:12, maxPage: 12, (i+1): 4, trs.size: 10  --¡¿
+Fund id : 001047 --¡¾pageNo:12, maxPage: 12, (i+1): 5, trs.size: 10  --¡¿
+Fund id : 001047 --¡¾pageNo:12, maxPage: 12, (i+1): 6, trs.size: 10  --¡¿
+Fund id : 001047 --¡¾pageNo:12, maxPage: 12, (i+1): 7, trs.size: 10  --¡¿
+Fund id : 001047 --¡¾pageNo:12, maxPage: 12, (i+1): 8, trs.size: 10  --¡¿
+Fund id : 001047 --¡¾pageNo:12, maxPage: 12, (i+1): 9, trs.size: 10  --¡¿
+T^T  50.1404500%  T^T
+Fund Name: 506 . ÄÏ·½Éî³ÉETF
+T^T  60.9749500%  T^T
+Fund Name: 507 . ÄÏ·½ÖÐÖ¤500ETF
+Fund id : 510500 --¡¾pageNo:22, maxPage: 22, (i+1): 25, trs.size: 26  --¡¿
+T^T  92.2285900%  T^T
+Fund Name: 508 . ÕÐÉÌÌåÓýÎÄ»¯ÐÝÏÐ¹ÉÆ±
+Fund id : 001628 --¡¾pageNo:10, maxPage: 10, (i+1): 7, trs.size: 12  --¡¿
+Fund id : 001628 --¡¾pageNo:10, maxPage: 10, (i+1): 8, trs.size: 12  --¡¿
+Fund id : 001628 --¡¾pageNo:10, maxPage: 10, (i+1): 9, trs.size: 12  --¡¿
+Fund id : 001628 --¡¾pageNo:10, maxPage: 10, (i+1): 10, trs.size: 12  --¡¿
+Fund id : 001628 --¡¾pageNo:10, maxPage: 10, (i+1): 11, trs.size: 12  --¡¿
+T^T  35.0861300%  T^T
+Fund Name: 509 . Ô²ÐÅÓÀ·áÓÅ¼ÓÉú»î
+Fund id : 001736 --¡¾pageNo:8, maxPage: 8, (i+1): 21, trs.size: 36  --¡¿
+Fund id : 001736 --¡¾pageNo:8, maxPage: 8, (i+1): 22, trs.size: 36  --¡¿
+Fund id : 001736 --¡¾pageNo:8, maxPage: 8, (i+1): 23, trs.size: 36  --¡¿
+Fund id : 001736 --¡¾pageNo:8, maxPage: 8, (i+1): 24, trs.size: 36  --¡¿
+Fund id : 001736 --¡¾pageNo:8, maxPage: 8, (i+1): 25, trs.size: 36  --¡¿
+Fund id : 001736 --¡¾pageNo:8, maxPage: 8, (i+1): 26, trs.size: 36  --¡¿
+Fund id : 001736 --¡¾pageNo:8, maxPage: 8, (i+1): 27, trs.size: 36  --¡¿
+Fund id : 001736 --¡¾pageNo:8, maxPage: 8, (i+1): 28, trs.size: 36  --¡¿
+Fund id : 001736 --¡¾pageNo:8, maxPage: 8, (i+1): 29, trs.size: 36  --¡¿
+Fund id : 001736 --¡¾pageNo:8, maxPage: 8, (i+1): 30, trs.size: 36  --¡¿
+Fund id : 001736 --¡¾pageNo:8, maxPage: 8, (i+1): 32, trs.size: 36  --¡¿
+Fund id : 001736 --¡¾pageNo:8, maxPage: 8, (i+1): 33, trs.size: 36  --¡¿
+Fund id : 001736 --¡¾pageNo:8, maxPage: 8, (i+1): 34, trs.size: 36  --¡¿
+Fund id : 001736 --¡¾pageNo:8, maxPage: 8, (i+1): 35, trs.size: 36  --¡¿
+T^T  32.2999300%  T^T
+Fund Name: 510 . ¸»¹úÖÐÖ¤¾ü¹¤Ö¸Êý·Ö¼¶
+T^T  59.3791300%  T^T
+Fund Name: 511 . ¹¤ÒøÉîÖ¤ºìÀûETF
+T^T  61.9701500%  T^T
+Fund Name: 512 . ¸»¹úÖÐÖ¤ÒÆ¶¯»¥ÁªÍøÖ¸Êý·Ö¼¶
+Fund id : 161025 --¡¾pageNo:15, maxPage: 15, (i+1): 6, trs.size: 8  --¡¿
+Fund id : 161025 --¡¾pageNo:15, maxPage: 15, (i+1): 7, trs.size: 8  --¡¿
+T^T  59.2348300%  T^T
+Fund Name: 513 . ¹¤ÒøÖÐÖ¤´«Ã½Ö¸Êý·Ö¼¶
+Fund id : 164818 --¡¾pageNo:11, maxPage: 11, (i+1): 36, trs.size: 38  --¡¿
+T^T  46.6964500%  T^T
+Fund Name: 514 . ¹¤ÒøÐÂ½ðÈÚ¹ÉÆ±
+Fund id : 001054 --¡¾pageNo:12, maxPage: 12, (i+1): 24, trs.size: 27  --¡¿
+Fund id : 001054 --¡¾pageNo:12, maxPage: 12, (i+1): 25, trs.size: 27  --¡¿
+T^T  47.6411400%  T^T
+Fund Name: 515 . ¸»¹úÖÐÖ¤ÖÇÄÜÆû³µ(LOF)
+Fund id : 161033 --¡¾pageNo:8, maxPage: 8, (i+1): 3, trs.size: 6  --¡¿
+Fund id : 161033 --¡¾pageNo:8, maxPage: 8, (i+1): 5, trs.size: 6  --¡¿
+(¡Ñ_¡Ñ)  16.5111900%  (¡Ñ_¡Ñ)
+Fund Name: 516 . ÖÐÓÊÉÏÖ¤380ÔöÇ¿
+T^T  73.2876700%  T^T
+Fund Name: 517 . ½¨ÐÅÉîÖ¤60Áª½Ó
+T^T  60.0459600%  T^T
+Fund Name: 518 . ÐËÈ«È«ÇòÊÓÒ°¹ÉÆ±
+T^T  74.2813700%  T^T
+Fund Name: 519 . »ªÏÄÉÏÖ¤50AHÓÅÑ¡Ö¸Êý
+Fund id : 501050 --¡¾pageNo:1, maxPage: 4, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 501050 --¡¾pageNo:2, maxPage: 4, (i+1): 11, trs.size: 50  --¡¿
+Fund id : 501050 --¡¾pageNo:2, maxPage: 4, (i+1): 21, trs.size: 50  --¡¿
+Fund id : 501050 --¡¾pageNo:2, maxPage: 4, (i+1): 28, trs.size: 50  --¡¿
+Fund id : 501050 --¡¾pageNo:3, maxPage: 4, (i+1): 17, trs.size: 50  --¡¿
+Fund id : 501050 --¡¾pageNo:3, maxPage: 4, (i+1): 37, trs.size: 50  --¡¿
+Fund id : 501050 --¡¾pageNo:4, maxPage: 4, (i+1): 8, trs.size: 14  --¡¿
+Fund id : 501050 --¡¾pageNo:4, maxPage: 4, (i+1): 10, trs.size: 14  --¡¿
+Fund id : 501050 --¡¾pageNo:4, maxPage: 4, (i+1): 11, trs.size: 14  --¡¿
+Fund id : 501050 --¡¾pageNo:4, maxPage: 4, (i+1): 12, trs.size: 14  --¡¿
+(¡Ñ_¡Ñ)  15.6498700%  (¡Ñ_¡Ñ)
+Fund Name: 520 . ¼ÎÊµÎïÁ÷²úÒµ¹ÉÆ±C
+Fund id : 003299 --¡¾pageNo:3, maxPage: 3, (i+1): 15, trs.size: 25  --¡¿
+Fund id : 003299 --¡¾pageNo:3, maxPage: 3, (i+1): 16, trs.size: 25  --¡¿
+Fund id : 003299 --¡¾pageNo:3, maxPage: 3, (i+1): 18, trs.size: 25  --¡¿
+Fund id : 003299 --¡¾pageNo:3, maxPage: 3, (i+1): 19, trs.size: 25  --¡¿
+Fund id : 003299 --¡¾pageNo:3, maxPage: 3, (i+1): 20, trs.size: 25  --¡¿
+Fund id : 003299 --¡¾pageNo:3, maxPage: 3, (i+1): 21, trs.size: 25  --¡¿
+(¡Ñ_¡Ñ)  10.2283100%  (¡Ñ_¡Ñ)
+Fund Name: 521 . ÉêÍòÁâÐÅÉêÍòÖ¤È¯·Ö¼¶
+T^T  65.3209000%  T^T
+Fund Name: 522 . ¹úÌ©¹úÖ¤ÓÐÉ«½ðÊôÐÐÒµÖ¸Êý·Ö¼¶
+Fund id : 160221 --¡¾pageNo:12, maxPage: 12, (i+1): 15, trs.size: 19  --¡¿
+Fund id : 160221 --¡¾pageNo:12, maxPage: 12, (i+1): 16, trs.size: 19  --¡¿
+Fund id : 160221 --¡¾pageNo:12, maxPage: 12, (i+1): 17, trs.size: 19  --¡¿
+Fund id : 160221 --¡¾pageNo:12, maxPage: 12, (i+1): 18, trs.size: 19  --¡¿
+T^T  52.2840300%  T^T
+Fund Name: 523 . ¹úÍ¶ÈðÒø½ðÈÚµØ²úETF
+T^T  61.4368100%  T^T
+Fund Name: 524 . ¹úÌ©ÖÐÖ¤È«Ö¸Ö¤È¯¹«Ë¾ETF
+Fund id : 512880 --¡¾pageNo:5, maxPage: 5, (i+1): 42, trs.size: 45  --¡¿
+Fund id : 512880 --¡¾pageNo:5, maxPage: 5, (i+1): 44, trs.size: 45  --¡¿
+(¡Ñ_¡Ñ)  17.4635100%  (¡Ñ_¡Ñ)
+Fund Name: 525 . »ªÏÄ´´ÐÂÇ°ÑØ¹ÉÆ±
+Fund id : 002980 --¡¾pageNo:4, maxPage: 5, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 002980 --¡¾pageNo:4, maxPage: 5, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 002980 --¡¾pageNo:4, maxPage: 5, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 002980 --¡¾pageNo:4, maxPage: 5, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 002980 --¡¾pageNo:5, maxPage: 5, (i+1): 1, trs.size: 3  --¡¿
+Fund id : 002980 --¡¾pageNo:5, maxPage: 5, (i+1): 2, trs.size: 3  --¡¿
+(¡Ñ_¡Ñ)  7.9646000%  (¡Ñ_¡Ñ)
+Fund Name: 526 . Ò×·½´ïÏû·ÑÐÐÒµ
+T^T  62.1888000%  T^T
+Fund Name: 527 . ÐÅ³ÏÖÐÖ¤ÐÅÏ¢°²È«Ö¸Êý·Ö¼¶
+Fund id : 165523 --¡¾pageNo:11, maxPage: 11, (i+1): 5, trs.size: 9  --¡¿
+Fund id : 165523 --¡¾pageNo:11, maxPage: 11, (i+1): 6, trs.size: 9  --¡¿
+Fund id : 165523 --¡¾pageNo:11, maxPage: 11, (i+1): 7, trs.size: 9  --¡¿
+Fund id : 165523 --¡¾pageNo:11, maxPage: 11, (i+1): 8, trs.size: 9  --¡¿
+T^T  52.4294700%  T^T
+Fund Name: 528 . ¹ã·¢ÖÐÖ¤500ETFÁª½ÓC
+(¡Ñ_¡Ñ)  13.0225900%  (¡Ñ_¡Ñ)
+Fund Name: 529 . ¹ã·¢ÖÐÖ¤¾ü¹¤ETFÁª½Ó
+Fund id : 003017 --¡¾pageNo:4, maxPage: 5, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 003017 --¡¾pageNo:4, maxPage: 5, (i+1): 50, trs.size: 50  --¡¿
+T^T  23.9077200%  T^T
+Fund Name: 530 . ¼ÎÊµÖÐ´´400Áª½Ó
+T^T  78.7545300%  T^T
+Fund Name: 531 . ÄÏ·½Á¿»¯³É³¤
+Fund id : 001421 --¡¾pageNo:10, maxPage: 10, (i+1): 15, trs.size: 27  --¡¿
+Fund id : 001421 --¡¾pageNo:10, maxPage: 10, (i+1): 16, trs.size: 27  --¡¿
+Fund id : 001421 --¡¾pageNo:10, maxPage: 10, (i+1): 17, trs.size: 27  --¡¿
+Fund id : 001421 --¡¾pageNo:10, maxPage: 10, (i+1): 18, trs.size: 27  --¡¿
+Fund id : 001421 --¡¾pageNo:10, maxPage: 10, (i+1): 19, trs.size: 27  --¡¿
+Fund id : 001421 --¡¾pageNo:10, maxPage: 10, (i+1): 20, trs.size: 27  --¡¿
+Fund id : 001421 --¡¾pageNo:10, maxPage: 10, (i+1): 21, trs.size: 27  --¡¿
+Fund id : 001421 --¡¾pageNo:10, maxPage: 10, (i+1): 22, trs.size: 27  --¡¿
+Fund id : 001421 --¡¾pageNo:10, maxPage: 10, (i+1): 23, trs.size: 27  --¡¿
+Fund id : 001421 --¡¾pageNo:10, maxPage: 10, (i+1): 24, trs.size: 27  --¡¿
+Fund id : 001421 --¡¾pageNo:10, maxPage: 10, (i+1): 25, trs.size: 27  --¡¿
+T^T  43.7454800%  T^T
+Fund Name: 532 . °²ÐÅ»¦Éî300ÔöÇ¿·¢ÆðÊ½A
+Fund id : 003261 --¡¾pageNo:4, maxPage: 4, (i+1): 29, trs.size: 39  --¡¿
+Fund id : 003261 --¡¾pageNo:4, maxPage: 4, (i+1): 30, trs.size: 39  --¡¿
+Fund id : 003261 --¡¾pageNo:4, maxPage: 4, (i+1): 31, trs.size: 39  --¡¿
+Fund id : 003261 --¡¾pageNo:4, maxPage: 4, (i+1): 32, trs.size: 39  --¡¿
+Fund id : 003261 --¡¾pageNo:4, maxPage: 4, (i+1): 33, trs.size: 39  --¡¿
+Fund id : 003261 --¡¾pageNo:4, maxPage: 4, (i+1): 34, trs.size: 39  --¡¿
+Fund id : 003261 --¡¾pageNo:4, maxPage: 4, (i+1): 35, trs.size: 39  --¡¿
+Fund id : 003261 --¡¾pageNo:4, maxPage: 4, (i+1): 36, trs.size: 39  --¡¿
+Fund id : 003261 --¡¾pageNo:4, maxPage: 4, (i+1): 37, trs.size: 39  --¡¿
+Fund id : 003261 --¡¾pageNo:4, maxPage: 4, (i+1): 38, trs.size: 39  --¡¿
+(¡Ñ_¡Ñ)  13.7924900%  (¡Ñ_¡Ñ)
+Fund Name: 533 . ¸»¹úÖÐÖ¤Ò½Ò©Ö÷ÌâÖ¸ÊýÔöÇ¿
+Fund id : 161035 --¡¾pageNo:4, maxPage: 4, (i+1): 20, trs.size: 22  --¡¿
+Fund id : 161035 --¡¾pageNo:4, maxPage: 4, (i+1): 21, trs.size: 22  --¡¿
+(¡Ñ_¡Ñ)  12.3000000%  (¡Ñ_¡Ñ)
+Fund Name: 534 . »ã·á½úÐÅ»¦¸ÛÉîA
+Fund id : 002332 --¡¾pageNo:4, maxPage: 4, (i+1): 4, trs.size: 26  --¡¿
+(¡Ñ_¡Ñ)  18.4433400%  (¡Ñ_¡Ñ)
+Fund Name: 535 . »ã·á½úÐÅ»¦¸ÛÉîC
+Fund id : 002333 --¡¾pageNo:4, maxPage: 4, (i+1): 4, trs.size: 26  --¡¿
+(¡Ñ_¡Ñ)  17.9762000%  (¡Ñ_¡Ñ)
+Fund Name: 536 . ¼ÎÊµÎÄÌåÓéÀÖ¹ÉÆ±C
+Fund id : 003054 --¡¾pageNo:5, maxPage: 5, (i+1): 4, trs.size: 8  --¡¿
+Fund id : 003054 --¡¾pageNo:5, maxPage: 5, (i+1): 5, trs.size: 8  --¡¿
+Fund id : 003054 --¡¾pageNo:5, maxPage: 5, (i+1): 6, trs.size: 8  --¡¿
+Fund id : 003054 --¡¾pageNo:5, maxPage: 5, (i+1): 7, trs.size: 8  --¡¿
+(¡Ñ_¡Ñ)  7.6034600%  (¡Ñ_¡Ñ)
+Fund Name: 537 . ¹ã·¢ÖÐÖ¤¾ü¹¤ETF
+Fund id : 512680 --¡¾pageNo:4, maxPage: 5, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 512680 --¡¾pageNo:5, maxPage: 5, (i+1): 1, trs.size: 6  --¡¿
+Fund id : 512680 --¡¾pageNo:5, maxPage: 5, (i+1): 2, trs.size: 6  --¡¿
+Fund id : 512680 --¡¾pageNo:5, maxPage: 5, (i+1): 3, trs.size: 6  --¡¿
+Fund id : 512680 --¡¾pageNo:5, maxPage: 5, (i+1): 4, trs.size: 6  --¡¿
+Fund id : 512680 --¡¾pageNo:5, maxPage: 5, (i+1): 5, trs.size: 6  --¡¿
+T^T  25.2971800%  T^T
+Fund Name: 538 . »ª±¦ÐËÒµÖÐÖ¤È«Ö¸Ö¤È¯ETF
+Fund id : 512000 --¡¾pageNo:5, maxPage: 5, (i+1): 15, trs.size: 21  --¡¿
+Fund id : 512000 --¡¾pageNo:5, maxPage: 5, (i+1): 16, trs.size: 21  --¡¿
+Fund id : 512000 --¡¾pageNo:5, maxPage: 5, (i+1): 17, trs.size: 21  --¡¿
+(¡Ñ_¡Ñ)  18.5765000%  (¡Ñ_¡Ñ)
+Fund Name: 539 . ÉêÍòÖÐÖ¤ÉêÍòÐÂÐË½¡¿µ²úÒµÖ¸Êý
+Fund id : 163119 --¡¾pageNo:4, maxPage: 4, (i+1): 39, trs.size: 43  --¡¿
+Fund id : 163119 --¡¾pageNo:4, maxPage: 4, (i+1): 40, trs.size: 43  --¡¿
+Fund id : 163119 --¡¾pageNo:4, maxPage: 4, (i+1): 41, trs.size: 43  --¡¿
+Fund id : 163119 --¡¾pageNo:4, maxPage: 4, (i+1): 42, trs.size: 43  --¡¿
+(¡Ñ_¡Ñ)  19.4229100%  (¡Ñ_¡Ñ)
+Fund Name: 540 . Åô»ªÏã¸ÛÒøÐÐÖ¸Êý(LOF)
+Fund id : 501025 --¡¾pageNo:1, maxPage: 4, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 501025 --¡¾pageNo:2, maxPage: 4, (i+1): 11, trs.size: 50  --¡¿
+Fund id : 501025 --¡¾pageNo:2, maxPage: 4, (i+1): 21, trs.size: 50  --¡¿
+Fund id : 501025 --¡¾pageNo:2, maxPage: 4, (i+1): 28, trs.size: 50  --¡¿
+Fund id : 501025 --¡¾pageNo:3, maxPage: 4, (i+1): 17, trs.size: 50  --¡¿
+Fund id : 501025 --¡¾pageNo:3, maxPage: 4, (i+1): 37, trs.size: 50  --¡¿
+Fund id : 501025 --¡¾pageNo:4, maxPage: 4, (i+1): 10, trs.size: 14  --¡¿
+Fund id : 501025 --¡¾pageNo:4, maxPage: 4, (i+1): 12, trs.size: 14  --¡¿
+(¡Ñ_¡Ñ)  16.1183600%  (¡Ñ_¡Ñ)
+Fund Name: 541 . Åô»ªÏã¸ÛÖÐÐ¡ÆóÒµÖ¸ÊýLOF
+Fund id : 501023 --¡¾pageNo:1, maxPage: 4, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 501023 --¡¾pageNo:2, maxPage: 4, (i+1): 11, trs.size: 50  --¡¿
+Fund id : 501023 --¡¾pageNo:2, maxPage: 4, (i+1): 21, trs.size: 50  --¡¿
+Fund id : 501023 --¡¾pageNo:2, maxPage: 4, (i+1): 28, trs.size: 50  --¡¿
+Fund id : 501023 --¡¾pageNo:3, maxPage: 4, (i+1): 17, trs.size: 50  --¡¿
+Fund id : 501023 --¡¾pageNo:3, maxPage: 4, (i+1): 37, trs.size: 50  --¡¿
+Fund id : 501023 --¡¾pageNo:4, maxPage: 4, (i+1): 33, trs.size: 37  --¡¿
+Fund id : 501023 --¡¾pageNo:4, maxPage: 4, (i+1): 35, trs.size: 37  --¡¿
+(¡Ñ_¡Ñ)  13.9331800%  (¡Ñ_¡Ñ)
+Fund Name: 542 . ¹úÌ©¹úÖ¤ÐÂÄÜÔ´Æû³µÖ¸Êý
+T^T  54.1093400%  T^T
+Fund Name: 543 . ÕÐÉÌ»¦Éî300¸ß±´ËþÖ¸Êý·Ö¼¶
+T^T  55.2964700%  T^T
+Fund Name: 544 . ´óÄ¦ÉîÖ¤300Ö¸ÊýÔöÇ¿
+T^T  69.0304500%  T^T
+Fund Name: 545 . ²©Ê±ÉîÖ¤200ETF
+T^T  64.8329400%  T^T
+Fund Name: 546 . Ç°º£¿ªÔ´ÖÐÖ¤´óÅ©ÒµÖ¸ÊýÔöÇ¿
+Fund id : 001027 --¡¾pageNo:12, maxPage: 12, (i+1): 27, trs.size: 33  --¡¿
+Fund id : 001027 --¡¾pageNo:12, maxPage: 12, (i+1): 28, trs.size: 33  --¡¿
+Fund id : 001027 --¡¾pageNo:12, maxPage: 12, (i+1): 29, trs.size: 33  --¡¿
+Fund id : 001027 --¡¾pageNo:12, maxPage: 12, (i+1): 30, trs.size: 33  --¡¿
+Fund id : 001027 --¡¾pageNo:12, maxPage: 12, (i+1): 31, trs.size: 33  --¡¿
+Fund id : 001027 --¡¾pageNo:12, maxPage: 12, (i+1): 32, trs.size: 33  --¡¿
+T^T  37.2549000%  T^T
+Fund Name: 547 . ÌìºëÖÐÖ¤800Ö¸ÊýC
+Fund id : 001589 --¡¾pageNo:10, maxPage: 10, (i+1): 48, trs.size: 50  --¡¿
+T^T  33.6043900%  T^T
+Fund Name: 548 . Åô»ªÖ¤È¯·Ö¼¶
+Fund id : 160633 --¡¾pageNo:11, maxPage: 11, (i+1): 45, trs.size: 47  --¡¿
+Fund id : 160633 --¡¾pageNo:11, maxPage: 11, (i+1): 46, trs.size: 47  --¡¿
+T^T  44.3510700%  T^T
+Fund Name: 549 . Ç°º£¿ªÔ´½¡¿µ·Ö¼¶
+Fund id : 164401 --¡¾pageNo:11, maxPage: 12, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 164401 --¡¾pageNo:12, maxPage: 12, (i+1): 1, trs.size: 4  --¡¿
+Fund id : 164401 --¡¾pageNo:12, maxPage: 12, (i+1): 2, trs.size: 4  --¡¿
+T^T  31.5617300%  T^T
+Fund Name: 550 . ½»ÒøÉîÖ¤300Áª½Ó
+T^T  60.2948400%  T^T
+Fund Name: 551 . »ãÌí¸»ÖÐÖ¤¾«×¼Ò½ÁÆÖ¸ÊýC
+Fund id : 501006 --¡¾pageNo:7, maxPage: 7, (i+1): 38, trs.size: 46  --¡¿
+Fund id : 501006 --¡¾pageNo:7, maxPage: 7, (i+1): 39, trs.size: 46  --¡¿
+Fund id : 501006 --¡¾pageNo:7, maxPage: 7, (i+1): 40, trs.size: 46  --¡¿
+Fund id : 501006 --¡¾pageNo:7, maxPage: 7, (i+1): 41, trs.size: 46  --¡¿
+Fund id : 501006 --¡¾pageNo:7, maxPage: 7, (i+1): 42, trs.size: 46  --¡¿
+Fund id : 501006 --¡¾pageNo:7, maxPage: 7, (i+1): 43, trs.size: 46  --¡¿
+Fund id : 501006 --¡¾pageNo:7, maxPage: 7, (i+1): 44, trs.size: 46  --¡¿
+(¡Ñ_¡Ñ)  16.6573200%  (¡Ñ_¡Ñ)
+Fund Name: 552 . ÌìºëÖÐÖ¤800Ö¸ÊýA
+Fund id : 001588 --¡¾pageNo:10, maxPage: 10, (i+1): 48, trs.size: 50  --¡¿
+T^T  33.5129300%  T^T
+Fund Name: 553 . »ªÈóÔª´óÖÐ´´100ETFÁª½Ó
+Fund id : 001713 --¡¾pageNo:8, maxPage: 8, (i+1): 35, trs.size: 38  --¡¿
+Fund id : 001713 --¡¾pageNo:8, maxPage: 8, (i+1): 36, trs.size: 38  --¡¿
+Fund id : 001713 --¡¾pageNo:8, maxPage: 8, (i+1): 37, trs.size: 38  --¡¿
+(¡Ñ_¡Ñ)  16.4804500%  (¡Ñ_¡Ñ)
+Fund Name: 554 . ³¤ÐÅ´´ÐÂÇý¶¯¹ÉÆ±
+Fund id : 519935 --¡¾pageNo:4, maxPage: 5, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 519935 --¡¾pageNo:4, maxPage: 5, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 519935 --¡¾pageNo:4, maxPage: 5, (i+1): 49, trs.size: 50  --¡¿
+(¡Ñ_¡Ñ)  14.6953400%  (¡Ñ_¡Ñ)
+Fund Name: 555 . ÖÐ½ðÖÐÖ¤500A
+Fund id : 003016 --¡¾pageNo:5, maxPage: 5, (i+1): 47, trs.size: 48  --¡¿
+(¡Ñ_¡Ñ)  14.5789200%  (¡Ñ_¡Ñ)
+Fund Name: 556 . ¹úÌ©´´Òµ°åÖ¸Êý(LOF)
+Fund id : 160223 --¡¾pageNo:4, maxPage: 4, (i+1): 19, trs.size: 22  --¡¿
+Fund id : 160223 --¡¾pageNo:4, maxPage: 4, (i+1): 21, trs.size: 22  --¡¿
+T^T  22.6707800%  T^T
+Fund Name: 557 . ¼ÎÊµÎÄÌåÓéÀÖ¹ÉÆ±A
+Fund id : 003053 --¡¾pageNo:5, maxPage: 5, (i+1): 4, trs.size: 8  --¡¿
+Fund id : 003053 --¡¾pageNo:5, maxPage: 5, (i+1): 5, trs.size: 8  --¡¿
+Fund id : 003053 --¡¾pageNo:5, maxPage: 5, (i+1): 6, trs.size: 8  --¡¿
+Fund id : 003053 --¡¾pageNo:5, maxPage: 5, (i+1): 7, trs.size: 8  --¡¿
+(¡Ñ_¡Ñ)  7.4784300%  (¡Ñ_¡Ñ)
+Fund Name: 558 . »ãÌí¸»ÖÐÖ¤ÉÏº£¹úÆóETFÁª½Ó
+Fund id : 003194 --¡¾pageNo:4, maxPage: 4, (i+1): 27, trs.size: 35  --¡¿
+Fund id : 003194 --¡¾pageNo:4, maxPage: 4, (i+1): 28, trs.size: 35  --¡¿
+Fund id : 003194 --¡¾pageNo:4, maxPage: 4, (i+1): 29, trs.size: 35  --¡¿
+Fund id : 003194 --¡¾pageNo:4, maxPage: 4, (i+1): 30, trs.size: 35  --¡¿
+Fund id : 003194 --¡¾pageNo:4, maxPage: 4, (i+1): 31, trs.size: 35  --¡¿
+Fund id : 003194 --¡¾pageNo:4, maxPage: 4, (i+1): 32, trs.size: 35  --¡¿
+Fund id : 003194 --¡¾pageNo:4, maxPage: 4, (i+1): 33, trs.size: 35  --¡¿
+Fund id : 003194 --¡¾pageNo:4, maxPage: 4, (i+1): 34, trs.size: 35  --¡¿
+(¡Ñ_¡Ñ)  9.2760200%  (¡Ñ_¡Ñ)
+Fund Name: 559 . Åô»ªÐÅÏ¢·Ö¼¶
+T^T  61.9359100%  T^T
+Fund Name: 560 . Ò×·½´ïÒøÐÐ·Ö¼¶
+T^T  33.7585200%  T^T
+Fund Name: 561 . ÄÏ·½ÖÐÖ¤500Á¿»¯ÔöÇ¿C
+Fund id : 002907 --¡¾pageNo:4, maxPage: 4, (i+1): 15, trs.size: 17  --¡¿
+Fund id : 002907 --¡¾pageNo:4, maxPage: 4, (i+1): 16, trs.size: 17  --¡¿
+(¡Ñ_¡Ñ)  12.7376400%  (¡Ñ_¡Ñ)
+Fund Name: 562 . ÖÐ½ðÏû·ÑÉý¼¶
+Fund id : 001193 --¡¾pageNo:10, maxPage: 11, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 001193 --¡¾pageNo:10, maxPage: 11, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 001193 --¡¾pageNo:10, maxPage: 11, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 001193 --¡¾pageNo:11, maxPage: 11, (i+1): 6, trs.size: 7  --¡¿
+T^T  32.0736400%  T^T
+Fund Name: 563 . ´´½ðºÏÐÅÖÐÖ¤500Ö¸ÊýÔöÇ¿A
+T^T  27.9400100%  T^T
+Fund Name: 564 . »ªÏÄÖÐÖ¤500ETFÁª½Ó
+Fund id : 001052 --¡¾pageNo:11, maxPage: 11, (i+1): 34, trs.size: 38  --¡¿
+Fund id : 001052 --¡¾pageNo:11, maxPage: 11, (i+1): 35, trs.size: 38  --¡¿
+Fund id : 001052 --¡¾pageNo:11, maxPage: 11, (i+1): 36, trs.size: 38  --¡¿
+Fund id : 001052 --¡¾pageNo:11, maxPage: 11, (i+1): 37, trs.size: 38  --¡¿
+T^T  52.9558700%  T^T
+Fund Name: 565 . ²©Ê±Ë¿Â·Ö÷Ìâ¹ÉÆ±A
+Fund id : 001236 --¡¾pageNo:11, maxPage: 11, (i+1): 8, trs.size: 24  --¡¿
+Fund id : 001236 --¡¾pageNo:11, maxPage: 11, (i+1): 9, trs.size: 24  --¡¿
+Fund id : 001236 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 24  --¡¿
+Fund id : 001236 --¡¾pageNo:11, maxPage: 11, (i+1): 11, trs.size: 24  --¡¿
+Fund id : 001236 --¡¾pageNo:11, maxPage: 11, (i+1): 22, trs.size: 24  --¡¿
+Fund id : 001236 --¡¾pageNo:11, maxPage: 11, (i+1): 23, trs.size: 24  --¡¿
+T^T  48.0769200%  T^T
+Fund Name: 566 . ´ó³ÉÖÐÖ¤»¥ÁªÍø½ðÈÚÖ¸Êý·Ö¼¶
+Fund id : 502036 --¡¾pageNo:11, maxPage: 11, (i+1): 9, trs.size: 11  --¡¿
+T^T  47.4373000%  T^T
+Fund Name: 567 . ÖÐÈÚ¾ºÕùÓÅÊÆ
+Fund id : 003145 --¡¾pageNo:4, maxPage: 4, (i+1): 34, trs.size: 42  --¡¿
+Fund id : 003145 --¡¾pageNo:4, maxPage: 4, (i+1): 35, trs.size: 42  --¡¿
+Fund id : 003145 --¡¾pageNo:4, maxPage: 4, (i+1): 36, trs.size: 42  --¡¿
+Fund id : 003145 --¡¾pageNo:4, maxPage: 4, (i+1): 37, trs.size: 42  --¡¿
+Fund id : 003145 --¡¾pageNo:4, maxPage: 4, (i+1): 38, trs.size: 42  --¡¿
+Fund id : 003145 --¡¾pageNo:4, maxPage: 4, (i+1): 39, trs.size: 42  --¡¿
+Fund id : 003145 --¡¾pageNo:4, maxPage: 4, (i+1): 40, trs.size: 42  --¡¿
+Fund id : 003145 --¡¾pageNo:4, maxPage: 4, (i+1): 41, trs.size: 42  --¡¿
+T^T  20.8148400%  T^T
+Fund Name: 568 . Ì©´ïºêÀûÁ¿»¯¹ÉÆ±
+(¡Ñ_¡Ñ)  12.5350800%  (¡Ñ_¡Ñ)
+Fund Name: 569 . ÄÏ·½ÖÐÖ¤500Á¿»¯ÔöÇ¿A
+Fund id : 002906 --¡¾pageNo:4, maxPage: 4, (i+1): 15, trs.size: 17  --¡¿
+Fund id : 002906 --¡¾pageNo:4, maxPage: 4, (i+1): 16, trs.size: 17  --¡¿
+(¡Ñ_¡Ñ)  12.6908400%  (¡Ñ_¡Ñ)
+Fund Name: 570 . ¸»¹úÎÄÌå½¡¿µ¹ÉÆ±
+Fund id : 001186 --¡¾pageNo:11, maxPage: 11, (i+1): 25, trs.size: 31  --¡¿
+Fund id : 001186 --¡¾pageNo:11, maxPage: 11, (i+1): 26, trs.size: 31  --¡¿
+Fund id : 001186 --¡¾pageNo:11, maxPage: 11, (i+1): 27, trs.size: 31  --¡¿
+Fund id : 001186 --¡¾pageNo:11, maxPage: 11, (i+1): 28, trs.size: 31  --¡¿
+Fund id : 001186 --¡¾pageNo:11, maxPage: 11, (i+1): 29, trs.size: 31  --¡¿
+Fund id : 001186 --¡¾pageNo:11, maxPage: 11, (i+1): 30, trs.size: 31  --¡¿
+T^T  53.4053200%  T^T
+Fund Name: 571 . ¹ã·¢ÖÐÖ¤È«Ö¸Ô­²ÄÁÏÁª½ÓC
+(¡Ñ_¡Ñ)  16.8128700%  (¡Ñ_¡Ñ)
+Fund Name: 572 . Ììºë´´Òµ°åA
+T^T  43.6479600%  T^T
+Fund Name: 573 . Òø»ªÖÐÖ¤800·Ö¼¶
+Fund id : 161825 --¡¾pageNo:18, maxPage: 18, (i+1): 44, trs.size: 50  --¡¿
+Fund id : 161825 --¡¾pageNo:18, maxPage: 18, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 161825 --¡¾pageNo:18, maxPage: 18, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 161825 --¡¾pageNo:18, maxPage: 18, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 161825 --¡¾pageNo:18, maxPage: 18, (i+1): 49, trs.size: 50  --¡¿
+T^T  59.0282300%  T^T
+Fund Name: 574 . ¹¤ÒøÎïÁ÷²úÒµ¹ÉÆ±
+Fund id : 001718 --¡¾pageNo:7, maxPage: 7, (i+1): 48, trs.size: 49  --¡¿
+T^T  23.6641200%  T^T
+Fund Name: 575 . ÖÐÅ·Ïû·ÑÖ÷Ìâ¹ÉÆ±A
+Fund id : 002621 --¡¾pageNo:5, maxPage: 5, (i+1): 42, trs.size: 44  --¡¿
+Fund id : 002621 --¡¾pageNo:5, maxPage: 5, (i+1): 43, trs.size: 44  --¡¿
+(¡Ñ_¡Ñ)  13.9194100%  (¡Ñ_¡Ñ)
+Fund Name: 576 . ÖÐÅ·»¦Éî300Ö¸ÊýÔöÇ¿E
+T^T  26.9687100%  T^T
+Fund Name: 577 . »ãÌí¸»ÉîÖ¤300ETFÁª½Ó
+T^T  64.0909500%  T^T
+Fund Name: 578 . »ã·á½úÐÅ´óÅÌ¹ÉÆ±A
+T^T  72.0005100%  T^T
+Fund Name: 579 . Åô»ªÉîÖ¤ÃñÓªÁª½Ó
+T^T  69.5588800%  T^T
+Fund Name: 580 . ³¤ÐÅÖÐÖ¤Ò»´øÒ»Â·Ö÷ÌâÖ¸Êý·Ö¼¶
+Fund id : 502016 --¡¾pageNo:10, maxPage: 10, (i+1): 25, trs.size: 26  --¡¿
+T^T  23.5897400%  T^T
+Fund Name: 581 . ÃñÉúÖÐÖ¤×ÊÔ´Ö¸Êý
+T^T  56.1538500%  T^T
+Fund Name: 582 . ¶«º£Éç»á°²È«
+Fund id : 001899 --¡¾pageNo:8, maxPage: 8, (i+1): 43, trs.size: 49  --¡¿
+Fund id : 001899 --¡¾pageNo:8, maxPage: 8, (i+1): 44, trs.size: 49  --¡¿
+Fund id : 001899 --¡¾pageNo:8, maxPage: 8, (i+1): 45, trs.size: 49  --¡¿
+Fund id : 001899 --¡¾pageNo:8, maxPage: 8, (i+1): 46, trs.size: 49  --¡¿
+Fund id : 001899 --¡¾pageNo:8, maxPage: 8, (i+1): 48, trs.size: 49  --¡¿
+T^T  33.2008000%  T^T
+Fund Name: 583 . ¹¤Òø¹ú¼ÒÕ½ÂÔ¹ÉÆ±
+Fund id : 001719 --¡¾pageNo:8, maxPage: 8, (i+1): 13, trs.size: 14  --¡¿
+T^T  20.9821400%  T^T
+Fund Name: 584 . ¹¤Òø»¦¸ÛÉî¹ÉÆ±
+Fund id : 002387 --¡¾pageNo:2, maxPage: 7, (i+1): 24, trs.size: 50  --¡¿
+Fund id : 002387 --¡¾pageNo:5, maxPage: 7, (i+1): 2, trs.size: 50  --¡¿
+Fund id : 002387 --¡¾pageNo:6, maxPage: 7, (i+1): 29, trs.size: 50  --¡¿
+Fund id : 002387 --¡¾pageNo:7, maxPage: 7, (i+1): 7, trs.size: 10  --¡¿
+(¡Ñ_¡Ñ)  19.0981400%  (¡Ñ_¡Ñ)
+Fund Name: 585 . Ç°º£¿ªÔ´ÍâÏòÆóÒµ¹ÉÆ±
+Fund id : 003492 --¡¾pageNo:4, maxPage: 4, (i+1): 4, trs.size: 9  --¡¿
+Fund id : 003492 --¡¾pageNo:4, maxPage: 4, (i+1): 5, trs.size: 9  --¡¿
+Fund id : 003492 --¡¾pageNo:4, maxPage: 4, (i+1): 6, trs.size: 9  --¡¿
+Fund id : 003492 --¡¾pageNo:4, maxPage: 4, (i+1): 7, trs.size: 9  --¡¿
+(¡Ñ_¡Ñ)  13.7852400%  (¡Ñ_¡Ñ)
+Fund Name: 586 . ¸»¹úÖÐÖ¤¹úÆó¸Ä¸ïÖ¸Êý·Ö¼¶
+Fund id : 161026 --¡¾pageNo:13, maxPage: 13, (i+1): 33, trs.size: 37  --¡¿
+Fund id : 161026 --¡¾pageNo:13, maxPage: 13, (i+1): 34, trs.size: 37  --¡¿
+Fund id : 161026 --¡¾pageNo:13, maxPage: 13, (i+1): 35, trs.size: 37  --¡¿
+Fund id : 161026 --¡¾pageNo:13, maxPage: 13, (i+1): 36, trs.size: 37  --¡¿
+T^T  59.1743100%  T^T
+Fund Name: 587 . ÖÐÈÚÖÐÖ¤ÒøÐÐÖ¸Êý·Ö¼¶
+Fund id : 168205 --¡¾pageNo:11, maxPage: 11, (i+1): 24, trs.size: 26  --¡¿
+T^T  33.3986300%  T^T
+Fund Name: 588 . ÖÐº£Ò½ÁÆ±£½¡Ö÷Ìâ¹ÉÆ±
+T^T  60.3297300%  T^T
+Fund Name: 589 . ÄÏ·½ÖÐÖ¤1000ETF
+Fund id : 512100 --¡¾pageNo:4, maxPage: 4, (i+1): 35, trs.size: 40  --¡¿
+Fund id : 512100 --¡¾pageNo:4, maxPage: 4, (i+1): 36, trs.size: 40  --¡¿
+Fund id : 512100 --¡¾pageNo:4, maxPage: 4, (i+1): 37, trs.size: 40  --¡¿
+Fund id : 512100 --¡¾pageNo:4, maxPage: 4, (i+1): 38, trs.size: 40  --¡¿
+T^T  21.9718300%  T^T
+Fund Name: 590 . ´´½ðºÏÐÅ×ÊÔ´¹ÉÆ±·¢ÆðÊ½C
+T^T  22.0009800%  T^T
+Fund Name: 591 . »ªÏÄÖÐÖ¤500ETF
+Fund id : 512500 --¡¾pageNo:11, maxPage: 11, (i+1): 35, trs.size: 39  --¡¿
+Fund id : 512500 --¡¾pageNo:11, maxPage: 11, (i+1): 36, trs.size: 39  --¡¿
+Fund id : 512500 --¡¾pageNo:11, maxPage: 11, (i+1): 37, trs.size: 39  --¡¿
+Fund id : 512500 --¡¾pageNo:11, maxPage: 11, (i+1): 38, trs.size: 39  --¡¿
+T^T  81.9418200%  T^T
+Fund Name: 592 . »ªÏÄ¸Û¹ÉÍ¨¾«Ñ¡¹ÉÆ±LOF
+Fund id : 160322 --¡¾pageNo:1, maxPage: 3, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 160322 --¡¾pageNo:2, maxPage: 3, (i+1): 11, trs.size: 50  --¡¿
+Fund id : 160322 --¡¾pageNo:2, maxPage: 3, (i+1): 21, trs.size: 50  --¡¿
+Fund id : 160322 --¡¾pageNo:2, maxPage: 3, (i+1): 28, trs.size: 50  --¡¿
+Fund id : 160322 --¡¾pageNo:3, maxPage: 3, (i+1): 17, trs.size: 41  --¡¿
+Fund id : 160322 --¡¾pageNo:3, maxPage: 3, (i+1): 32, trs.size: 41  --¡¿
+Fund id : 160322 --¡¾pageNo:3, maxPage: 3, (i+1): 34, trs.size: 41  --¡¿
+Fund id : 160322 --¡¾pageNo:3, maxPage: 3, (i+1): 35, trs.size: 41  --¡¿
+Fund id : 160322 --¡¾pageNo:3, maxPage: 3, (i+1): 36, trs.size: 41  --¡¿
+Fund id : 160322 --¡¾pageNo:3, maxPage: 3, (i+1): 37, trs.size: 41  --¡¿
+Fund id : 160322 --¡¾pageNo:3, maxPage: 3, (i+1): 38, trs.size: 41  --¡¿
+Fund id : 160322 --¡¾pageNo:3, maxPage: 3, (i+1): 39, trs.size: 41  --¡¿
+Fund id : 160322 --¡¾pageNo:3, maxPage: 3, (i+1): 40, trs.size: 41  --¡¿
+T^T  20.8038000%  T^T
+Fund Name: 593 . ´´½ðºÏÐÅÓÅ¼Û³É³¤¹ÉÆ±C
+(¡Ñ_¡Ñ)  10.5435500%  (¡Ñ_¡Ñ)
+Fund Name: 594 . ´´½ðºÏÐÅÓÅ¼Û³É³¤¹ÉÆ±A
+(¡Ñ_¡Ñ)  10.6786100%  (¡Ñ_¡Ñ)
+Fund Name: 595 . Ò×·½´ï»¦Éî300Á¿»¯ÔöÇ¿
+T^T  62.5952700%  T^T
+Fund Name: 596 . ¼ÎÊµÐÂÄÜÔ´ÐÂ²ÄÁÏ¹ÉÆ±A
+Fund id : 003984 --¡¾pageNo:2, maxPage: 2, (i+1): 14, trs.size: 22  --¡¿
+Fund id : 003984 --¡¾pageNo:2, maxPage: 2, (i+1): 15, trs.size: 22  --¡¿
+Fund id : 003984 --¡¾pageNo:2, maxPage: 2, (i+1): 16, trs.size: 22  --¡¿
+Fund id : 003984 --¡¾pageNo:2, maxPage: 2, (i+1): 17, trs.size: 22  --¡¿
+Fund id : 003984 --¡¾pageNo:2, maxPage: 2, (i+1): 18, trs.size: 22  --¡¿
+Fund id : 003984 --¡¾pageNo:2, maxPage: 2, (i+1): 19, trs.size: 22  --¡¿
+Fund id : 003984 --¡¾pageNo:2, maxPage: 2, (i+1): 20, trs.size: 22  --¡¿
+(¡Ñ_¡Ñ)  14.0239900%  (¡Ñ_¡Ñ)
+Fund Name: 597 . ÖÐ½ðÖÐÖ¤500C
+(¡Ñ_¡Ñ)  14.3185800%  (¡Ñ_¡Ñ)
+Fund Name: 598 . ÖÐ½ð»¦Éî300C
+(¡Ñ_¡Ñ)  13.2082000%  (¡Ñ_¡Ñ)
+Fund Name: 599 . ¸»¹úÖÐÖ¤ÓéÀÖÖ÷ÌâÖ¸ÊýÔöÇ¿ÐÍ
+(¡Ñ_¡Ñ)  11.0237000%  (¡Ñ_¡Ñ)
+Fund Name: 600 . ÄÏ·½½ÌÓý¹ÉÆ±
+Fund id : 003956 --¡¾pageNo:2, maxPage: 2, (i+1): 31, trs.size: 43  --¡¿
+Fund id : 003956 --¡¾pageNo:2, maxPage: 2, (i+1): 32, trs.size: 43  --¡¿
+Fund id : 003956 --¡¾pageNo:2, maxPage: 2, (i+1): 33, trs.size: 43  --¡¿
+Fund id : 003956 --¡¾pageNo:2, maxPage: 2, (i+1): 34, trs.size: 43  --¡¿
+Fund id : 003956 --¡¾pageNo:2, maxPage: 2, (i+1): 35, trs.size: 43  --¡¿
+Fund id : 003956 --¡¾pageNo:2, maxPage: 2, (i+1): 36, trs.size: 43  --¡¿
+Fund id : 003956 --¡¾pageNo:2, maxPage: 2, (i+1): 37, trs.size: 43  --¡¿
+Fund id : 003956 --¡¾pageNo:2, maxPage: 2, (i+1): 38, trs.size: 43  --¡¿
+Fund id : 003956 --¡¾pageNo:2, maxPage: 2, (i+1): 39, trs.size: 43  --¡¿
+Fund id : 003956 --¡¾pageNo:2, maxPage: 2, (i+1): 40, trs.size: 43  --¡¿
+(¡Ñ_¡Ñ)  6.5388800%  (¡Ñ_¡Ñ)
+Fund Name: 601 . ÈÚÍ¨ÈË¹¤ÖÇÄÜÖ¸Êý(LOF)
+Fund id : 161631 --¡¾pageNo:2, maxPage: 2, (i+1): 26, trs.size: 28  --¡¿
+Fund id : 161631 --¡¾pageNo:2, maxPage: 2, (i+1): 27, trs.size: 28  --¡¿
+(¡Ñ_¡Ñ)  9.8253300%  (¡Ñ_¡Ñ)
+Fund Name: 602 . ½»ÒøÒ½Ò©´´ÐÂ¹ÉÆ±
+Fund id : 004075 --¡¾pageNo:2, maxPage: 2, (i+1): 21, trs.size: 26  --¡¿
+Fund id : 004075 --¡¾pageNo:2, maxPage: 2, (i+1): 22, trs.size: 26  --¡¿
+Fund id : 004075 --¡¾pageNo:2, maxPage: 2, (i+1): 23, trs.size: 26  --¡¿
+Fund id : 004075 --¡¾pageNo:2, maxPage: 2, (i+1): 24, trs.size: 26  --¡¿
+(¡Ñ_¡Ñ)  4.8824900%  (¡Ñ_¡Ñ)
+Fund Name: 603 . ÕÐÉÌÖÐÖ¤1000Ö¸ÊýÔöÇ¿C
+(¡Ñ_¡Ñ)  17.0191800%  (¡Ñ_¡Ñ)
+Fund Name: 604 . ÕÐÉÌ»¦Éî300Ö¸ÊýÔöÇ¿C
+Fund id : 004191 --¡¾pageNo:2, maxPage: 2, (i+1): 45, trs.size: 50  --¡¿
+Fund id : 004191 --¡¾pageNo:2, maxPage: 2, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 004191 --¡¾pageNo:2, maxPage: 2, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 004191 --¡¾pageNo:2, maxPage: 2, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 004191 --¡¾pageNo:2, maxPage: 2, (i+1): 49, trs.size: 50  --¡¿
+(¡Ñ_¡Ñ)  13.2042300%  (¡Ñ_¡Ñ)
+Fund Name: 605 . ¹úÁª°²¿Æ¼¼¶¯Á¦
+Fund id : 001956 --¡¾pageNo:7, maxPage: 7, (i+1): 24, trs.size: 35  --¡¿
+Fund id : 001956 --¡¾pageNo:7, maxPage: 7, (i+1): 25, trs.size: 35  --¡¿
+Fund id : 001956 --¡¾pageNo:7, maxPage: 7, (i+1): 26, trs.size: 35  --¡¿
+Fund id : 001956 --¡¾pageNo:7, maxPage: 7, (i+1): 27, trs.size: 35  --¡¿
+Fund id : 001956 --¡¾pageNo:7, maxPage: 7, (i+1): 28, trs.size: 35  --¡¿
+Fund id : 001956 --¡¾pageNo:7, maxPage: 7, (i+1): 29, trs.size: 35  --¡¿
+Fund id : 001956 --¡¾pageNo:7, maxPage: 7, (i+1): 30, trs.size: 35  --¡¿
+Fund id : 001956 --¡¾pageNo:7, maxPage: 7, (i+1): 31, trs.size: 35  --¡¿
+Fund id : 001956 --¡¾pageNo:7, maxPage: 7, (i+1): 33, trs.size: 35  --¡¿
+Fund id : 001956 --¡¾pageNo:7, maxPage: 7, (i+1): 34, trs.size: 35  --¡¿
+T^T  23.7050000%  T^T
+Fund Name: 606 . ¶«ÎâÉîÖ¤100ÔöÇ¿
+T^T  59.2013000%  T^T
+Fund Name: 607 . Åµ°²ÉÏÖ¤ÐÂÐËÁª½Ó
+T^T  71.5284700%  T^T
+Fund Name: 608 . ÕãÉÌ»ã½ðÖÐÖ¤×ªÐÍ³É³¤Ö¸Êý
+Fund id : 003366 --¡¾pageNo:3, maxPage: 3, (i+1): 34, trs.size: 39  --¡¿
+Fund id : 003366 --¡¾pageNo:3, maxPage: 3, (i+1): 35, trs.size: 39  --¡¿
+Fund id : 003366 --¡¾pageNo:3, maxPage: 3, (i+1): 37, trs.size: 39  --¡¿
+Fund id : 003366 --¡¾pageNo:3, maxPage: 3, (i+1): 38, trs.size: 39  --¡¿
+(¡Ñ_¡Ñ)  15.0333000%  (¡Ñ_¡Ñ)
+Fund Name: 609 . ½¨ÐÅÖÐ¹úÖÆÔì2025
+Fund id : 001825 --¡¾pageNo:2, maxPage: 2, (i+1): 34, trs.size: 38  --¡¿
+Fund id : 001825 --¡¾pageNo:2, maxPage: 2, (i+1): 35, trs.size: 38  --¡¿
+Fund id : 001825 --¡¾pageNo:2, maxPage: 2, (i+1): 36, trs.size: 38  --¡¿
+Fund id : 001825 --¡¾pageNo:2, maxPage: 2, (i+1): 37, trs.size: 38  --¡¿
+(¡Ñ_¡Ñ)  8.8970400%  (¡Ñ_¡Ñ)
+Fund Name: 610 . ´ó³É360»¥ÁªÍø+´óÊý¾Ý100C
+(¡Ñ_¡Ñ)  18.7351800%  (¡Ñ_¡Ñ)
+Fund Name: 611 . Ì©´ïºêÀû²Æ¸»´óÅÌÖ¸ÊýC
+(¡Ñ_¡Ñ)  14.0175700%  (¡Ñ_¡Ñ)
+Fund Name: 612 . ÕÐÉÌ»¦Éî300Ö¸ÊýÔöÇ¿A
+Fund id : 004190 --¡¾pageNo:2, maxPage: 2, (i+1): 45, trs.size: 50  --¡¿
+Fund id : 004190 --¡¾pageNo:2, maxPage: 2, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 004190 --¡¾pageNo:2, maxPage: 2, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 004190 --¡¾pageNo:2, maxPage: 2, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 004190 --¡¾pageNo:2, maxPage: 2, (i+1): 49, trs.size: 50  --¡¿
+(¡Ñ_¡Ñ)  13.1949600%  (¡Ñ_¡Ñ)
+Fund Name: 613 . ¹ã·¢ÖÐÖ¤È«Ö¸¿ÉÑ¡Ïû·ÑÁª½ÓC
+(¡Ñ_¡Ñ)  9.3998100%  (¡Ñ_¡Ñ)
+Fund Name: 614 . »ãÌí¸»ÖÐÖ¤»·¾³ÖÎÀíÖ¸ÊýA
+Fund id : 501030 --¡¾pageNo:3, maxPage: 3, (i+1): 14, trs.size: 24  --¡¿
+Fund id : 501030 --¡¾pageNo:3, maxPage: 3, (i+1): 16, trs.size: 24  --¡¿
+Fund id : 501030 --¡¾pageNo:3, maxPage: 3, (i+1): 18, trs.size: 24  --¡¿
+Fund id : 501030 --¡¾pageNo:3, maxPage: 3, (i+1): 19, trs.size: 24  --¡¿
+Fund id : 501030 --¡¾pageNo:3, maxPage: 3, (i+1): 20, trs.size: 24  --¡¿
+Fund id : 501030 --¡¾pageNo:3, maxPage: 3, (i+1): 21, trs.size: 24  --¡¿
+(¡Ñ_¡Ñ)  16.9902000%  (¡Ñ_¡Ñ)
+Fund Name: 615 . ÐÂ½®Ç°º£ÁªºÏ»¦Éî300Ö¸Êý
+(¡Ñ_¡Ñ)  10.6846100%  (¡Ñ_¡Ñ)
+Fund Name: 616 . ´´½ðºÏÐÅÖÐÖ¤1000Ö¸ÊýÔöÇ¿A
+(¡Ñ_¡Ñ)  13.9389200%  (¡Ñ_¡Ñ)
+Fund Name: 617 . ¼ÎÊµÐÂÄÜÔ´ÐÂ²ÄÁÏ¹ÉÆ±C
+Fund id : 003985 --¡¾pageNo:2, maxPage: 2, (i+1): 14, trs.size: 22  --¡¿
+Fund id : 003985 --¡¾pageNo:2, maxPage: 2, (i+1): 15, trs.size: 22  --¡¿
+Fund id : 003985 --¡¾pageNo:2, maxPage: 2, (i+1): 16, trs.size: 22  --¡¿
+Fund id : 003985 --¡¾pageNo:2, maxPage: 2, (i+1): 17, trs.size: 22  --¡¿
+Fund id : 003985 --¡¾pageNo:2, maxPage: 2, (i+1): 18, trs.size: 22  --¡¿
+Fund id : 003985 --¡¾pageNo:2, maxPage: 2, (i+1): 19, trs.size: 22  --¡¿
+Fund id : 003985 --¡¾pageNo:2, maxPage: 2, (i+1): 20, trs.size: 22  --¡¿
+(¡Ñ_¡Ñ)  13.9101200%  (¡Ñ_¡Ñ)
+Fund Name: 618 . ¹ã·¢ÖÐÐ¡°å300Áª½Ó
+T^T  71.9379300%  T^T
+Fund Name: 619 . »ª°²ÖÐÖ¤¶¨ÏòÔö·¢
+Fund id : 160422 --¡¾pageNo:1, maxPage: 2, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 160422 --¡¾pageNo:1, maxPage: 2, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 160422 --¡¾pageNo:1, maxPage: 2, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 160422 --¡¾pageNo:2, maxPage: 2, (i+1): 1, trs.size: 5  --¡¿
+Fund id : 160422 --¡¾pageNo:2, maxPage: 2, (i+1): 2, trs.size: 5  --¡¿
+Fund id : 160422 --¡¾pageNo:2, maxPage: 2, (i+1): 3, trs.size: 5  --¡¿
+Fund id : 160422 --¡¾pageNo:2, maxPage: 2, (i+1): 4, trs.size: 5  --¡¿
+(¡Ñ_¡Ñ)  8.3882500%  (¡Ñ_¡Ñ)
+Fund Name: 620 . Ò×·½´ïÖÐÐ¡Ö¸Êý·Ö¼¶
+T^T  69.3130200%  T^T
+Fund Name: 621 . ³¤ÐÅ¸Û¹ÉÍ¨Ö¸Êý
+Fund id : 519931 --¡¾pageNo:3, maxPage: 3, (i+1): 19, trs.size: 29  --¡¿
+Fund id : 519931 --¡¾pageNo:3, maxPage: 3, (i+1): 21, trs.size: 29  --¡¿
+Fund id : 519931 --¡¾pageNo:3, maxPage: 3, (i+1): 22, trs.size: 29  --¡¿
+Fund id : 519931 --¡¾pageNo:3, maxPage: 3, (i+1): 23, trs.size: 29  --¡¿
+Fund id : 519931 --¡¾pageNo:3, maxPage: 3, (i+1): 24, trs.size: 29  --¡¿
+Fund id : 519931 --¡¾pageNo:3, maxPage: 3, (i+1): 26, trs.size: 29  --¡¿
+Fund id : 519931 --¡¾pageNo:3, maxPage: 3, (i+1): 27, trs.size: 29  --¡¿
+(¡Ñ_¡Ñ)  15.8072700%  (¡Ñ_¡Ñ)
+Fund Name: 622 . ´´½ðºÏÐÅÁ¿»¯¶àÒò×Ó¹ÉÆ±C
+(¡Ñ_¡Ñ)  17.0481500%  (¡Ñ_¡Ñ)
+Fund Name: 623 . ÄÏ·½ÖÐÖ¤È«Ö¸Ö¤È¯ETFÁª½ÓC
+Fund id : 004070 --¡¾pageNo:2, maxPage: 2, (i+1): 35, trs.size: 39  --¡¿
+Fund id : 004070 --¡¾pageNo:2, maxPage: 2, (i+1): 36, trs.size: 39  --¡¿
+Fund id : 004070 --¡¾pageNo:2, maxPage: 2, (i+1): 37, trs.size: 39  --¡¿
+Fund id : 004070 --¡¾pageNo:2, maxPage: 2, (i+1): 38, trs.size: 39  --¡¿
+(¡Ñ_¡Ñ)  10.7505100%  (¡Ñ_¡Ñ)
+Fund Name: 624 . ÖÐÅ·Ê±´úÏÈ·æ¹ÉÆ±C
+(¡Ñ_¡Ñ)  13.9873200%  (¡Ñ_¡Ñ)
+Fund Name: 625 . ¹ã·¢ÖÐÖ¤»·±£ETF
+Fund id : 512580 --¡¾pageNo:3, maxPage: 3, (i+1): 9, trs.size: 15  --¡¿
+Fund id : 512580 --¡¾pageNo:3, maxPage: 3, (i+1): 10, trs.size: 15  --¡¿
+Fund id : 512580 --¡¾pageNo:3, maxPage: 3, (i+1): 11, trs.size: 15  --¡¿
+Fund id : 512580 --¡¾pageNo:3, maxPage: 3, (i+1): 12, trs.size: 15  --¡¿
+(¡Ñ_¡Ñ)  12.5257600%  (¡Ñ_¡Ñ)
+Fund Name: 626 . Íò¼ÒÏû·Ñ³É³¤
+Fund id : 519193 --¡¾pageNo:2, maxPage: 2, (i+1): 39, trs.size: 44  --¡¿
+Fund id : 519193 --¡¾pageNo:2, maxPage: 2, (i+1): 40, trs.size: 44  --¡¿
+Fund id : 519193 --¡¾pageNo:2, maxPage: 2, (i+1): 41, trs.size: 44  --¡¿
+Fund id : 519193 --¡¾pageNo:2, maxPage: 2, (i+1): 42, trs.size: 44  --¡¿
+(¡Ñ_¡Ñ)  17.7391300%  (¡Ñ_¡Ñ)
+Fund Name: 627 . Î÷²¿ÀûµÃ¸ö¹É¾«Ñ¡¹ÉÆ±
+Fund id : 673090 --¡¾pageNo:3, maxPage: 3, (i+1): 17, trs.size: 21  --¡¿
+Fund id : 673090 --¡¾pageNo:3, maxPage: 3, (i+1): 18, trs.size: 21  --¡¿
+Fund id : 673090 --¡¾pageNo:3, maxPage: 3, (i+1): 20, trs.size: 21  --¡¿
+(¡Ñ_¡Ñ)  10.7265800%  (¡Ñ_¡Ñ)
+Fund Name: 628 . ÄÏ·½ÖÐÖ¤È«Ö¸Ö¤È¯ETF
+Fund id : 512900 --¡¾pageNo:2, maxPage: 2, (i+1): 35, trs.size: 38  --¡¿
+Fund id : 512900 --¡¾pageNo:2, maxPage: 2, (i+1): 36, trs.size: 38  --¡¿
+Fund id : 512900 --¡¾pageNo:2, maxPage: 2, (i+1): 37, trs.size: 38  --¡¿
+(¡Ñ_¡Ñ)  11.3614100%  (¡Ñ_¡Ñ)
+Fund Name: 629 . ¹ã·¢»¦¸ÛÉîÐÂÆðµã¹ÉÆ±
+Fund id : 002121 --¡¾pageNo:1, maxPage: 4, (i+1): 46, trs.size: 50  --¡¿
+Fund id : 002121 --¡¾pageNo:2, maxPage: 4, (i+1): 11, trs.size: 50  --¡¿
+Fund id : 002121 --¡¾pageNo:2, maxPage: 4, (i+1): 21, trs.size: 50  --¡¿
+Fund id : 002121 --¡¾pageNo:2, maxPage: 4, (i+1): 28, trs.size: 50  --¡¿
+Fund id : 002121 --¡¾pageNo:3, maxPage: 4, (i+1): 17, trs.size: 50  --¡¿
+Fund id : 002121 --¡¾pageNo:3, maxPage: 4, (i+1): 37, trs.size: 50  --¡¿
+Fund id : 002121 --¡¾pageNo:4, maxPage: 4, (i+1): 14, trs.size: 17  --¡¿
+Fund id : 002121 --¡¾pageNo:4, maxPage: 4, (i+1): 15, trs.size: 17  --¡¿
+Fund id : 002121 --¡¾pageNo:4, maxPage: 4, (i+1): 16, trs.size: 17  --¡¿
+T^T  24.5888800%  T^T
+Fund Name: 630 . µÂ°îÁ¿»¯ÓÅÑ¡¹ÉÆ±(LOF)C
+Fund id : 167703 --¡¾pageNo:2, maxPage: 2, (i+1): 37, trs.size: 38  --¡¿
+(¡Ñ_¡Ñ)  15.1796900%  (¡Ñ_¡Ñ)
+Fund Name: 631 . »ãÌí¸»ÖÐÖ¤ÖÐÒ©Ö¸Êý(LOF)C
+Fund id : 501012 --¡¾pageNo:3, maxPage: 3, (i+1): 14, trs.size: 24  --¡¿
+Fund id : 501012 --¡¾pageNo:3, maxPage: 3, (i+1): 16, trs.size: 24  --¡¿
+Fund id : 501012 --¡¾pageNo:3, maxPage: 3, (i+1): 18, trs.size: 24  --¡¿
+Fund id : 501012 --¡¾pageNo:3, maxPage: 3, (i+1): 19, trs.size: 24  --¡¿
+Fund id : 501012 --¡¾pageNo:3, maxPage: 3, (i+1): 20, trs.size: 24  --¡¿
+Fund id : 501012 --¡¾pageNo:3, maxPage: 3, (i+1): 21, trs.size: 24  --¡¿
+(¡Ñ_¡Ñ)  8.5783200%  (¡Ñ_¡Ñ)
+Fund Name: 632 . ÕÐÉÌÒÆ¶¯»¥ÁªÍø²úÒµ¹ÉÆ±»ù½ð
+Fund id : 001404 --¡¾pageNo:10, maxPage: 11, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 001404 --¡¾pageNo:11, maxPage: 11, (i+1): 1, trs.size: 5  --¡¿
+Fund id : 001404 --¡¾pageNo:11, maxPage: 11, (i+1): 2, trs.size: 5  --¡¿
+Fund id : 001404 --¡¾pageNo:11, maxPage: 11, (i+1): 3, trs.size: 5  --¡¿
+Fund id : 001404 --¡¾pageNo:11, maxPage: 11, (i+1): 4, trs.size: 5  --¡¿
+T^T  40.2125800%  T^T
+Fund Name: 633 . Ç°º£¿ªÔ´ÓÅÊÆÀ¶³ï¹ÉÆ±A
+Fund id : 001162 --¡¾pageNo:11, maxPage: 12, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 001162 --¡¾pageNo:11, maxPage: 12, (i+1): 50, trs.size: 50  --¡¿
+T^T  28.7634400%  T^T
+Fund Name: 634 . ´óÄ¦î£³ÉÖÐÐ¡ÅÌµ¯ÐÔ¹ÉÆ±
+Fund id : 003312 --¡¾pageNo:3, maxPage: 3, (i+1): 9, trs.size: 15  --¡¿
+Fund id : 003312 --¡¾pageNo:3, maxPage: 3, (i+1): 10, trs.size: 15  --¡¿
+Fund id : 003312 --¡¾pageNo:3, maxPage: 3, (i+1): 11, trs.size: 15  --¡¿
+Fund id : 003312 --¡¾pageNo:3, maxPage: 3, (i+1): 13, trs.size: 15  --¡¿
+Fund id : 003312 --¡¾pageNo:3, maxPage: 3, (i+1): 14, trs.size: 15  --¡¿
+(¡Ñ_¡Ñ)  12.9130900%  (¡Ñ_¡Ñ)
+Fund Name: 635 . ¾°Ë³ÖÐÖ¤500ÐÐÒµÖÐÐÔµÍ²¨¶¯
+Fund id : 003318 --¡¾pageNo:2, maxPage: 2, (i+1): 44, trs.size: 46  --¡¿
+Fund id : 003318 --¡¾pageNo:2, maxPage: 2, (i+1): 45, trs.size: 46  --¡¿
+(¡Ñ_¡Ñ)  9.1605300%  (¡Ñ_¡Ñ)
+Fund Name: 636 . »ãÌí¸»ÖÐÖ¤ÖÐÒ©Ö¸Êý(LOF)A
+Fund id : 501011 --¡¾pageNo:3, maxPage: 3, (i+1): 14, trs.size: 24  --¡¿
+Fund id : 501011 --¡¾pageNo:3, maxPage: 3, (i+1): 16, trs.size: 24  --¡¿
+Fund id : 501011 --¡¾pageNo:3, maxPage: 3, (i+1): 18, trs.size: 24  --¡¿
+Fund id : 501011 --¡¾pageNo:3, maxPage: 3, (i+1): 19, trs.size: 24  --¡¿
+Fund id : 501011 --¡¾pageNo:3, maxPage: 3, (i+1): 20, trs.size: 24  --¡¿
+Fund id : 501011 --¡¾pageNo:3, maxPage: 3, (i+1): 21, trs.size: 24  --¡¿
+(¡Ñ_¡Ñ)  8.6783400%  (¡Ñ_¡Ñ)
+Fund Name: 637 . °²ÐÅÐÂ³£Ì¬¹ÉÆ±
+Fund id : 001583 --¡¾pageNo:10, maxPage: 10, (i+1): 13, trs.size: 18  --¡¿
+Fund id : 001583 --¡¾pageNo:10, maxPage: 10, (i+1): 14, trs.size: 18  --¡¿
+Fund id : 001583 --¡¾pageNo:10, maxPage: 10, (i+1): 15, trs.size: 18  --¡¿
+Fund id : 001583 --¡¾pageNo:10, maxPage: 10, (i+1): 16, trs.size: 18  --¡¿
+Fund id : 001583 --¡¾pageNo:10, maxPage: 10, (i+1): 17, trs.size: 18  --¡¿
+T^T  31.4935100%  T^T
+Fund Name: 638 . ÈÚÍ¨Ö¤È¯·Ö¼¶
+T^T  49.7206700%  T^T
+Fund Name: 639 . ¹¤ÒøÐÂÀ¶³ï¹ÉÆ±
+Fund id : 001651 --¡¾pageNo:10, maxPage: 10, (i+1): 27, trs.size: 30  --¡¿
+Fund id : 001651 --¡¾pageNo:10, maxPage: 10, (i+1): 28, trs.size: 30  --¡¿
+T^T  27.5502000%  T^T
+Fund Name: 640 . ¸»¹úÖÐÖ¤ÌåÓý²úÒµÖ¸Êý·Ö¼¶
+Fund id : 161030 --¡¾pageNo:11, maxPage: 11, (i+1): 8, trs.size: 13  --¡¿
+Fund id : 161030 --¡¾pageNo:11, maxPage: 11, (i+1): 9, trs.size: 13  --¡¿
+T^T  41.5823400%  T^T
+Fund Name: 641 . ±¦Ó¯Ò½ÁÆ½¡¿µ»¦¸ÛÉî¹ÉÆ±
+Fund id : 001915 --¡¾pageNo:8, maxPage: 8, (i+1): 38, trs.size: 44  --¡¿
+Fund id : 001915 --¡¾pageNo:8, maxPage: 8, (i+1): 39, trs.size: 44  --¡¿
+Fund id : 001915 --¡¾pageNo:8, maxPage: 8, (i+1): 40, trs.size: 44  --¡¿
+Fund id : 001915 --¡¾pageNo:8, maxPage: 8, (i+1): 41, trs.size: 44  --¡¿
+T^T  26.0826800%  T^T
+Fund Name: 642 . ¹ã·¢ÑøÀÏÖ¸ÊýC
+(¡Ñ_¡Ñ)  10.9154900%  (¡Ñ_¡Ñ)
+Fund Name: 643 . »ª°²»¦Éî300Ö¸Êý·Ö¼¶
+T^T  57.3491500%  T^T
+Fund Name: 644 . ÌìºëÖÐÖ¤ÒøÐÐÖ¸ÊýA
+Fund id : 001594 --¡¾pageNo:11, maxPage: 11, (i+1): 5, trs.size: 6  --¡¿
+T^T  31.0711100%  T^T
+Fund Name: 645 . Åô»ªÎÄ»¯´«Ã½ÓéÀÖ¹ÉÆ±
+(¡Ñ_¡Ñ)  14.6362800%  (¡Ñ_¡Ñ)
+Fund Name: 646 . ¼ÎÊµÅ©Òµ²úÒµ¹ÉÆ±
+Fund id : 003634 --¡¾pageNo:3, maxPage: 3, (i+1): 31, trs.size: 40  --¡¿
+Fund id : 003634 --¡¾pageNo:3, maxPage: 3, (i+1): 32, trs.size: 40  --¡¿
+Fund id : 003634 --¡¾pageNo:3, maxPage: 3, (i+1): 33, trs.size: 40  --¡¿
+Fund id : 003634 --¡¾pageNo:3, maxPage: 3, (i+1): 35, trs.size: 40  --¡¿
+Fund id : 003634 --¡¾pageNo:3, maxPage: 3, (i+1): 36, trs.size: 40  --¡¿
+Fund id : 003634 --¡¾pageNo:3, maxPage: 3, (i+1): 37, trs.size: 40  --¡¿
+(¡Ñ_¡Ñ)  11.3791800%  (¡Ñ_¡Ñ)
+Fund Name: 647 . »ª°²ÖÐÖ¤È«Ö¸Ö¤È¯¹«Ë¾Ö¸Êý·Ö¼¶
+Fund id : 160419 --¡¾pageNo:11, maxPage: 11, (i+1): 21, trs.size: 23  --¡¿
+Fund id : 160419 --¡¾pageNo:11, maxPage: 11, (i+1): 22, trs.size: 23  --¡¿
+T^T  57.6946600%  T^T
+Fund Name: 648 . ½¨ÐÅ»·±£²úÒµ¹ÉÆ±
+Fund id : 001166 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 22  --¡¿
+Fund id : 001166 --¡¾pageNo:11, maxPage: 11, (i+1): 11, trs.size: 22  --¡¿
+Fund id : 001166 --¡¾pageNo:11, maxPage: 11, (i+1): 12, trs.size: 22  --¡¿
+Fund id : 001166 --¡¾pageNo:11, maxPage: 11, (i+1): 13, trs.size: 22  --¡¿
+Fund id : 001166 --¡¾pageNo:11, maxPage: 11, (i+1): 14, trs.size: 22  --¡¿
+Fund id : 001166 --¡¾pageNo:11, maxPage: 11, (i+1): 15, trs.size: 22  --¡¿
+Fund id : 001166 --¡¾pageNo:11, maxPage: 11, (i+1): 16, trs.size: 22  --¡¿
+Fund id : 001166 --¡¾pageNo:11, maxPage: 11, (i+1): 17, trs.size: 22  --¡¿
+Fund id : 001166 --¡¾pageNo:11, maxPage: 11, (i+1): 18, trs.size: 22  --¡¿
+Fund id : 001166 --¡¾pageNo:11, maxPage: 11, (i+1): 19, trs.size: 22  --¡¿
+Fund id : 001166 --¡¾pageNo:11, maxPage: 11, (i+1): 20, trs.size: 22  --¡¿
+Fund id : 001166 --¡¾pageNo:11, maxPage: 11, (i+1): 21, trs.size: 22  --¡¿
+T^T  42.6040700%  T^T
+Fund Name: 649 . »ªÏÄ»¦Éî300Ö¸ÊýÔöÇ¿A
+Fund id : 001015 --¡¾pageNo:12, maxPage: 12, (i+1): 32, trs.size: 38  --¡¿
+Fund id : 001015 --¡¾pageNo:12, maxPage: 12, (i+1): 33, trs.size: 38  --¡¿
+Fund id : 001015 --¡¾pageNo:12, maxPage: 12, (i+1): 34, trs.size: 38  --¡¿
+Fund id : 001015 --¡¾pageNo:12, maxPage: 12, (i+1): 35, trs.size: 38  --¡¿
+Fund id : 001015 --¡¾pageNo:12, maxPage: 12, (i+1): 36, trs.size: 38  --¡¿
+Fund id : 001015 --¡¾pageNo:12, maxPage: 12, (i+1): 37, trs.size: 38  --¡¿
+T^T  42.0226100%  T^T
+Fund Name: 650 . »ãÌí¸»ÖÐÖ¤ÉúÎï¿Æ¼¼Ö¸ÊýC
+Fund id : 501010 --¡¾pageNo:3, maxPage: 3, (i+1): 14, trs.size: 25  --¡¿
+Fund id : 501010 --¡¾pageNo:3, maxPage: 3, (i+1): 16, trs.size: 25  --¡¿
+Fund id : 501010 --¡¾pageNo:3, maxPage: 3, (i+1): 18, trs.size: 25  --¡¿
+Fund id : 501010 --¡¾pageNo:3, maxPage: 3, (i+1): 19, trs.size: 25  --¡¿
+Fund id : 501010 --¡¾pageNo:3, maxPage: 3, (i+1): 20, trs.size: 25  --¡¿
+Fund id : 501010 --¡¾pageNo:3, maxPage: 3, (i+1): 21, trs.size: 25  --¡¿
+Fund id : 501010 --¡¾pageNo:3, maxPage: 3, (i+1): 23, trs.size: 25  --¡¿
+(¡Ñ_¡Ñ)  8.7562800%  (¡Ñ_¡Ñ)
+Fund Name: 651 . Æ½°²ÖÐÖ¤»¦¸ÛÉî¸ß¹ÉÏ¢
+Fund id : 003702 --¡¾pageNo:3, maxPage: 3, (i+1): 14, trs.size: 26  --¡¿
+Fund id : 003702 --¡¾pageNo:3, maxPage: 3, (i+1): 15, trs.size: 26  --¡¿
+Fund id : 003702 --¡¾pageNo:3, maxPage: 3, (i+1): 16, trs.size: 26  --¡¿
+Fund id : 003702 --¡¾pageNo:3, maxPage: 3, (i+1): 17, trs.size: 26  --¡¿
+Fund id : 003702 --¡¾pageNo:3, maxPage: 3, (i+1): 18, trs.size: 26  --¡¿
+Fund id : 003702 --¡¾pageNo:3, maxPage: 3, (i+1): 19, trs.size: 26  --¡¿
+Fund id : 003702 --¡¾pageNo:3, maxPage: 3, (i+1): 20, trs.size: 26  --¡¿
+Fund id : 003702 --¡¾pageNo:3, maxPage: 3, (i+1): 21, trs.size: 26  --¡¿
+Fund id : 003702 --¡¾pageNo:3, maxPage: 3, (i+1): 22, trs.size: 26  --¡¿
+Fund id : 003702 --¡¾pageNo:3, maxPage: 3, (i+1): 23, trs.size: 26  --¡¿
+(¡Ñ_¡Ñ)  4.9845700%  (¡Ñ_¡Ñ)
+Fund Name: 652 . ¹¤Òø¹úÆó¸Ä¸ï¹ÉÆ±
+Fund id : 001008 --¡¾pageNo:12, maxPage: 13, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 001008 --¡¾pageNo:13, maxPage: 13, (i+1): 1, trs.size: 4  --¡¿
+Fund id : 001008 --¡¾pageNo:13, maxPage: 13, (i+1): 2, trs.size: 4  --¡¿
+Fund id : 001008 --¡¾pageNo:13, maxPage: 13, (i+1): 3, trs.size: 4  --¡¿
+T^T  52.4198600%  T^T
+Fund Name: 653 . »ãÌí¸»ÖÐÖ¤ÉúÎï¿Æ¼¼Ö¸ÊýA
+Fund id : 501009 --¡¾pageNo:3, maxPage: 3, (i+1): 14, trs.size: 25  --¡¿
+Fund id : 501009 --¡¾pageNo:3, maxPage: 3, (i+1): 16, trs.size: 25  --¡¿
+Fund id : 501009 --¡¾pageNo:3, maxPage: 3, (i+1): 18, trs.size: 25  --¡¿
+Fund id : 501009 --¡¾pageNo:3, maxPage: 3, (i+1): 19, trs.size: 25  --¡¿
+Fund id : 501009 --¡¾pageNo:3, maxPage: 3, (i+1): 20, trs.size: 25  --¡¿
+Fund id : 501009 --¡¾pageNo:3, maxPage: 3, (i+1): 21, trs.size: 25  --¡¿
+Fund id : 501009 --¡¾pageNo:3, maxPage: 3, (i+1): 23, trs.size: 25  --¡¿
+(¡Ñ_¡Ñ)  8.7524900%  (¡Ñ_¡Ñ)
+Fund Name: 654 . Åô»ª¸Ä¸ïºìÀû¹ÉÆ±
+Fund id : 001188 --¡¾pageNo:11, maxPage: 11, (i+1): 16, trs.size: 25  --¡¿
+Fund id : 001188 --¡¾pageNo:11, maxPage: 11, (i+1): 17, trs.size: 25  --¡¿
+Fund id : 001188 --¡¾pageNo:11, maxPage: 11, (i+1): 18, trs.size: 25  --¡¿
+Fund id : 001188 --¡¾pageNo:11, maxPage: 11, (i+1): 19, trs.size: 25  --¡¿
+Fund id : 001188 --¡¾pageNo:11, maxPage: 11, (i+1): 20, trs.size: 25  --¡¿
+Fund id : 001188 --¡¾pageNo:11, maxPage: 11, (i+1): 21, trs.size: 25  --¡¿
+Fund id : 001188 --¡¾pageNo:11, maxPage: 11, (i+1): 22, trs.size: 25  --¡¿
+Fund id : 001188 --¡¾pageNo:11, maxPage: 11, (i+1): 23, trs.size: 25  --¡¿
+Fund id : 001188 --¡¾pageNo:11, maxPage: 11, (i+1): 24, trs.size: 25  --¡¿
+T^T  43.8658400%  T^T
+Fund Name: 655 . »ª±¦»¦Éî300ÔöÇ¿
+(¡Ñ_¡Ñ)  17.2382100%  (¡Ñ_¡Ñ)
+Fund Name: 656 . ÌìºëÖÐÖ¤ÒøÐÐÖ¸ÊýC
+Fund id : 001595 --¡¾pageNo:11, maxPage: 11, (i+1): 5, trs.size: 6  --¡¿
+T^T  30.6989000%  T^T
+Fund Name: 657 . »ã·á½úÐÅµÍÌ¼ÏÈ·æ
+T^T  73.3343200%  T^T
+Fund Name: 658 . Ì©ÐÅ»ù±¾Ãæ400Ö¸Êý·Ö¼¶
+T^T  67.9960600%  T^T
+Fund Name: 659 . »ãÌí¸»¸ß¶ËÖÆÔì¹ÉÆ±
+Fund id : 001725 --¡¾pageNo:2, maxPage: 2, (i+1): 2, trs.size: 11  --¡¿
+Fund id : 001725 --¡¾pageNo:2, maxPage: 2, (i+1): 3, trs.size: 11  --¡¿
+Fund id : 001725 --¡¾pageNo:2, maxPage: 2, (i+1): 4, trs.size: 11  --¡¿
+Fund id : 001725 --¡¾pageNo:2, maxPage: 2, (i+1): 5, trs.size: 11  --¡¿
+Fund id : 001725 --¡¾pageNo:2, maxPage: 2, (i+1): 6, trs.size: 11  --¡¿
+Fund id : 001725 --¡¾pageNo:2, maxPage: 2, (i+1): 7, trs.size: 11  --¡¿
+Fund id : 001725 --¡¾pageNo:2, maxPage: 2, (i+1): 8, trs.size: 11  --¡¿
+Fund id : 001725 --¡¾pageNo:2, maxPage: 2, (i+1): 9, trs.size: 11  --¡¿
+Fund id : 001725 --¡¾pageNo:2, maxPage: 2, (i+1): 10, trs.size: 11  --¡¿
+(¡Ñ_¡Ñ)  11.6402100%  (¡Ñ_¡Ñ)
+Fund Name: 660 . »ãÌí¸»ÖÐÖ¤»·¾³ÖÎÀíÖ¸ÊýC
+Fund id : 501031 --¡¾pageNo:3, maxPage: 3, (i+1): 14, trs.size: 24  --¡¿
+Fund id : 501031 --¡¾pageNo:3, maxPage: 3, (i+1): 16, trs.size: 24  --¡¿
+Fund id : 501031 --¡¾pageNo:3, maxPage: 3, (i+1): 18, trs.size: 24  --¡¿
+Fund id : 501031 --¡¾pageNo:3, maxPage: 3, (i+1): 19, trs.size: 24  --¡¿
+Fund id : 501031 --¡¾pageNo:3, maxPage: 3, (i+1): 20, trs.size: 24  --¡¿
+Fund id : 501031 --¡¾pageNo:3, maxPage: 3, (i+1): 21, trs.size: 24  --¡¿
+(¡Ñ_¡Ñ)  16.8405800%  (¡Ñ_¡Ñ)
+Fund Name: 661 . ÖÐÅ·Ê±´úÏÈ·æ¹ÉÆ±A
+Fund id : 001938 --¡¾pageNo:9, maxPage: 9, (i+1): 9, trs.size: 14  --¡¿
+Fund id : 001938 --¡¾pageNo:9, maxPage: 9, (i+1): 10, trs.size: 14  --¡¿
+Fund id : 001938 --¡¾pageNo:9, maxPage: 9, (i+1): 11, trs.size: 14  --¡¿
+Fund id : 001938 --¡¾pageNo:9, maxPage: 9, (i+1): 12, trs.size: 14  --¡¿
+Fund id : 001938 --¡¾pageNo:9, maxPage: 9, (i+1): 13, trs.size: 14  --¡¿
+T^T  30.0291500%  T^T
+Fund Name: 662 . Ì©´ïºêÀû¸Û¹ÉÍ¨¹ÉÆ±C
+(¡Ñ_¡Ñ)  7.7151100%  (¡Ñ_¡Ñ)
+Fund Name: 663 . Ì©´ïºêÀû¸Û¹ÉÍ¨¹ÉÆ±A
+(¡Ñ_¡Ñ)  8.0387600%  (¡Ñ_¡Ñ)
+Fund Name: 664 . ÒæÃñÖÐÖ¤ÖÇÄÜÏû·Ñ
+Fund id : 004354 --¡¾pageNo:2, maxPage: 2, (i+1): 9, trs.size: 10  --¡¿
+(¡Ñ_¡Ñ)  4.7605400%  (¡Ñ_¡Ñ)
+Fund Name: 665 . Ò×·½´ïÉÏÖ¤50Ö¸ÊýC
+(¡Ñ_¡Ñ)  8.2161700%  (¡Ñ_¡Ñ)
+Fund Name: 666 . ´óÄ¦Á¿»¯¶à²ßÂÔ¹ÉÆ±
+Fund id : 001291 --¡¾pageNo:10, maxPage: 10, (i+1): 20, trs.size: 34  --¡¿
+Fund id : 001291 --¡¾pageNo:10, maxPage: 10, (i+1): 21, trs.size: 34  --¡¿
+Fund id : 001291 --¡¾pageNo:10, maxPage: 10, (i+1): 22, trs.size: 34  --¡¿
+Fund id : 001291 --¡¾pageNo:10, maxPage: 10, (i+1): 23, trs.size: 34  --¡¿
+Fund id : 001291 --¡¾pageNo:10, maxPage: 10, (i+1): 24, trs.size: 34  --¡¿
+Fund id : 001291 --¡¾pageNo:10, maxPage: 10, (i+1): 25, trs.size: 34  --¡¿
+Fund id : 001291 --¡¾pageNo:10, maxPage: 10, (i+1): 26, trs.size: 34  --¡¿
+Fund id : 001291 --¡¾pageNo:10, maxPage: 10, (i+1): 27, trs.size: 34  --¡¿
+Fund id : 001291 --¡¾pageNo:10, maxPage: 10, (i+1): 28, trs.size: 34  --¡¿
+Fund id : 001291 --¡¾pageNo:10, maxPage: 10, (i+1): 29, trs.size: 34  --¡¿
+Fund id : 001291 --¡¾pageNo:10, maxPage: 10, (i+1): 30, trs.size: 34  --¡¿
+Fund id : 001291 --¡¾pageNo:10, maxPage: 10, (i+1): 31, trs.size: 34  --¡¿
+Fund id : 001291 --¡¾pageNo:10, maxPage: 10, (i+1): 32, trs.size: 34  --¡¿
+Fund id : 001291 --¡¾pageNo:10, maxPage: 10, (i+1): 33, trs.size: 34  --¡¿
+T^T  29.7872300%  T^T
+Fund Name: 667 . ÌìºëÖÐÖ¤È«Ö¸·¿µØ²úC
+Fund id : 001557 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --¡¿
+T^T  33.4261000%  T^T
+Fund Name: 668 . ÄÏ·½ÖÐÖ¤500ETFÁª½ÓC
+(¡Ñ_¡Ñ)  12.8719600%  (¡Ñ_¡Ñ)
+Fund Name: 669 . ³¤ÐÅÖÐÖ¤ÉÏº£¸Ä¸ï·¢Õ¹Ö÷ÌâÖ¸Êý
+Fund id : 501003 --¡¾pageNo:2, maxPage: 2, (i+1): 13, trs.size: 17  --¡¿
+Fund id : 501003 --¡¾pageNo:2, maxPage: 2, (i+1): 15, trs.size: 17  --¡¿
+Fund id : 501003 --¡¾pageNo:2, maxPage: 2, (i+1): 16, trs.size: 17  --¡¿
+(¡Ñ_¡Ñ)  2.0669300%  (¡Ñ_¡Ñ)
+Fund Name: 670 . ÃñÉú¼ÓÒøÖÐÖ¤¸Û¹ÉÍ¨Ö¸ÊýA
+Fund id : 004532 --¡¾pageNo:1, maxPage: 1, (i+1): 34, trs.size: 36  --¡¿
+Fund id : 004532 --¡¾pageNo:1, maxPage: 1, (i+1): 35, trs.size: 36  --¡¿
+(¡Ñ_¡Ñ)  1.0387800%  (¡Ñ_¡Ñ)
+Fund Name: 671 . ¼ÎÊµÖÐÖ¤½ðÈÚµØ²úETFÁª½Ó
+Fund id : 001539 --¡¾pageNo:10, maxPage: 10, (i+1): 26, trs.size: 29  --¡¿
+Fund id : 001539 --¡¾pageNo:10, maxPage: 10, (i+1): 27, trs.size: 29  --¡¿
+T^T  23.6034900%  T^T
+Fund Name: 672 . ¸»¹úÁ¿»¯»¦Éî300
+T^T  62.0618600%  T^T
+Fund Name: 673 . ¸»¹úÖÐÖ¤¹¤Òµ4.0Ö¸Êý·Ö¼¶
+Fund id : 161031 --¡¾pageNo:11, maxPage: 11, (i+1): 17, trs.size: 20  --¡¿
+Fund id : 161031 --¡¾pageNo:11, maxPage: 11, (i+1): 18, trs.size: 20  --¡¿
+Fund id : 161031 --¡¾pageNo:11, maxPage: 11, (i+1): 19, trs.size: 20  --¡¿
+T^T  53.1883000%  T^T
+Fund Name: 674 . ³¤Ê¢Í¬Èð200·Ö¼¶
+T^T  74.2857100%  T^T
+Fund Name: 675 . ÉêÍòÁâÐÅÖÐÖ¤500Ö¸ÊýÓÅÑ¡ÔöÇ¿
+Fund id : 003986 --¡¾pageNo:3, maxPage: 3, (i+1): 32, trs.size: 34  --¡¿
+Fund id : 003986 --¡¾pageNo:3, maxPage: 3, (i+1): 33, trs.size: 34  --¡¿
+(¡Ñ_¡Ñ)  15.7018300%  (¡Ñ_¡Ñ)
+Fund Name: 676 . ÄÏ·½´´Òµ°åETFÁª½ÓC
+(¡Ñ_¡Ñ)  13.5736100%  (¡Ñ_¡Ñ)
+Fund Name: 677 . ¹¤ÒøÖÐ¹úÖÆÔì2025¹ÉÆ±
+Fund id : 002386 --¡¾pageNo:2, maxPage: 2, (i+1): 16, trs.size: 19  --¡¿
+Fund id : 002386 --¡¾pageNo:2, maxPage: 2, (i+1): 17, trs.size: 19  --¡¿
+Fund id : 002386 --¡¾pageNo:2, maxPage: 2, (i+1): 18, trs.size: 19  --¡¿
+(¡Ñ_¡Ñ)  5.7034200%  (¡Ñ_¡Ñ)
+Fund Name: 678 . ÐÅ³Ï»¦Éî300·Ö¼¶
+T^T  58.7028500%  T^T
+Fund Name: 679 . ÕÐÉÌ¹úÖ¤ÉúÎïÒ½Ò©Ö¸Êý·Ö¼¶
+Fund id : 161726 --¡¾pageNo:11, maxPage: 11, (i+1): 30, trs.size: 32  --¡¿
+Fund id : 161726 --¡¾pageNo:11, maxPage: 11, (i+1): 31, trs.size: 32  --¡¿
+T^T  54.3135800%  T^T
+Fund Name: 680 . ³¤Ê¢ÖÐÖ¤½ðÈÚµØ²úÖ¸Êý·Ö¼¶
+Fund id : 160814 --¡¾pageNo:11, maxPage: 11, (i+1): 20, trs.size: 21  --¡¿
+T^T  35.3000000%  T^T
+Fund Name: 681 . ÕÐÉÌÉÏÖ¤Ïû·Ñ80ETFÁª½ÓA
+T^T  62.1812300%  T^T
+Fund Name: 682 . ÌìºëÖÐÖ¤Ö¤È¯±£ÏÕC
+Fund id : 001553 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --¡¿
+T^T  39.5800000%  T^T
+Fund Name: 683 . ¹úÌ©ÖÐÖ¤ÉêÍòÖ¤È¯ÐÐÒµÖ¸Êý
+Fund id : 501016 --¡¾pageNo:2, maxPage: 2, (i+1): 2, trs.size: 6  --¡¿
+Fund id : 501016 --¡¾pageNo:2, maxPage: 2, (i+1): 3, trs.size: 6  --¡¿
+Fund id : 501016 --¡¾pageNo:2, maxPage: 2, (i+1): 4, trs.size: 6  --¡¿
+(¡Ñ_¡Ñ)  8.3905800%  (¡Ñ_¡Ñ)
+Fund Name: 684 . Ò×·½´ïÉîÖ¤³ÉÖ¸ETFÁª½Ó
+(¡Ñ_¡Ñ)  6.1993600%  (¡Ñ_¡Ñ)
+Fund Name: 685 . Åô»ª»·±£²úÒµ¹ÉÆ±
+Fund id : 000409 --¡¾pageNo:16, maxPage: 17, (i+1): 48, trs.size: 50  --¡¿
+T^T  57.3019300%  T^T
+Fund Name: 686 . ÄÏ·½ÖÐÖ¤È«Ö¸Ö¤È¯ETFÁª½ÓA
+Fund id : 004069 --¡¾pageNo:2, maxPage: 2, (i+1): 35, trs.size: 39  --¡¿
+Fund id : 004069 --¡¾pageNo:2, maxPage: 2, (i+1): 36, trs.size: 39  --¡¿
+Fund id : 004069 --¡¾pageNo:2, maxPage: 2, (i+1): 37, trs.size: 39  --¡¿
+Fund id : 004069 --¡¾pageNo:2, maxPage: 2, (i+1): 38, trs.size: 39  --¡¿
+(¡Ñ_¡Ñ)  10.7993400%  (¡Ñ_¡Ñ)
+Fund Name: 687 . ¹ã·¢¶àÔªÐÂÐË¹ÉÆ±
+Fund id : 003745 --¡¾pageNo:2, maxPage: 2, (i+1): 3, trs.size: 8  --¡¿
+Fund id : 003745 --¡¾pageNo:2, maxPage: 2, (i+1): 4, trs.size: 8  --¡¿
+Fund id : 003745 --¡¾pageNo:2, maxPage: 2, (i+1): 5, trs.size: 8  --¡¿
+Fund id : 003745 --¡¾pageNo:2, maxPage: 2, (i+1): 6, trs.size: 8  --¡¿
+(¡Ñ_¡Ñ)  6.5328600%  (¡Ñ_¡Ñ)
+Fund Name: 688 . ÕÐÉÌÖÐÖ¤500Ö¸ÊýA
+Fund id : 004192 --¡¾pageNo:1, maxPage: 1, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 004192 --¡¾pageNo:1, maxPage: 1, (i+1): 49, trs.size: 50  --¡¿
+(¡Ñ_¡Ñ)  11.1259200%  (¡Ñ_¡Ñ)
+Fund Name: 689 . ´´½ðºÏÐÅ×ÊÔ´¹ÉÆ±·¢ÆðÊ½A
+T^T  22.1615000%  T^T
+Fund Name: 690 . ÕÐÉÌÖÐÖ¤1000Ö¸ÊýÔöÇ¿A
+(¡Ñ_¡Ñ)  17.0406700%  (¡Ñ_¡Ñ)
+Fund Name: 691 . Åô»ª»¦Éî¸Û»¥ÁªÍø¹ÉÆ±
+Fund id : 004292 --¡¾pageNo:2, maxPage: 2, (i+1): 27, trs.size: 29  --¡¿
+(¡Ñ_¡Ñ)  8.0375200%  (¡Ñ_¡Ñ)
+Fund Name: 692 . »ã·á½úÐÅºãÉúÁúÍ·Ö¸ÊýA
+T^T  58.4392800%  T^T
+Fund Name: 693 . ¹úÌ©ÖÇÄÜ×°±¸¹ÉÆ±
+Fund id : 001576 --¡¾pageNo:1, maxPage: 1, (i+1): 11, trs.size: 16  --¡¿
+Fund id : 001576 --¡¾pageNo:1, maxPage: 1, (i+1): 12, trs.size: 16  --¡¿
+(¡Ñ_¡Ñ)  4.2145600%  (¡Ñ_¡Ñ)
+Fund Name: 694 . Ç°º£¿ªÔ´¸Û¹ÉÍ¨¹ÉÏ¢ÂÊ50Ç¿
+Fund id : 001576 --¡¾pageNo:1, maxPage: 1, (i+1): 13, trs.size: 16  --¡¿
+Fund id : 001576 --¡¾pageNo:1, maxPage: 1, (i+1): 14, trs.size: 16  --¡¿
+Fund id : 001576 --¡¾pageNo:1, maxPage: 1, (i+1): 15, trs.size: 16  --¡¿
+Fund id : 004098 --¡¾pageNo:1, maxPage: 1, (i+1): 40, trs.size: 45  --¡¿
+Fund id : 004098 --¡¾pageNo:1, maxPage: 1, (i+1): 41, trs.size: 45  --¡¿
+Fund id : 004098 --¡¾pageNo:1, maxPage: 1, (i+1): 42, trs.size: 45  --¡¿
+Fund id : 004098 --¡¾pageNo:1, maxPage: 1, (i+1): 43, trs.size: 45  --¡¿
+Fund id : 004098 --¡¾pageNo:1, maxPage: 1, (i+1): 44, trs.size: 45  --¡¿
+(¡Ñ_¡Ñ)  4.1024700%  (¡Ñ_¡Ñ)
+Fund Name: 695 . ¼ÎÊµÖÐ¹Ø´åA¹ÉETF
+Fund id : 159951 --¡¾pageNo:1, maxPage: 1, (i+1): 19, trs.size: 25  --¡¿
+Fund id : 159951 --¡¾pageNo:1, maxPage: 1, (i+1): 21, trs.size: 25  --¡¿
+Fund id : 159951 --¡¾pageNo:1, maxPage: 1, (i+1): 22, trs.size: 25  --¡¿
+Fund id : 159951 --¡¾pageNo:1, maxPage: 1, (i+1): 23, trs.size: 25  --¡¿
+Fund id : 159951 --¡¾pageNo:1, maxPage: 1, (i+1): 24, trs.size: 25  --¡¿
+(¡Ñ_¡Ñ)  7.3759100%  (¡Ñ_¡Ñ)
+Fund Name: 696 . Åô»ª¼ÛÖµ¾«Ñ¡¹ÉÆ±
+T^T  58.2081800%  T^T
+Fund Name: 697 . ¼ÎÊµÌÚÑ¶×ÔÑ¡¹É´óÊý¾Ý²ßÂÔ¹ÉÆ±
+Fund id : 001637 --¡¾pageNo:8, maxPage: 8, (i+1): 16, trs.size: 25  --¡¿
+Fund id : 001637 --¡¾pageNo:8, maxPage: 8, (i+1): 17, trs.size: 25  --¡¿
+Fund id : 001637 --¡¾pageNo:8, maxPage: 8, (i+1): 18, trs.size: 25  --¡¿
+Fund id : 001637 --¡¾pageNo:8, maxPage: 8, (i+1): 19, trs.size: 25  --¡¿
+Fund id : 001637 --¡¾pageNo:8, maxPage: 8, (i+1): 20, trs.size: 25  --¡¿
+Fund id : 001637 --¡¾pageNo:8, maxPage: 8, (i+1): 21, trs.size: 25  --¡¿
+Fund id : 001637 --¡¾pageNo:8, maxPage: 8, (i+1): 22, trs.size: 25  --¡¿
+Fund id : 001637 --¡¾pageNo:8, maxPage: 8, (i+1): 23, trs.size: 25  --¡¿
+Fund id : 001637 --¡¾pageNo:8, maxPage: 8, (i+1): 24, trs.size: 25  --¡¿
+T^T  20.1058200%  T^T
+Fund Name: 698 . ÖÐÈÚÁ¿»¯Ð¡ÅÌ¹ÉÆ±C
+Fund id : 004273 --¡¾pageNo:1, maxPage: 1, (i+1): 35, trs.size: 40  --¡¿
+Fund id : 004273 --¡¾pageNo:1, maxPage: 1, (i+1): 36, trs.size: 40  --¡¿
+Fund id : 004273 --¡¾pageNo:1, maxPage: 1, (i+1): 37, trs.size: 40  --¡¿
+Fund id : 004273 --¡¾pageNo:1, maxPage: 1, (i+1): 38, trs.size: 40  --¡¿
+Fund id : 004273 --¡¾pageNo:1, maxPage: 1, (i+1): 39, trs.size: 40  --¡¿
+(¡Ñ_¡Ñ)  8.7398200%  (¡Ñ_¡Ñ)
+Fund Name: 699 . ¹¤ÒøÕ½ÂÔ×ªÐÍ¹ÉÆ±
+Fund id : 000991 --¡¾pageNo:12, maxPage: 12, (i+1): 47, trs.size: 49  --¡¿
+T^T  52.5873200%  T^T
+Fund Name: 700 . ¼ÎÊµÎïÁ÷²úÒµ¹ÉÆ±A
+Fund id : 003298 --¡¾pageNo:3, maxPage: 3, (i+1): 15, trs.size: 24  --¡¿
+Fund id : 003298 --¡¾pageNo:3, maxPage: 3, (i+1): 16, trs.size: 24  --¡¿
+Fund id : 003298 --¡¾pageNo:3, maxPage: 3, (i+1): 18, trs.size: 24  --¡¿
+Fund id : 003298 --¡¾pageNo:3, maxPage: 3, (i+1): 19, trs.size: 24  --¡¿
+Fund id : 003298 --¡¾pageNo:3, maxPage: 3, (i+1): 20, trs.size: 24  --¡¿
+Fund id : 003298 --¡¾pageNo:3, maxPage: 3, (i+1): 21, trs.size: 24  --¡¿
+(¡Ñ_¡Ñ)  10.2820700%  (¡Ñ_¡Ñ)
+Fund Name: 701 . ¼ÎÊµ¸»Ê±ÖÐ¹úA50ETFÁª½Ó
+Fund id : 004488 --¡¾pageNo:1, maxPage: 1, (i+1): 21, trs.size: 23  --¡¿
+(¡Ñ_¡Ñ)  1.4001200%  (¡Ñ_¡Ñ)
+Fund Name: 702 . ÌìºëÖÐÖ¤ÒÆ¶¯»¥ÁªÍøC
+Fund id : 001561 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 11  --¡¿
+T^T  45.0500000%  T^T
+Fund Name: 703 . ÖÐÒøÖÐÖ¤100
+T^T  57.2433200%  T^T
+Fund Name: 704 . ´´½ðºÏÐÅÖÐÖ¤1000Ö¸ÊýÔöÇ¿C
+(¡Ñ_¡Ñ)  13.9457400%  (¡Ñ_¡Ñ)
+Fund Name: 705 . ½¨ÐÅ¸ß¶ËÒ½ÁÆ¹ÉÆ±
+Fund id : 004683 --¡¾pageNo:1, maxPage: 1, (i+1): 1, trs.size: 3  --¡¿
+Fund id : 004683 --¡¾pageNo:1, maxPage: 1, (i+1): 2, trs.size: 3  --¡¿
+(¡Ñ_¡Ñ)  0%  (¡Ñ_¡Ñ)
+Fund Name: 706 . Åµ°²¸ß¶ËÖÆÔì¹ÉÆ±
+Fund id : 001707 --¡¾pageNo:1, maxPage: 1, (i+1): 15, trs.size: 21  --¡¿
+Fund id : 001707 --¡¾pageNo:1, maxPage: 1, (i+1): 16, trs.size: 21  --¡¿
+Fund id : 001707 --¡¾pageNo:1, maxPage: 1, (i+1): 17, trs.size: 21  --¡¿
+Fund id : 001707 --¡¾pageNo:1, maxPage: 1, (i+1): 18, trs.size: 21  --¡¿
+Fund id : 001707 --¡¾pageNo:1, maxPage: 1, (i+1): 19, trs.size: 21  --¡¿
+(¡Ñ_¡Ñ)  2.2482900%  (¡Ñ_¡Ñ)
+Fund Name: 707 . ¼ÎÊµÇ°ÑØ¿Æ¼¼»¦¸ÛÉî¹ÉÆ±
+Fund id : 004450 --¡¾pageNo:1, maxPage: 1, (i+1): 24, trs.size: 30  --¡¿
+Fund id : 004450 --¡¾pageNo:1, maxPage: 1, (i+1): 25, trs.size: 30  --¡¿
+Fund id : 004450 --¡¾pageNo:1, maxPage: 1, (i+1): 26, trs.size: 30  --¡¿
+Fund id : 004450 --¡¾pageNo:1, maxPage: 1, (i+1): 27, trs.size: 30  --¡¿
+Fund id : 004450 --¡¾pageNo:1, maxPage: 1, (i+1): 28, trs.size: 30  --¡¿
+Fund id : 004450 --¡¾pageNo:1, maxPage: 1, (i+1): 29, trs.size: 30  --¡¿
+(¡Ñ_¡Ñ)  9.5971600%  (¡Ñ_¡Ñ)
+Fund Name: 708 . Ò×·½´ï¾ü¹¤·Ö¼¶
+T^T  50.0000000%  T^T
+Fund Name: 709 . ±¦Ó¯¹ú¼Ò°²È«»¦¸ÛÉî¹ÉÆ±
+Fund id : 001877 --¡¾pageNo:8, maxPage: 8, (i+1): 8, trs.size: 14  --¡¿
+Fund id : 001877 --¡¾pageNo:8, maxPage: 8, (i+1): 9, trs.size: 14  --¡¿
+Fund id : 001877 --¡¾pageNo:8, maxPage: 8, (i+1): 10, trs.size: 14  --¡¿
+T^T  28.5253800%  T^T
+Fund Name: 710 . ÄÏ·½¿ªÔª»¦Éî300ETFÁª½ÓC
+(¡Ñ_¡Ñ)  13.0240900%  (¡Ñ_¡Ñ)
+Fund Name: 711 . ÖÐÖ¤²ÆÍ¨¿É³ÖÐø·¢Õ¹100Ö¸ÊýA
+T^T  60.7744900%  T^T
+Fund Name: 712 . »ª°²ÎïÁªÍøÖ÷Ìâ¹ÉÆ±
+Fund id : 001028 --¡¾pageNo:12, maxPage: 12, (i+1): 2, trs.size: 11  --¡¿
+Fund id : 001028 --¡¾pageNo:12, maxPage: 12, (i+1): 3, trs.size: 11  --¡¿
+Fund id : 001028 --¡¾pageNo:12, maxPage: 12, (i+1): 4, trs.size: 11  --¡¿
+Fund id : 001028 --¡¾pageNo:12, maxPage: 12, (i+1): 5, trs.size: 11  --¡¿
+Fund id : 001028 --¡¾pageNo:12, maxPage: 12, (i+1): 6, trs.size: 11  --¡¿
+Fund id : 001028 --¡¾pageNo:12, maxPage: 12, (i+1): 7, trs.size: 11  --¡¿
+Fund id : 001028 --¡¾pageNo:12, maxPage: 12, (i+1): 8, trs.size: 11  --¡¿
+Fund id : 001028 --¡¾pageNo:12, maxPage: 12, (i+1): 9, trs.size: 11  --¡¿
+Fund id : 001028 --¡¾pageNo:12, maxPage: 12, (i+1): 10, trs.size: 11  --¡¿
+T^T  55.2532100%  T^T
+Fund Name: 713 . ÕÐÉÌ²Æ¾­´óÊý¾Ý¹ÉÆ±
+Fund id : 003416 --¡¾pageNo:4, maxPage: 4, (i+1): 25, trs.size: 28  --¡¿
+Fund id : 003416 --¡¾pageNo:4, maxPage: 4, (i+1): 26, trs.size: 28  --¡¿
+Fund id : 003416 --¡¾pageNo:4, maxPage: 4, (i+1): 27, trs.size: 28  --¡¿
+T^T  24.9466700%  T^T
+Fund Name: 714 . Íò¼ÒÖÐ´´Ö¸Êý·Ö¼¶
+T^T  70.5382600%  T^T
+Fund Name: 715 . Ò×·½´ïÉÏÖ¤ÖÐÅÌETFÁª½ÓC
+(¡Ñ_¡Ñ)  9.8060600%  (¡Ñ_¡Ñ)
+Fund Name: 716 . ¹ã·¢´´Òµ°åETF
+Fund id : 159952 --¡¾pageNo:2, maxPage: 2, (i+1): 3, trs.size: 7  --¡¿
+Fund id : 159952 --¡¾pageNo:2, maxPage: 2, (i+1): 4, trs.size: 7  --¡¿
+Fund id : 159952 --¡¾pageNo:2, maxPage: 2, (i+1): 5, trs.size: 7  --¡¿
+Fund id : 159952 --¡¾pageNo:2, maxPage: 2, (i+1): 6, trs.size: 7  --¡¿
+(¡Ñ_¡Ñ)  9.7041100%  (¡Ñ_¡Ñ)
+Fund Name: 717 . ÃñÉú¼ÓÒøÖÐÖ¤¸Û¹ÉÍ¨Ö¸ÊýC
+Fund id : 004533 --¡¾pageNo:1, maxPage: 1, (i+1): 34, trs.size: 36  --¡¿
+Fund id : 004533 --¡¾pageNo:1, maxPage: 1, (i+1): 35, trs.size: 36  --¡¿
+(¡Ñ_¡Ñ)  0.9997000%  (¡Ñ_¡Ñ)
+Fund Name: 718 . Æ½°²´ó»ª¹ÉÏ¢¾«Ñ¡»¦¸ÛÉîA
+(¡Ñ_¡Ñ)  3.4376200%  (¡Ñ_¡Ñ)
+Fund Name: 719 . Ò×·½´ïÉîÖ¤100ETFÁª½ÓC
+(¡Ñ_¡Ñ)  7.8716200%  (¡Ñ_¡Ñ)
+Fund Name: 720 . »ª±¦ÉÏÖ¤180¼ÛÖµETF
+T^T  83.6367000%  T^T
+Fund Name: 721 . ¹úÌ©ÖÐÖ¤¹úÓÐÆóÒµ¸Ä¸ïÖ¸Êý
+Fund id : 501020 --¡¾pageNo:2, maxPage: 2, (i+1): 21, trs.size: 25  --¡¿
+Fund id : 501020 --¡¾pageNo:2, maxPage: 2, (i+1): 22, trs.size: 25  --¡¿
+Fund id : 501020 --¡¾pageNo:2, maxPage: 2, (i+1): 23, trs.size: 25  --¡¿
+Fund id : 501020 --¡¾pageNo:2, maxPage: 2, (i+1): 24, trs.size: 25  --¡¿
+(¡Ñ_¡Ñ)  8.8964300%  (¡Ñ_¡Ñ)
+Fund Name: 722 . Ò×·½´ïÖÐÖ¤È«Ö¸Ö¤È¯ETF
+(¡Ñ_¡Ñ)  0%  (¡Ñ_¡Ñ)
+Fund Name: 723 . ¸»¹úÖÐÖ¤ºìÀûÖ¸ÊýÔöÇ¿
+T^T  63.5313500%  T^T
+Fund Name: 724 . µÂ°îÁ¿»¯ÓÅÑ¡¹ÉÆ±(LOF)A
+Fund id : 167702 --¡¾pageNo:2, maxPage: 2, (i+1): 37, trs.size: 38  --¡¿
+(¡Ñ_¡Ñ)  15.3606400%  (¡Ñ_¡Ñ)
+Fund Name: 725 . ´ó³É¸ßÐÂ¼¼Êõ²úÒµ¹ÉÆ±
+Fund id : 000628 --¡¾pageNo:12, maxPage: 13, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 000628 --¡¾pageNo:12, maxPage: 13, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 000628 --¡¾pageNo:12, maxPage: 13, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 000628 --¡¾pageNo:13, maxPage: 13, (i+1): 1, trs.size: 3  --¡¿
+Fund id : 000628 --¡¾pageNo:13, maxPage: 13, (i+1): 2, trs.size: 3  --¡¿
+T^T  46.5762700%  T^T
+Fund Name: 726 . »ª°²ÉÏÖ¤ÁúÍ·Áª½Ó
+T^T  62.1994900%  T^T
+Fund Name: 727 . ±±ÐÅÈð·áÑÐ¾¿¾«Ñ¡
+Fund id : 004352 --¡¾pageNo:1, maxPage: 1, (i+1): 5, trs.size: 10  --¡¿
+Fund id : 004352 --¡¾pageNo:1, maxPage: 1, (i+1): 6, trs.size: 10  --¡¿
+Fund id : 004352 --¡¾pageNo:1, maxPage: 1, (i+1): 7, trs.size: 10  --¡¿
+(¡Ñ_¡Ñ)  0.6062400%  (¡Ñ_¡Ñ)
+Fund Name: 728 . »ª±¦ÐËÒµÖÐÖ¤ÒøÐÐETF
+Fund id : 004352 --¡¾pageNo:1, maxPage: 1, (i+1): 8, trs.size: 10  --¡¿
+Fund id : 004352 --¡¾pageNo:1, maxPage: 1, (i+1): 9, trs.size: 10  --¡¿
+(¡Ñ_¡Ñ)  0.7800900%  (¡Ñ_¡Ñ)
+Fund Name: 729 . ÄÏ·½ÖÐÖ¤500ETFÁª½ÓA
+T^T  74.0718400%  T^T
+Fund Name: 730 . Ò×·½´ï´´Òµ°åETFÁª½ÓC
+(¡Ñ_¡Ñ)  9.8351200%  (¡Ñ_¡Ñ)
+Fund Name: 731 . »ª±¦±êÆÕÖÐ¹úA¹ÉºìÀû»ú»áÖ¸Êý
+(¡Ñ_¡Ñ)  10.1425300%  (¡Ñ_¡Ñ)
+Fund Name: 732 . ÈÚÍ¨ÉîÖ¤100
+T^T  69.2816600%  T^T
+Fund Name: 733 . »ãÌí¸»ÖÐÖ¤»¥ÁªÍøÒ½ÁÆÖ¸ÊýA
+Fund id : 501007 --¡¾pageNo:3, maxPage: 3, (i+1): 14, trs.size: 25  --¡¿
+Fund id : 501007 --¡¾pageNo:3, maxPage: 3, (i+1): 16, trs.size: 25  --¡¿
+Fund id : 501007 --¡¾pageNo:3, maxPage: 3, (i+1): 18, trs.size: 25  --¡¿
+Fund id : 501007 --¡¾pageNo:3, maxPage: 3, (i+1): 19, trs.size: 25  --¡¿
+Fund id : 501007 --¡¾pageNo:3, maxPage: 3, (i+1): 20, trs.size: 25  --¡¿
+Fund id : 501007 --¡¾pageNo:3, maxPage: 3, (i+1): 21, trs.size: 25  --¡¿
+Fund id : 501007 --¡¾pageNo:3, maxPage: 3, (i+1): 23, trs.size: 25  --¡¿
+(¡Ñ_¡Ñ)  12.9144700%  (¡Ñ_¡Ñ)
+Fund Name: 734 . ´óÄ¦î£³É´óÅÌµ¯ÐÔ¹ÉÆ±
+Fund id : 003311 --¡¾pageNo:2, maxPage: 2, (i+1): 8, trs.size: 13  --¡¿
+Fund id : 003311 --¡¾pageNo:2, maxPage: 2, (i+1): 9, trs.size: 13  --¡¿
+Fund id : 003311 --¡¾pageNo:2, maxPage: 2, (i+1): 10, trs.size: 13  --¡¿
+Fund id : 003311 --¡¾pageNo:2, maxPage: 2, (i+1): 11, trs.size: 13  --¡¿
+Fund id : 003311 --¡¾pageNo:2, maxPage: 2, (i+1): 12, trs.size: 13  --¡¿
+(¡Ñ_¡Ñ)  8.7620800%  (¡Ñ_¡Ñ)
+Fund Name: 735 . ¹úÊÙ°²±£³É³¤ÓÅÑ¡¹ÉÆ±
+Fund id : 001521 --¡¾pageNo:8, maxPage: 8, (i+1): 28, trs.size: 33  --¡¿
+Fund id : 001521 --¡¾pageNo:8, maxPage: 8, (i+1): 29, trs.size: 33  --¡¿
+Fund id : 001521 --¡¾pageNo:8, maxPage: 8, (i+1): 30, trs.size: 33  --¡¿
+Fund id : 001521 --¡¾pageNo:8, maxPage: 8, (i+1): 31, trs.size: 33  --¡¿
+Fund id : 001521 --¡¾pageNo:8, maxPage: 8, (i+1): 32, trs.size: 33  --¡¿
+T^T  26.6779900%  T^T
+Fund Name: 736 . ÉêÍòÁâÐÅÉîÖ¤³ÉÖ¸·Ö¼¶
+T^T  56.1998000%  T^T
+Fund Name: 737 . »ªÏÄÄÜÔ´¸ïÐÂ¹ÉÆ±
+Fund id : 003834 --¡¾pageNo:1, maxPage: 1, (i+1): 20, trs.size: 25  --¡¿
+Fund id : 003834 --¡¾pageNo:1, maxPage: 1, (i+1): 21, trs.size: 25  --¡¿
+Fund id : 003834 --¡¾pageNo:1, maxPage: 1, (i+1): 22, trs.size: 25  --¡¿
+Fund id : 003834 --¡¾pageNo:1, maxPage: 1, (i+1): 23, trs.size: 25  --¡¿
+Fund id : 003834 --¡¾pageNo:1, maxPage: 1, (i+1): 24, trs.size: 25  --¡¿
+(¡Ñ_¡Ñ)  5.7492900%  (¡Ñ_¡Ñ)
+Fund Name: 738 . ÕÐÉÌÐÐÒµ¾«Ñ¡¹ÉÆ±
+Fund id : 000746 --¡¾pageNo:14, maxPage: 14, (i+1): 43, trs.size: 48  --¡¿
+Fund id : 000746 --¡¾pageNo:14, maxPage: 14, (i+1): 44, trs.size: 48  --¡¿
+Fund id : 000746 --¡¾pageNo:14, maxPage: 14, (i+1): 45, trs.size: 48  --¡¿
+Fund id : 000746 --¡¾pageNo:14, maxPage: 14, (i+1): 46, trs.size: 48  --¡¿
+Fund id : 000746 --¡¾pageNo:14, maxPage: 14, (i+1): 47, trs.size: 48  --¡¿
+T^T  56.5709300%  T^T
+Fund Name: 739 . ¹úÊÙ°²±£ÖÐÖ¤500ETFÁª½Ó
+Fund id : 001241 --¡¾pageNo:11, maxPage: 11, (i+1): 11, trs.size: 17  --¡¿
+Fund id : 001241 --¡¾pageNo:11, maxPage: 11, (i+1): 12, trs.size: 17  --¡¿
+Fund id : 001241 --¡¾pageNo:11, maxPage: 11, (i+1): 13, trs.size: 17  --¡¿
+Fund id : 001241 --¡¾pageNo:11, maxPage: 11, (i+1): 14, trs.size: 17  --¡¿
+Fund id : 001241 --¡¾pageNo:11, maxPage: 11, (i+1): 15, trs.size: 17  --¡¿
+Fund id : 001241 --¡¾pageNo:11, maxPage: 11, (i+1): 16, trs.size: 17  --¡¿
+T^T  53.6249500%  T^T
+Fund Name: 740 . ¹ã·¢È«Ö¸¹¤ÒµETFÁª½Ó
+Fund id : 004593 --¡¾pageNo:1, maxPage: 1, (i+1): 16, trs.size: 21  --¡¿
+Fund id : 004593 --¡¾pageNo:1, maxPage: 1, (i+1): 17, trs.size: 21  --¡¿
+Fund id : 004593 --¡¾pageNo:1, maxPage: 1, (i+1): 18, trs.size: 21  --¡¿
+Fund id : 004593 --¡¾pageNo:1, maxPage: 1, (i+1): 19, trs.size: 21  --¡¿
+Fund id : 004593 --¡¾pageNo:1, maxPage: 1, (i+1): 20, trs.size: 21  --¡¿
+(¡Ñ_¡Ñ)  4.2707700%  (¡Ñ_¡Ñ)
+Fund Name: 741 . ½»ÒøÏû·ÑÐÂÇý¶¯¹ÉÆ±
+Fund id : 519714 --¡¾pageNo:23, maxPage: 23, (i+1): 33, trs.size: 34  --¡¿
+T^T  67.9324900%  T^T
+Fund Name: 742 . Æ½°²´ó»ª¹ÉÏ¢¾«Ñ¡»¦¸ÛÉîC
+(¡Ñ_¡Ñ)  3.1948900%  (¡Ñ_¡Ñ)
+Fund Name: 743 . ÄÏ·½ÒøÐÐETFÁª½ÓA
+(¡Ñ_¡Ñ)  0.3487400%  (¡Ñ_¡Ñ)
+Fund Name: 744 . ¹¤Òø¹¤Òµ4.0¹ÉÆ±
+Fund id : 004597 --¡¾pageNo:1, maxPage: 1, (i+1): 4, trs.size: 9  --¡¿
+Fund id : 004597 --¡¾pageNo:1, maxPage: 1, (i+1): 5, trs.size: 9  --¡¿
+Fund id : 004597 --¡¾pageNo:1, maxPage: 1, (i+1): 6, trs.size: 9  --¡¿
+Fund id : 004597 --¡¾pageNo:1, maxPage: 1, (i+1): 7, trs.size: 9  --¡¿
+Fund id : 001649 --¡¾pageNo:1, maxPage: 1, (i+1): 20, trs.size: 23  --¡¿
+Fund id : 001649 --¡¾pageNo:1, maxPage: 1, (i+1): 21, trs.size: 23  --¡¿
+Fund id : 001649 --¡¾pageNo:1, maxPage: 1, (i+1): 22, trs.size: 23  --¡¿
+(¡Ñ_¡Ñ)  0.7944400%  (¡Ñ_¡Ñ)
+Fund Name: 745 . »ã·á½úÐÅ´óÅÌ²¨¶¯¹ÉÆ±A
+T^T  21.9780200%  T^T
+Fund Name: 746 . ¼ÎÊµ´´Òµ°åETF
+Fund id : 159955 --¡¾pageNo:1, maxPage: 1, (i+1): 1, trs.size: 3  --¡¿
+Fund id : 159955 --¡¾pageNo:1, maxPage: 1, (i+1): 2, trs.size: 3  --¡¿
+(¡Ñ_¡Ñ)  0%  (¡Ñ_¡Ñ)
+Fund Name: 747 . ÖÐÈÚÁ¿»¯Ð¡ÅÌ¹ÉÆ±A
+Fund id : 004272 --¡¾pageNo:1, maxPage: 1, (i+1): 35, trs.size: 40  --¡¿
+Fund id : 004272 --¡¾pageNo:1, maxPage: 1, (i+1): 36, trs.size: 40  --¡¿
+Fund id : 004272 --¡¾pageNo:1, maxPage: 1, (i+1): 37, trs.size: 40  --¡¿
+Fund id : 004272 --¡¾pageNo:1, maxPage: 1, (i+1): 38, trs.size: 40  --¡¿
+Fund id : 004272 --¡¾pageNo:1, maxPage: 1, (i+1): 39, trs.size: 40  --¡¿
+(¡Ñ_¡Ñ)  9.0511300%  (¡Ñ_¡Ñ)
+Fund Name: 748 . »ãÌí¸»ÃñÓªÐÂ¶¯Á¦¹ÉÆ±
+Fund id : 001541 --¡¾pageNo:9, maxPage: 9, (i+1): 37, trs.size: 49  --¡¿
+Fund id : 001541 --¡¾pageNo:9, maxPage: 9, (i+1): 38, trs.size: 49  --¡¿
+Fund id : 001541 --¡¾pageNo:9, maxPage: 9, (i+1): 41, trs.size: 49  --¡¿
+Fund id : 001541 --¡¾pageNo:9, maxPage: 9, (i+1): 42, trs.size: 49  --¡¿
+Fund id : 001541 --¡¾pageNo:9, maxPage: 9, (i+1): 43, trs.size: 49  --¡¿
+Fund id : 001541 --¡¾pageNo:9, maxPage: 9, (i+1): 44, trs.size: 49  --¡¿
+Fund id : 001541 --¡¾pageNo:9, maxPage: 9, (i+1): 45, trs.size: 49  --¡¿
+Fund id : 001541 --¡¾pageNo:9, maxPage: 9, (i+1): 46, trs.size: 49  --¡¿
+Fund id : 001541 --¡¾pageNo:9, maxPage: 9, (i+1): 47, trs.size: 49  --¡¿
+Fund id : 001541 --¡¾pageNo:9, maxPage: 9, (i+1): 48, trs.size: 49  --¡¿
+T^T  26.0323200%  T^T
+Fund Name: 749 . Ò×·½´ïÉîÖ¤³ÉÖ¸ETF
+Fund id : 159950 --¡¾pageNo:2, maxPage: 2, (i+1): 12, trs.size: 15  --¡¿
+Fund id : 159950 --¡¾pageNo:2, maxPage: 2, (i+1): 13, trs.size: 15  --¡¿
+(¡Ñ_¡Ñ)  8.0540000%  (¡Ñ_¡Ñ)
+Fund Name: 750 . ¹ú½ð»¦Éî300Ö¸Êý·Ö¼¶
+T^T  51.9066400%  T^T
+Fund Name: 751 . »ª±¦ÐËÒµÏã¸Û´óÅÌ
+(¡Ñ_¡Ñ)  8.1961100%  (¡Ñ_¡Ñ)
+Fund Name: 752 . ²©Ê±¾ü¹¤Ö÷Ìâ¹ÉÆ±
+Fund id : 004698 --¡¾pageNo:1, maxPage: 1, (i+1): 2, trs.size: 7  --¡¿
+Fund id : 004698 --¡¾pageNo:1, maxPage: 1, (i+1): 3, trs.size: 7  --¡¿
+Fund id : 004698 --¡¾pageNo:1, maxPage: 1, (i+1): 4, trs.size: 7  --¡¿
+Fund id : 004698 --¡¾pageNo:1, maxPage: 1, (i+1): 5, trs.size: 7  --¡¿
+Fund id : 004698 --¡¾pageNo:1, maxPage: 1, (i+1): 6, trs.size: 7  --¡¿
+(¡Ñ_¡Ñ)  0.0999000%  (¡Ñ_¡Ñ)
+Fund Name: 753 . ¹ã·¢´´Òµ°åETFÁª½ÓC
+Fund id : 003766 --¡¾pageNo:1, maxPage: 1, (i+1): 34, trs.size: 38  --¡¿
+Fund id : 003766 --¡¾pageNo:1, maxPage: 1, (i+1): 35, trs.size: 38  --¡¿
+Fund id : 003766 --¡¾pageNo:1, maxPage: 1, (i+1): 36, trs.size: 38  --¡¿
+(¡Ñ_¡Ñ)  9.6828200%  (¡Ñ_¡Ñ)
+Fund Name: 754 . Åô»ªÖÐÖ¤¿ÕÌìÒ»Ìå(LOF)
+Fund id : 160643 --¡¾pageNo:1, maxPage: 1, (i+1): 34, trs.size: 35  --¡¿
+(¡Ñ_¡Ñ)  5.8458200%  (¡Ñ_¡Ñ)
+Fund Name: 755 . ÖÐÒø»¥ÁªÍø+¹ÉÆ±
+Fund id : 001663 --¡¾pageNo:9, maxPage: 10, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 001663 --¡¾pageNo:9, maxPage: 10, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 001663 --¡¾pageNo:10, maxPage: 10, (i+1): 1, trs.size: 8  --¡¿
+Fund id : 001663 --¡¾pageNo:10, maxPage: 10, (i+1): 2, trs.size: 8  --¡¿
+Fund id : 001663 --¡¾pageNo:10, maxPage: 10, (i+1): 3, trs.size: 8  --¡¿
+Fund id : 001663 --¡¾pageNo:10, maxPage: 10, (i+1): 4, trs.size: 8  --¡¿
+Fund id : 001663 --¡¾pageNo:10, maxPage: 10, (i+1): 5, trs.size: 8  --¡¿
+Fund id : 001663 --¡¾pageNo:10, maxPage: 10, (i+1): 6, trs.size: 8  --¡¿
+T^T  34.7305400%  T^T
+Fund Name: 756 . »ªÏÄÁìÏÈ¹ÉÆ±
+Fund id : 001042 --¡¾pageNo:11, maxPage: 11, (i+1): 19, trs.size: 24  --¡¿
+Fund id : 001042 --¡¾pageNo:11, maxPage: 11, (i+1): 20, trs.size: 24  --¡¿
+Fund id : 001042 --¡¾pageNo:11, maxPage: 11, (i+1): 21, trs.size: 24  --¡¿
+Fund id : 001042 --¡¾pageNo:11, maxPage: 11, (i+1): 22, trs.size: 24  --¡¿
+Fund id : 001042 --¡¾pageNo:11, maxPage: 11, (i+1): 23, trs.size: 24  --¡¿
+T^T  48.3700400%  T^T
+Fund Name: 757 . ÖÐÅ·µç×ÓÐÅÏ¢²úÒµ»¦¸ÛÉî¹ÉÆ±
+Fund id : 004616 --¡¾pageNo:1, maxPage: 1, (i+1): 1, trs.size: 4  --¡¿
+Fund id : 004616 --¡¾pageNo:1, maxPage: 1, (i+1): 2, trs.size: 4  --¡¿
+Fund id : 004616 --¡¾pageNo:1, maxPage: 1, (i+1): 3, trs.size: 4  --¡¿
+(¡Ñ_¡Ñ)  0.0299900%  (¡Ñ_¡Ñ)
+Fund Name: 758 . ÄÏ·½´óÊý¾Ý100C
+(¡Ñ_¡Ñ)  13.8181000%  (¡Ñ_¡Ñ)
+Fund Name: 759 . ÄÏ·½ÉîÖ¤³É·ÝETFÁª½ÓC
+(¡Ñ_¡Ñ)  7.9545500%  (¡Ñ_¡Ñ)
+Fund Name: 760 . ¹ã·¢Ò½Ò©ÎÀÉúÁª½ÓC
+(¡Ñ_¡Ñ)  9.0033300%  (¡Ñ_¡Ñ)
+Fund Name: 761 . ¹ã·¢ÖÐÖ¤È«Ö¸¹¤ÒµETF
+Fund id : 159953 --¡¾pageNo:1, maxPage: 1, (i+1): 15, trs.size: 20  --¡¿
+Fund id : 159953 --¡¾pageNo:1, maxPage: 1, (i+1): 16, trs.size: 20  --¡¿
+Fund id : 159953 --¡¾pageNo:1, maxPage: 1, (i+1): 17, trs.size: 20  --¡¿
+Fund id : 159953 --¡¾pageNo:1, maxPage: 1, (i+1): 18, trs.size: 20  --¡¿
+Fund id : 159953 --¡¾pageNo:1, maxPage: 1, (i+1): 19, trs.size: 20  --¡¿
+(¡Ñ_¡Ñ)  4.4280400%  (¡Ñ_¡Ñ)
+Fund Name: 762 . ¹ú¸»ÖÐÐ¡ÅÌ
+T^T  68.9820400%  T^T
+Fund Name: 763 . ÐÅ³ÏÁ¿»¯°¢¶û·¨¹ÉÆ±
+Fund id : 004716 --¡¾pageNo:1, maxPage: 1, (i+1): 1, trs.size: 4  --¡¿
+Fund id : 004716 --¡¾pageNo:1, maxPage: 1, (i+1): 2, trs.size: 4  --¡¿
+Fund id : 004716 --¡¾pageNo:1, maxPage: 1, (i+1): 3, trs.size: 4  --¡¿
+(¡Ñ_¡Ñ)  0.0200000%  (¡Ñ_¡Ñ)
+Fund Name: 764 . ¸»¹úÖÐÖ¤¸ß¶ËÖÆÔìÖ¸ÊýÔöÇ¿ÐÍ
+(¡Ñ_¡Ñ)  9.3121200%  (¡Ñ_¡Ñ)
+Fund Name: 765 . ÄÏ·½ÒøÐÐETFÁª½ÓC
+Fund id : 004598 --¡¾pageNo:1, maxPage: 1, (i+1): 4, trs.size: 9  --¡¿
+Fund id : 004598 --¡¾pageNo:1, maxPage: 1, (i+1): 5, trs.size: 9  --¡¿
+Fund id : 004598 --¡¾pageNo:1, maxPage: 1, (i+1): 6, trs.size: 9  --¡¿
+Fund id : 004598 --¡¾pageNo:1, maxPage: 1, (i+1): 7, trs.size: 9  --¡¿
+(¡Ñ_¡Ñ)  0.2990700%  (¡Ñ_¡Ñ)
+Fund Name: 766 . ¹úÌ©´óÅ©Òµ¹ÉÆ±
+Fund id : 001579 --¡¾pageNo:1, maxPage: 1, (i+1): 14, trs.size: 19  --¡¿
+Fund id : 001579 --¡¾pageNo:1, maxPage: 1, (i+1): 15, trs.size: 19  --¡¿
+Fund id : 001579 --¡¾pageNo:1, maxPage: 1, (i+1): 16, trs.size: 19  --¡¿
+Fund id : 001579 --¡¾pageNo:1, maxPage: 1, (i+1): 17, trs.size: 19  --¡¿
+(¡Ñ_¡Ñ)  1.1869400%  (¡Ñ_¡Ñ)
+Fund Name: 767 . ÕÐÉÌÖÐÖ¤500Ö¸ÊýC
+Fund id : 004193 --¡¾pageNo:1, maxPage: 1, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 004193 --¡¾pageNo:1, maxPage: 1, (i+1): 49, trs.size: 50  --¡¿
+(¡Ñ_¡Ñ)  11.7922000%  (¡Ñ_¡Ñ)
+Fund Name: 768 . ÖÐÖ¤²ÆÍ¨¿É³ÖÐø·¢Õ¹100Ö¸ÊýC
+(¡Ñ_¡Ñ)  0%  (¡Ñ_¡Ñ)
+Fund Name: 769 . ¹¤ÒøÖÇÄÜÖÆÔì¹ÉÆ±
+Fund id : 002861 --¡¾pageNo:1, maxPage: 1, (i+1): 15, trs.size: 19  --¡¿
+Fund id : 002861 --¡¾pageNo:1, maxPage: 1, (i+1): 16, trs.size: 19  --¡¿
+Fund id : 002861 --¡¾pageNo:1, maxPage: 1, (i+1): 17, trs.size: 19  --¡¿
+(¡Ñ_¡Ñ)  0.8919700%  (¡Ñ_¡Ñ)
+Fund Name: 770 . ¾°Ë³³¤³Ç»¦¸ÛÉîÁìÏÈ¿Æ¼¼
+Fund id : 002861 --¡¾pageNo:1, maxPage: 1, (i+1): 18, trs.size: 19  --¡¿
+Fund id : 004476 --¡¾pageNo:1, maxPage: 1, (i+1): 1, trs.size: 5  --¡¿
+Fund id : 004476 --¡¾pageNo:1, maxPage: 1, (i+1): 2, trs.size: 5  --¡¿
+Fund id : 004476 --¡¾pageNo:1, maxPage: 1, (i+1): 3, trs.size: 5  --¡¿
+(¡Ñ_¡Ñ)  0.4980100%  (¡Ñ_¡Ñ)
+Fund Name: 771 . Ò×·½´ïÖÐÖ¤¾ü¹¤ETF
+Fund id : 512560 --¡¾pageNo:1, maxPage: 1, (i+1): 7, trs.size: 9  --¡¿
+Fund id : 512560 --¡¾pageNo:1, maxPage: 1, (i+1): 8, trs.size: 9  --¡¿
+(¡Ñ_¡Ñ)  4.1093200%  (¡Ñ_¡Ñ)
+Fund Name: 772 . ¹úÌ©¹úÖ¤º½Ìì¾ü¹¤Ö¸Êý
+Fund id : 501019 --¡¾pageNo:2, maxPage: 2, (i+1): 21, trs.size: 25  --¡¿
+Fund id : 501019 --¡¾pageNo:2, maxPage: 2, (i+1): 22, trs.size: 25  --¡¿
+Fund id : 501019 --¡¾pageNo:2, maxPage: 2, (i+1): 23, trs.size: 25  --¡¿
+Fund id : 501019 --¡¾pageNo:2, maxPage: 2, (i+1): 24, trs.size: 25  --¡¿
+T^T  20.7254900%  T^T
+Fund Name: 773 . ÄÏ·½¿ªÔª»¦Éî300ETFÁª½ÓA
+T^T  60.0509200%  T^T
+Fund Name: 774 . ¼ÎÊµ¸»Ê±ÖÐ¹úA50ETF
+Fund id : 512550 --¡¾pageNo:1, maxPage: 1, (i+1): 2, trs.size: 6  --¡¿
+Fund id : 512550 --¡¾pageNo:1, maxPage: 1, (i+1): 3, trs.size: 6  --¡¿
+Fund id : 512550 --¡¾pageNo:1, maxPage: 1, (i+1): 4, trs.size: 6  --¡¿
+Fund id : 512550 --¡¾pageNo:1, maxPage: 1, (i+1): 5, trs.size: 6  --¡¿
+(¡Ñ_¡Ñ)  0.1795900%  (¡Ñ_¡Ñ)
+Fund Name: 775 . ÆÖÒø»¦¸ÛÉî»ù±¾Ãæ100Ö¸Êý
+Fund id : 166402 --¡¾pageNo:1, maxPage: 1, (i+1): 39, trs.size: 46  --¡¿
+Fund id : 166402 --¡¾pageNo:1, maxPage: 1, (i+1): 40, trs.size: 46  --¡¿
+Fund id : 166402 --¡¾pageNo:1, maxPage: 1, (i+1): 41, trs.size: 46  --¡¿
+Fund id : 166402 --¡¾pageNo:1, maxPage: 1, (i+1): 42, trs.size: 46  --¡¿
+Fund id : 166402 --¡¾pageNo:1, maxPage: 1, (i+1): 43, trs.size: 46  --¡¿
+Fund id : 166402 --¡¾pageNo:1, maxPage: 1, (i+1): 44, trs.size: 46  --¡¿
+(¡Ñ_¡Ñ)  6.4691500%  (¡Ñ_¡Ñ)
+Fund Name: 776 . ¹ã·¢´´Òµ°åETFÁª½ÓA
+Fund id : 003765 --¡¾pageNo:1, maxPage: 1, (i+1): 34, trs.size: 38  --¡¿
+Fund id : 003765 --¡¾pageNo:1, maxPage: 1, (i+1): 35, trs.size: 38  --¡¿
+Fund id : 003765 --¡¾pageNo:1, maxPage: 1, (i+1): 36, trs.size: 38  --¡¿
+(¡Ñ_¡Ñ)  9.7037700%  (¡Ñ_¡Ñ)
+Fund Name: 777 . ÄÏ·½ÖÐÖ¤ÒøÐÐETF
+Fund id : 512700 --¡¾pageNo:1, maxPage: 1, (i+1): 7, trs.size: 13  --¡¿
+Fund id : 512700 --¡¾pageNo:1, maxPage: 1, (i+1): 8, trs.size: 13  --¡¿
+Fund id : 512700 --¡¾pageNo:1, maxPage: 1, (i+1): 9, trs.size: 13  --¡¿
+Fund id : 512700 --¡¾pageNo:1, maxPage: 1, (i+1): 10, trs.size: 13  --¡¿
+Fund id : 512700 --¡¾pageNo:1, maxPage: 1, (i+1): 11, trs.size: 13  --¡¿
+Fund id : 512700 --¡¾pageNo:1, maxPage: 1, (i+1): 12, trs.size: 13  --¡¿
+(¡Ñ_¡Ñ)  1.2854700%  (¡Ñ_¡Ñ)
+Fund Name: 778 . ¹ã·¢ÖÐÖ¤È«Ö¸¿ÉÑ¡Ïû·ÑÁª½ÓA
+Fund id : 001133 --¡¾pageNo:11, maxPage: 12, (i+1): 47, trs.size: 50  --¡¿
+Fund id : 001133 --¡¾pageNo:11, maxPage: 12, (i+1): 48, trs.size: 50  --¡¿
+Fund id : 001133 --¡¾pageNo:11, maxPage: 12, (i+1): 49, trs.size: 50  --¡¿
+Fund id : 001133 --¡¾pageNo:11, maxPage: 12, (i+1): 50, trs.size: 50  --¡¿
+Fund id : 001133 --¡¾pageNo:12, maxPage: 12, (i+1): 1, trs.size: 2  --¡¿
+T^T  50.6843300%  T^T
+Fund Name: 779 . ¹¤ÒøÉúÌ¬»·¾³¹ÉÆ±
+Fund id : 001245 --¡¾pageNo:11, maxPage: 11, (i+1): 13, trs.size: 18  --¡¿
+Fund id : 001245 --¡¾pageNo:11, maxPage: 11, (i+1): 14, trs.size: 18  --¡¿
+Fund id : 001245 --¡¾pageNo:11, maxPage: 11, (i+1): 15, trs.size: 18  --¡¿
+Fund id : 001245 --¡¾pageNo:11, maxPage: 11, (i+1): 16, trs.size: 18  --¡¿
+Fund id : 001245 --¡¾pageNo:11, maxPage: 11, (i+1): 17, trs.size: 18  --¡¿
+T^T  30.2769800%  T^T
+Fund Name: 780 . ¹úÍ¶ÈðÒøÏû·Ñ·þÎñÖ¸Êý
+T^T  66.5543800%  T^T
+Fund Name: 781 . ¹ã·¢ÖÐÖ¤È«Ö¸½¨Öþ²ÄÁÏÖ¸ÊýC
+(¡Ñ_¡Ñ)  0%  (¡Ñ_¡Ñ)
+Fund Name: 782 . ¹ã·¢ÖÐÖ¤È«Ö¸Æû³µÖ¸ÊýC
+(¡Ñ_¡Ñ)  0%  (¡Ñ_¡Ñ)
+Fund Name: 783 . ÈÚÍ¨´´Òµ°åÖ¸ÊýC
+(¡Ñ_¡Ñ)  9.7315400%  (¡Ñ_¡Ñ)
+Fund Name: 784 . ÈÚÍ¨¾Þ³±100Ö¸ÊýC
+(¡Ñ_¡Ñ)  4.5378200%  (¡Ñ_¡Ñ)
+Fund Name: 785 . ÈÚÍ¨ÉîÖ¤³É·ÝÖ¸ÊýC
+(¡Ñ_¡Ñ)  4.6242800%  (¡Ñ_¡Ñ)
+Fund Name: 786 . ¹úÌ©ÖÇÄÜÆû³µ¹ÉÆ±
+(¡Ñ_¡Ñ)  0%  (¡Ñ_¡Ñ)
+Fund Name: 787 . ÈÚÍ¨ÉîÖ¤100Ö¸ÊýC
+(¡Ñ_¡Ñ)  3.3886100%  (¡Ñ_¡Ñ)
+Fund Name: 788 . ÅµµÂÉîÖ¤300Ö¸Êý·Ö¼¶
+T^T  69.4251700%  T^T
+Fund Name: 789 . ¼ÎÊµÏÈ½øÖÆÔì¹ÉÆ±
+Fund id : 001039 --¡¾pageNo:11, maxPage: 11, (i+1): 10, trs.size: 21  --¡¿
+Fund id : 001039 --¡¾pageNo:11, maxPage: 11, (i+1): 11, trs.size: 21  --¡¿
+Fund id : 001039 --¡¾pageNo:11, maxPage: 11, (i+1): 12, trs.size: 21  --¡¿
+Fund id : 001039 --¡¾pageNo:11, maxPage: 11, (i+1): 13, trs.size: 21  --¡¿
+Fund id : 001039 --¡¾pageNo:11, maxPage: 11, (i+1): 14, trs.size: 21  --¡¿
+Fund id : 001039 --¡¾pageNo:11, maxPage: 11, (i+1): 15, trs.size: 21  --¡¿
+Fund id : 001039 --¡¾pageNo:11, maxPage: 11, (i+1): 16, trs.size: 21  --¡¿
+Fund id : 001039 --¡¾pageNo:11, maxPage: 11, (i+1): 17, trs.size: 21  --¡¿
+Fund id : 001039 --¡¾pageNo:11, maxPage: 11, (i+1): 18, trs.size: 21  --¡¿
+Fund id : 001039 --¡¾pageNo:11, maxPage: 11, (i+1): 19, trs.size: 21  --¡¿
+Fund id : 001039 --¡¾pageNo:11, maxPage: 11, (i+1): 20, trs.size: 21  --¡¿
+T^T  46.3719800%  T^T
+Fund Name: 790 . ¹¤ÒøÖÐÖ¤»·±£²úÒµÖ¸Êý·Ö¼¶
+Fund id : 164819 --¡¾pageNo:10, maxPage: 10, (i+1): 45, trs.size: 49  --¡¿
+Fund id : 164819 --¡¾pageNo:10, maxPage: 10, (i+1): 47, trs.size: 49  --¡¿
+T^T  42.7626400%  T^T
+Fund Name: 791 . ³¤ÐÅÁ¿»¯¶à²ßÂÔ¹ÉÆ±C
+(¡Ñ_¡Ñ)  3.1872500%  (¡Ñ_¡Ñ)
+Fund Name: 792 . ¹ã·¢ÖÐÖ¤È«Ö¸Æû³µÖ¸ÊýA
+(¡Ñ_¡Ñ)  0%  (¡Ñ_¡Ñ)
+Fund Name: 793 . »ãÌí¸»ÖÐÖ¤»¥ÁªÍøÒ½ÁÆÖ¸ÊýC
+Fund id : 501008 --¡¾pageNo:3, maxPage: 3, (i+1): 14, trs.size: 25  --¡¿
+Fund id : 501008 --¡¾pageNo:3, maxPage: 3, (i+1): 16, trs.size: 25  --¡¿
+Fund id : 501008 --¡¾pageNo:3, maxPage: 3, (i+1): 18, trs.size: 25  --¡¿
+Fund id : 501008 --¡¾pageNo:3, maxPage: 3, (i+1): 19, trs.size: 25  --¡¿
+Fund id : 501008 --¡¾pageNo:3, maxPage: 3, (i+1): 20, trs.size: 25  --¡¿
+Fund id : 501008 --¡¾pageNo:3, maxPage: 3, (i+1): 21, trs.size: 25  --¡¿
+Fund id : 501008 --¡¾pageNo:3, maxPage: 3, (i+1): 23, trs.size: 25  --¡¿
+(¡Ñ_¡Ñ)  13.0343800%  (¡Ñ_¡Ñ)
+Fund Name: 794 . ¹ã·¢ÖÐÖ¤È«Ö¸½¨Öþ²ÄÁÏÖ¸ÊýA
+(¡Ñ_¡Ñ)  0%  (¡Ñ_¡Ñ)
+Fund Name: 795 . ÐÅ³ÏÖÐÖ¤»ù½¨¹¤³ÌÖ¸ÊýLOF
+T^T  29.7337300%  T^T

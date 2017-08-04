@@ -3,6 +3,7 @@ package com.lu.wang.grepFundData;
 import java.io.IOException;
 import java.math.BigDecimal;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 import net.sf.json.JSONObject;
@@ -28,7 +29,22 @@ import com.lu.wang.grepFundData.utils.PropertiesUtil;
 public class GrepIds {
 	
 	static final String EXTRA_CONTENT = "=";
-	
+	static int START_PAGE = 17;
+	static int STOP_PAGE = 21;
+	static int[] top = {705, 722, 746, 768, 781, 782, 786, 792, 794, 763, 757, 
+		752, 774, 765, 743, 770, 727, 728, 744, 769, 717, 670, 766, 777, 701, 
+		669, 706, 791, 742, 787, 718, 694, 771, 693, 740, 761, 784, 785, 664, 
+		602, 651, 677, 737, 754, 684, 775, 687, 600, 695, 557, 536, 662, 719, 
+		759, 525, 691, 663, 749, 751, 665, 619, 683, 631, 636, 698, 653, 650, 
+		734, 721, 609, 760, 747, 635, 558, 764, 613, 707, 753, 776, 716, 783, 
+		715, 601, 730, 482, 731, 163, 520, 700, 593, 594, 615, 627, 623, 686, 
+		642, 599, 688, 628, 646, 659, 767, 480, 485, 533, 625, 568, 435, 569, 
+		477, 561, 668, 634, 733, 528, 710, 793, 612, 604, 598, 421, 676, 420, 
+		329, 585, 532, 758, 617, 575, 541, 616, 704, 624, 473, 611, 596, 345, 
+		597, 436, 555, 645, 554, 608, 630, 724, 519, 467, 675, 621, 540, 481, 
+		449, 553, 515, 551, 571, 660, 614, 603, 690, 622, 478, 655, 495, 524, 
+		450, 439, 626, 535, 534, 538, 486, 610, 468, 476, 584, 487, 539, 484, 305};
+
 	private GrepIds(){
 	}
 	
@@ -38,9 +54,9 @@ public class GrepIds {
 				Constants.TTFund.OPEN_STOCK_URL);
 		
 		//获取页码
-		int pageCnt = getPageCnt(baseUrl + 1);
+//		int pageCnt = getPageCnt(baseUrl + 1);
 		
-		for(int pageNo = 1; pageNo<=pageCnt; pageNo++) {
+		for(int pageNo = START_PAGE; pageNo<=STOP_PAGE; pageNo++) {
 			//每一页的FUND
 			
 			String baseHtml = getTable(baseUrl + pageNo);
@@ -49,7 +65,7 @@ public class GrepIds {
 			
 			for(FundInfo fundInfo : fundInfos) {
 				//get到当前页FundInfo
-				System.out.println("Fund Name: " + fundInfo.getFundName());
+				System.out.println("Fund Name: " + fundInfo.getId() + " . " + fundInfo.getFundName());
 				//270010&page=1&per=20
 				String dailyRate1stPageUrl = PropertiesUtil.getProperty(Constants.PROPER_FILE, 
 						Constants.TTFund.OPEN_STOCK_EVERY_URL) + fundInfo.getFundId() 
@@ -80,7 +96,7 @@ public class GrepIds {
 		
 	}
 	
-	private static String getTable(String url) {
+	protected static String getTable(String url) {
 		
 		String htmlStr = pickData(url);
 		if(!StringUtil.isBlank(htmlStr)) {
@@ -110,7 +126,7 @@ public class GrepIds {
 		
 	}
 	
-	private static int getPageCnt(String url) {
+	protected static int getPageCnt(String url) {
 		
 		String htmlStr = pickData(url);
 		if(!StringUtil.isBlank(htmlStr)) {
@@ -138,7 +154,7 @@ public class GrepIds {
 		
 	}
 	
-	private static String pickData(String url) {
+	public static String pickData(String url) {
 		String rawStr = pickRawData(url);
 		if(null != rawStr && -1 != rawStr.indexOf(EXTRA_CONTENT)) {
 			return rawStr.substring(rawStr.indexOf(EXTRA_CONTENT) + 1);
@@ -184,7 +200,7 @@ public class GrepIds {
 		return null;
 	}
 	
-	private static List<DayValue> analyzeDailyHTMLByString(String tableHtml, int pageNo, int maxPage, String fundId) {
+	protected static List<DayValue> analyzeDailyHTMLByString(String tableHtml, int pageNo, int maxPage, String fundId) {
 		
 		List<DayValue> dailys = new ArrayList<DayValue>();
 		Document doc = Jsoup.parse(tableHtml);
@@ -210,8 +226,9 @@ public class GrepIds {
 							//累积净值若为空，则提示
 							if(tds.get(2).text().trim().isEmpty()) {
 								System.err.println("No acc worth for " + "Fund id : " + fundId + " --【pageNo:" + pageNo + ", maxPage: " + maxPage + ", (i+1): " + (i+1) + ", trs.size: "+ trs.size() + "  --】");
+							} else {
+								daily.setAccuWorth(new BigDecimal(tds.get(2).text()));
 							}
-							daily.setAccuWorth(new BigDecimal(tds.get(2).text()));
 							if(tds.get(3).text().trim().isEmpty()) {
 								if((pageNo != maxPage) || ((i+1) != trs.size())) {
 									System.err.println("Fund id : " + fundId + " --【pageNo:" + pageNo + ", maxPage: " + maxPage + ", (i+1): " + (i+1) + ", trs.size: "+ trs.size() + "  --】");
@@ -296,7 +313,9 @@ public class GrepIds {
 	}
 	
 	public static void main(String[] args) {
+		System.out.println(new Date());
 		getFundInfo();
+		System.out.println(new Date());
 	}
 
 }

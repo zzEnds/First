@@ -25,6 +25,7 @@ public class Constants {
 		
 		public final static String OPEN_STOCK_URL = "ttjj.fund.open.stocktype.all"; //+pageNo
 		public final static String OPEN_STOCK_EVERY_URL = "ttjj.fund.open.stocktype.every"; //+fundId.html
+		public final static String OPEN_STOCK_MORE_URL = "ttjj.fund.open.stocktype.more";//+fundId.html
 		
 	}
 

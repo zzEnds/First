@@ -1,0 +1,202 @@
+Wed Aug 02 22:10:52 CST 2017
+Fund Name: 1 . 广发沪深300ETF联接A
+T^T  60.5162900%  T^T
+Fund Name: 2 . 景顺长城沪深300增强
+T^T  62.2910700%  T^T
+Fund Name: 3 . 工银深证红利联接
+T^T  60.1761300%  T^T
+Fund Name: 4 . 鹏华沪深300
+T^T  61.3821100%  T^T
+Fund Name: 5 . 申万量化小盘
+八月 02, 2017 10:12:09 下午 org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://fund.eastmoney.com:80: Connection reset
+八月 02, 2017 10:12:09 下午 org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://fund.eastmoney.com:80
+T^T  76.0082700%  T^T
+Fund Name: 6 . 华泰柏瑞沪深300联接
+T^T  59.0949100%  T^T
+Fund Name: 7 . 汇添富上证综指
+T^T  61.2617900%  T^T
+Fund Name: 8 . 海富通上证周期联接
+T^T  57.8475300%  T^T
+Fund Name: 9 . 泰达宏利首选企业股票
+T^T  74.0161200%  T^T
+Fund Name: 10 . 华宝中证100
+T^T  58.7803900%  T^T
+Fund Name: 11 . 华宝上证180成长联接
+T^T  55.5267300%  T^T
+Fund Name: 12 . 南方上证380ETF
+T^T  75.4392300%  T^T
+Fund Name: 13 . 大成深证成长40ETF
+T^T  59.9121700%  T^T
+Fund Name: 14 . 招商深证TMT50ETF
+T^T  89.9572900%  T^T
+Fund Name: 15 . 嘉实深证120ETF
+T^T  63.1992300%  T^T
+Fund Name: 16 . 易方达沪深300ETF
+八月 02, 2017 10:17:36 下午 org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://fund.eastmoney.com:80: Software caused connection abort: recv failed
+八月 02, 2017 10:17:36 下午 org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://fund.eastmoney.com:80
+Fund id : 510310 --【pageNo:22, maxPage: 22, (i+1): 21, trs.size: 22  --】
+T^T  61.6527100%  T^T
+Fund Name: 17 . 银华沪深300指数分级
+T^T  55.7768900%  T^T
+Fund Name: 18 . 银华深证100分级
+T^T  57.2293200%  T^T
+Fund Name: 19 . 万家中证红利指数
+T^T  66.5183900%  T^T
+Fund Name: 20 . 建信双利分级
+Fund id : 165310 --【pageNo:13, maxPage: 31, (i+1): 30, trs.size: 50  --】
+Fund id : 165310 --【pageNo:18, maxPage: 31, (i+1): 24, trs.size: 50  --】
+T^T  57.7297300%  T^T
+Fund Name: 21 . 建信央视50
+Fund id : 165312 --【pageNo:13, maxPage: 21, (i+1): 30, trs.size: 50  --】
+T^T  51.3591100%  T^T
+Fund Name: 22 . 信诚中证500分级
+T^T  72.6822000%  T^T
+Fund Name: 23 . 中证500沪市ETF
+T^T  73.5356000%  T^T
+Fund Name: 24 . 广发中证500ETF
+T^T  71.8406200%  T^T
+Fund Name: 25 . 农银中证500
+T^T  74.2542600%  T^T
+Fund Name: 26 . 上证医药卫生ETF
+T^T  55.6829800%  T^T
+Fund Name: 27 . 华泰柏瑞上证红利ETF
+T^T  80.7071500%  T^T
+Fund Name: 28 . 博时上证超大盘联接
+T^T  56.0360500%  T^T
+Fund Name: 29 . 建信责任联接
+八月 02, 2017 10:21:53 下午 org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://fund.eastmoney.com:80: Connection reset
+八月 02, 2017 10:21:53 下午 org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://fund.eastmoney.com:80
+T^T  60.8021400%  T^T
+Fund Name: 30 . 海富通中证100
+T^T  59.7993300%  T^T
+Fund Name: 31 . 浦银沪深300增强
+T^T  59.5281300%  T^T
+Fund Name: 32 . 景顺长城上证180联接
+T^T  63.0067600%  T^T
+Fund Name: 33 . 申万菱信中小板指数
+T^T  73.1460900%  T^T
+Fund Name: 34 . 海富通上证非周期联接
+T^T  66.2857100%  T^T
+Fund Name: 35 . 招商央视财经50指数A
+Fund id : 217027 --【pageNo:22, maxPage: 22, (i+1): 42, trs.size: 43  --】
+T^T  53.4402500%  T^T
+Fund Name: 36 . 博时上证自然资源ETF
+T^T  57.7355700%  T^T
+Fund Name: 37 . 海富通中证内地低碳指数
+八月 02, 2017 10:27:01 下午 org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://fund.eastmoney.com:80: Software caused connection abort: recv failed
+八月 02, 2017 10:27:01 下午 org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://fund.eastmoney.com:80
+T^T  69.5602700%  T^T
+Fund Name: 38 . 融通创业板指数增强
+T^T  72.5436500%  T^T
+Fund Name: 39 . 长安沪深300非周期
+T^T  59.0383700%  T^T
+Fund Name: 40 . 博时深证200联接
+T^T  62.9913300%  T^T
+Fund Name: 41 . 工银深证100指数分级
+T^T  56.2811700%  T^T
+Fund Name: 42 . 招商深证100指数A
+T^T  59.4134900%  T^T
+Fund Name: 43 . 华安中国A股增强指数
+T^T  91.1138400%  T^T
+Fund Name: 44 . 东吴中证新兴产业
+T^T  72.9400300%  T^T
+Fund Name: 45 . 嘉实研究阿尔法股票
+T^T  61.3073500%  T^T
+Fund Name: 46 . 招商上证消费80ETF
+八月 02, 2017 10:29:22 下午 org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://fund.eastmoney.com:80: Connection reset
+八月 02, 2017 10:29:22 下午 org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://fund.eastmoney.com:80
+T^T  83.8013700%  T^T
+Fund Name: 47 . 嘉实中创400ETF
+T^T  80.5783100%  T^T
+Fund Name: 48 . 国联安上证商品ETF
+八月 02, 2017 10:29:45 下午 org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://fund.eastmoney.com:80: Connection reset
+八月 02, 2017 10:29:45 下午 org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://fund.eastmoney.com:80
+T^T  71.1370300%  T^T
+Fund Name: 49 . 华安上证180ETF
+T^T  96.5050300%  T^T
+Fund Name: 50 . 华安上证龙头ETF
+T^T  81.0774800%  T^T
+Fund Name: 51 . 富国上证综指ETF
+T^T  81.9802000%  T^T
+Fund Name: 52 . 诺安中证100
+T^T  59.9451300%  T^T
+Fund Name: 53 . 华宝上证180成长ETF
+T^T  57.3643400%  T^T
+Fund Name: 54 . 华泰柏瑞沪深300ETF
+T^T  60.8819800%  T^T
+Fund Name: 55 . 交银上证180治理ETF
+T^T  63.5409800%  T^T
+Fund Name: 56 . 易方达上证中盘ETF
+T^T  85.3146300%  T^T
+Fund Name: 57 . 博时沪深300指数A
+T^T  81.6686700%  T^T
+Fund Name: 58 . 国联安中证医药100
+T^T  62.2817700%  T^T
+Fund Name: 59 . 国泰上证180金融联接
+T^T  59.4900300%  T^T
+Fund Name: 60 . 建信深证100增强
+T^T  63.1080800%  T^T
+Fund Name: 61 . 鹏华上证民企50ETF联接
+T^T  67.3823700%  T^T
+Fund Name: 62 . 华泰柏瑞中小盘联接
+T^T  69.5606100%  T^T
+Fund Name: 63 . 嘉实深证120联接
+T^T  61.1045700%  T^T
+Fund Name: 64 . 长盛中证100
+T^T  78.6966600%  T^T
+Fund Name: 65 . 平安大华深证300
+T^T  68.7868100%  T^T
+Fund Name: 66 . 国泰国证房地产行业指数分级
+Fund id : 160218 --【pageNo:22, maxPage: 22, (i+1): 36, trs.size: 37  --】
+T^T  66.5204800%  T^T
+Fund Name: 67 . 浦银安盛基本面400指数
+T^T  70.1580300%  T^T
+Fund Name: 68 . 嘉实基本面50
+T^T  63.4034000%  T^T
+Fund Name: 69 . 长盛沪深300
+T^T  59.4827600%  T^T
+Fund Name: 70 . 长盛同辉100等权分级
+T^T  68.7809700%  T^T
+Fund Name: 71 . 上投大盘蓝筹
+T^T  67.0539000%  T^T
+Fund Name: 72 . 万家180指数
+T^T  84.9657500%  T^T
+Fund Name: 73 . 易方达创业板ETF联接A
+T^T  81.5300900%  T^T
+Fund Name: 74 . 融通深证成份指数A
+T^T  59.2334500%  T^T
+Fund Name: 75 . 宝盈中证100增强
+T^T  57.6647100%  T^T
+Fund Name: 76 . 大成沪深300指数
+T^T  76.5177700%  T^T
+Fund Name: 77 . 国投瑞银沪深300
+T^T  64.1159700%  T^T
+Fund Name: 78 . 国泰上证180金融ETF
+T^T  86.3427500%  T^T
+Fund Name: 79 . 国投瑞银中证指数
+T^T  54.6769500%  T^T
+Fund Name: 80 . 银河沪深300成长分级
+T^T  52.2465400%  T^T
+Fund Name: 81 . 银华道琼斯88
+T^T  67.7214500%  T^T
+Fund Name: 82 . 国泰沪深300
+Fund id : 020011 --【pageNo:47, maxPage: 48, (i+1): 50, trs.size: 50  --】
+No acc worth for Fund id : 020011 --【pageNo:48, maxPage: 48, (i+1): 1, trs.size: 1  --】
+Exception in thread "main" java.lang.NumberFormatException
+	at java.math.BigDecimal.<init>(Unknown Source)
+	at java.math.BigDecimal.<init>(Unknown Source)
+	at com.lu.wang.grepFundData.GrepIds.analyzeDailyHTMLByString(GrepIds.java:215)
+	at com.lu.wang.grepFundData.GrepIds.getFundInfo(GrepIds.java:71)
+	at com.lu.wang.grepFundData.GrepIds.main(GrepIds.java:301)
