@@ -1,4 +1,4 @@
-package com.lu.wang.working;
+package com.lu.wang.solved;
 
 import java.util.Scanner;
 
@@ -26,8 +26,6 @@ public class A580 {
 	}
 	
 	public static void codeforces() {
-
-
 		
 		Scanner in = new Scanner(System.in);
 		int cnt = in.nextInt();
@@ -45,8 +43,8 @@ public class A580 {
 			} else {
 				if(res < len) {
 					res = len;
-					len = 1;
 				}
+				len = 1;
 			}
 			
 			lastOne = tmp;
@@ -60,40 +58,6 @@ public class A580 {
 		
 	
 	}
-	
-//	public static void codeforces() {
-//
-//		
-//		Scanner in = new Scanner(System.in);
-//		int cnt = in.nextInt();
-//		
-//		int res = 1;
-//		int lastOne = 0;
-//		int len = 0;
-//		
-//		for(int i=0; i<cnt; i++) {
-//			int tmp = in.nextInt();
-//			
-//			if(lastOne <= tmp) {
-//				len++;
-//				
-//			} else {
-//				if(res < len) {
-//					res = len;
-//					len = 1;
-//				}
-//			}
-//			
-//			lastOne = tmp;
-//		}
-//		
-//		if(res < len) {
-//			res = len;
-//		}
-//		
-//		System.out.println(res);
-//		
-//	}
 	
 	
 }
